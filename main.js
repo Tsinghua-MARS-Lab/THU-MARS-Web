@@ -21,9 +21,8 @@ var main = {
     ],
 
     about_our_leader: [
-        'Hey, I am Hang Zhao, an assistant professor at IIIS, Tsinghua University. My research interests include computer vision, cross modal machine learning and autonomous driving.',
-        'I was a Research Scientist at Waymo (known as Google\'s self-driving project). Before that, I got my Ph.D. degree at MIT under Professor Antonio Torralba (the Great Torralba!), and my M.S. under Professor Ramesh Raskar. Before MIT, I received my B.S. from CKC Honors College, Zhejiang University.',
-        'We are building MARS Lab, I am actively looking for PostDoc/PhD/BS students with CS/EE background to join my team. If you would like to work with me, feel free to drop me an email with your resume.'
+        'Dr. Hang Zhao is an Assistant Professor at IIIS, Tsinghua University. His research interests include computer vision, cross modal machine learning and autonomous driving.',
+        'Dr. Zhao was a Research Scientist at Waymo (known as Google\'s self-driving project). Before that, he got his Ph.D. degree at MIT under Professor Antonio Torralba.'
     ],
 
     graduate_students: [
