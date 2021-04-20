@@ -1,21 +1,21 @@
 var main = {
-    about_our_lab: 'MARS Lab is',
+    about_our_lab: 'MARS Lab is an interdisciplinary AI lab working on a range of moonshot problems. Making impossible possible, our goal is the beyond the Mars.',
 
     overview_of_research_directions: [
         {
-            content: 'Multimedia is',
+            content: 'Multimedia',
             image: 'multimedia.png'
         },
         {
-            content: 'Autonomous vehicles is',
+            content: 'Autonomous Vehicles',
             image: 'autonomous_vehicles.png'
         },
         {
-            content: 'Robotics is',
+            content: 'Robotics',
             image: 'robotics.png'
         },
         {
-            content: 'Sensors is',
+            content: 'Sensors',
             image: 'sensors.png'
         },
     ],
