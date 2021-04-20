@@ -21,38 +21,47 @@ var main = {
     ],
 
     about_our_leader: [
-        'Dr. Hang Zhao is an Assistant Professor at IIIS, Tsinghua University. His research interests include computer vision, cross modal machine learning and autonomous driving.',
+        'Dr. Hang Zhao is an Assistant Professor at IIIS, Tsinghua University. His research interests include multi-modal machine learning, computer vision and autonomous driving.',
         'Dr. Zhao was a Research Scientist at Waymo (known as Google\'s self-driving project). Before that, he got his Ph.D. degree at MIT under Professor Antonio Torralba.'
     ],
 
     graduate_students: [
         {
-            name: 'Ming Xiao',
+            name: 'Chenzhuang Du',
             website: 'https://github.com/Tsinghua-MARS-Lab/',
         },
         {
-            name: 'Ming Xiao',
+            name: 'Junru Gu',
             website: 'https://github.com/Tsinghua-MARS-Lab/',
         },
         {
-            name: 'Ming Xiao',
+            name: 'Chenxu Hu',
             website: 'https://github.com/Tsinghua-MARS-Lab/',
         },
         {
-            name: 'Ming Xiao',
+            name: 'Wenxiao Wang',
             website: 'https://github.com/Tsinghua-MARS-Lab/',
         },
         {
-            name: 'Ming Xiao',
+            name: 'Yichen Liu',
+            website: 'https://github.com/Tsinghua-MARS-Lab/',
+        },
+    ],
+    
+    research_assistants: [
+        {
+            name: 'Zihui Xue',
             website: 'https://github.com/Tsinghua-MARS-Lab/',
         },
         {
-            name: 'Ming Xiao',
+            name: 'Tingle Li',
             website: 'https://github.com/Tsinghua-MARS-Lab/',
         },
         {
-            name: 'Ming Xiao',
+            name: 'Tianyu Hua',
             website: 'https://github.com/Tsinghua-MARS-Lab/',
         },
-    ]
+    ],
+    
+    alumni: [],
 }
