@@ -35,7 +35,7 @@ const main = {
     {
       name: 'Chenzhuang Du',
       website: '',
-      content: 'Chenzhuang DuChenzhuang DuChenzhuang DuChenzhuang DuChenzhuang DuChenzhuang DuvChenzhuang Du',
+      content: '',
       image: '',
     },
     {
@@ -47,7 +47,7 @@ const main = {
     {
       name: 'Chenxu Hu',
       website: '',
-      content: 'Dr. Hang Zhao is an Assistant Professor at IIIS, Tsinghua University. His research interests include multi-modal machine learning, computer vision and autonomous driving.',
+      content: '',
       image: '',
     },
     {
