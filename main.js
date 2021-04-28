@@ -1,7 +1,7 @@
 const main = {
-  title: 'We’re building the World’s Most Experienced MARS Lab',
+  title: 'Our Missions are Beyond Mars',
 
-  about_our_lab: 'MARS Lab is an interdisciplinary AI lab working on a range of moonshot problems. Making impossible possible, our goal is the beyond the Mars.',
+  about_our_lab: 'MARS Lab is an interdisciplinary AI lab working on a range of moonshot problems.',
 
   overview_of_research_directions: [
     {
