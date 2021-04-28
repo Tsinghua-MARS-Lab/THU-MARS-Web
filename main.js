@@ -1,17 +1,17 @@
 const main = {
   title: 'Our Missions are Beyond Mars',
 
-  about_our_lab: 'MARS Lab is an interdisciplinary AI lab working on a range of moonshot problems.',
+  about_our_lab: 'MARS Lab is an interdisciplinary AI lab working on a range of moonshot problems. Currently we focus on four areas: (1) Multimodal learning, (2) Autonomous Driving, (3) Robotics, (4) Sensors. \n MARS Lab多模态学习实验室，是一个交叉学科的人工智能实验室，尝试解决一系列探索性的AI问题。当前，我们主要研究以下几个方向：（1）多模态学习，（2）自动驾驶，（3）机器人，（4）传感器。',
 
   overview_of_research_directions: [
     {
-      title: 'Multimedia',
+      title: 'Multimodal Learning',
       content: 'Multimedia is',
       image: 'multimedia.png'
     },
     {
-      title: 'Autonomous Vehicles',
-      content: 'Autonomous Vehicles is',
+      title: 'Autonomous Driving',
+      content: 'Autonomous Driving is',
       image: 'autonomous_vehicles.png'
     },
     {
@@ -21,7 +21,7 @@ const main = {
     },
     {
       title: 'Sensors',
-      content: 'Sensors is',
+      content: 'We develop novel sensors to enable brand-new applications.',
       image: 'sensors.png'
     },
   ],
