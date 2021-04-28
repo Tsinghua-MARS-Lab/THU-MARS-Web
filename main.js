@@ -36,7 +36,7 @@ const main = {
       name: 'Chenzhuang Du',
       website: '',
       content: '',
-      image: '',
+      image: 'kenan.jpeg',
     },
     {
       name: 'Junru Gu',
