@@ -42,18 +42,6 @@ const main = {
       image: 'kenan.jpeg',
     },
     {
-      name: 'Junru Gu',
-      website: 'https://github.com/GentleSmile',
-      content: 'Junru Gu is a fourth year undergraduate student at Tsinghua University. He will be a graduate student in the fall of 2021.',
-      image: 'gujunru.png',
-    },
-    {
-      name: 'Chenxu Hu',
-      website: '',
-      content: '',
-      image: 'kenan.jpeg',
-    },
-    {
       name: 'Wenxiao Wang',
       website: '',
       content: '',
@@ -61,6 +49,18 @@ const main = {
     },
     {
       name: 'Yichen Liu',
+      website: '',
+      content: '',
+      image: 'kenan.jpeg',
+    },
+    {
+      name: 'Junru Gu',
+      website: 'https://github.com/GentleSmile',
+      content: 'Junru Gu is a fourth year undergraduate student at Tsinghua University. He will be a graduate student in the fall of 2021.',
+      image: 'gujunru.png',
+    },
+    {
+      name: 'Chenxu Hu',
       website: '',
       content: '',
       image: 'kenan.jpeg',
