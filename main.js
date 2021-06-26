@@ -27,37 +27,37 @@ const main = {
   ],
 
   about_our_leader: [
-    'Dr. Hang Zhao is an Assistant Professor at IIIS, Tsinghua University. His research interests include multi-modal machine learning, computer vision and autonomous driving.',
+    'Dr. Hang Zhao (赵行) is an Assistant Professor at IIIS, Tsinghua University. His research interests include multi-modal machine learning, computer vision and autonomous driving.',
     'Dr. Zhao was a Research Scientist at Waymo (known as Google\'s self-driving project). Before that, he got his Ph.D. degree at MIT under Professor Antonio Torralba.'
   ],
 
   graduate_students: [
     {
-      name: 'Chenzhuang Du',
+      name: 'Chenzhuang Du 杜晨壮',
       website: '',
       content: '',
       image: 'kenan.jpeg',
     },
     {
-      name: 'Wenxiao Wang',
+      name: 'Wenxiao Wang 汪文潇',
       website: '',
       content: '',
       image: 'kenan.jpeg',
     },
     {
-      name: 'Yichen Liu',
+      name: 'Yichen Liu 刘奕辰',
       website: '',
       content: '',
       image: 'kenan.jpeg',
     },
     {
-      name: 'Junru Gu',
+      name: 'Junru Gu 辜俊儒',
       website: 'https://github.com/GentleSmile',
       content: 'Junru Gu is a fourth year undergraduate student at Tsinghua University. He will be a graduate student in the fall of 2021.',
       image: 'gujunru.png',
     },
     {
-      name: 'Chenxu Hu',
+      name: 'Chenxu Hu 胡晨旭',
       website: '',
       content: '',
       image: 'kenan.jpeg',
@@ -66,19 +66,25 @@ const main = {
 
   research_assistants: [
     {
-      name: 'Zihui Xue',
+      name: 'Zihui Xue 薛子慧',
       website: 'https://github.com/Tsinghua-MARS-Lab/',
       content: '',
       image: 'kenan.jpeg',
     },
     {
-      name: 'Tingle Li',
+      name: 'Tingle Li 黎庭乐',
       website: 'https://github.com/Tsinghua-MARS-Lab/',
       content: '',
       image: 'kenan.jpeg',
     },
     {
-      name: 'Tianyu Hua',
+      name: 'Tianyu Hua 华天羽',
+      website: 'https://github.com/Tsinghua-MARS-Lab/',
+      content: '',
+      image: 'kenan.jpeg',
+    },
+    {
+      name: 'Tianyuan Zhang 张天远',
       website: 'https://github.com/Tsinghua-MARS-Lab/',
       content: '',
       image: 'kenan.jpeg',
