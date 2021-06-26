@@ -84,6 +84,12 @@ const main = {
       image: 'kenan.jpeg',
     },
     {
+      name: 'Ziwen Zhuang 庄子文',
+      website: 'https://github.com/Tsinghua-MARS-Lab/',
+      content: '',
+      image: 'kenan.jpeg',
+    },
+    {
       name: 'Tianyuan Zhang 张天远',
       website: 'https://github.com/Tsinghua-MARS-Lab/',
       content: '',
