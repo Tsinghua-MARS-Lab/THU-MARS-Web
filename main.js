@@ -2,7 +2,13 @@ const main = {
   title: 'Our Missions are Beyond Mars',
 
   // about_our_lab: migrated to THU-MARS-Web/about_our_lab.vue
-  
+
+  banner: [
+    'banner1.jpg',
+    'banner2.jpg',
+    'home.jpg',
+  ],
+
   overview_of_research_directions: [
     {
       title: 'Multimedia',
