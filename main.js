@@ -12,7 +12,7 @@ const main = {
   overview_of_research_directions: [
     {
       title: 'Multimedia Computing',
-      content: 'We develop models that learn from multi-modal Internet data including images, audios, videos and text.',
+      content: 'We train AI models that learn from multi-modal Internet data such as images, audios, videos and text.',
       image: 'multimedia.png'
     },
     {
@@ -22,12 +22,12 @@ const main = {
     },
     {
       title: 'Robotics',
-      content: 'We develop robots that learn from multiple sensory inputs to interact with the environment.',
+      content: 'We make robots that learn from multiple sensory inputs to interact with the environment.',
       image: 'robotics.png'
     },
     {
       title: 'Sensors',
-      content: 'We develop novel sensors to enable brand-new perception applications.',
+      content: 'We devise novel sensors together with AI models to enable brand-new perception applications.',
       image: 'sensors.png'
     },
   ],
