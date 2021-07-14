@@ -6,7 +6,6 @@ const main = {
   banner: [
     'banner1.jpg',
     'banner2.jpg',
-    'home.jpg',
   ],
 
   overview_of_research_directions: [
