@@ -1,5 +1,5 @@
 <template>
-  <div style="line-height: 23px; font-size: 100%">
+  <div style="font-size: 100%">
     <div style="margin-bottom: 10px">
       MARS Lab is an interdisciplinary AI lab at IIIS, Tsinghua University, led by
       <el-link type="primary" href="http://people.csail.mit.edu/hangzhao/" target="_blank">Professor Hang Zhao</el-link>
