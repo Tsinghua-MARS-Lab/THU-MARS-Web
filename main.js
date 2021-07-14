@@ -42,7 +42,7 @@ const main = {
       name: 'Chenzhuang Du 杜晨壮',
       website: '',
       content: 'Chenzhuang Du is a PhD student starting from 2020. He is interested in the fundamentals and applications of multi-modal learning.',
-      image: 'kenan.jpeg',
+      image: 'chenzhuang.jpg',
     },
     {
       name: 'Wenxiao Wang 汪文潇',
@@ -66,7 +66,7 @@ const main = {
       name: 'Chenxu Hu 胡晨旭',
       website: '',
       content: 'Chenxu Hu is a fourth year undergraduate student at Zhejiang University, and an incoming PhD student in the fall of 2021.',
-      image: 'kenan.jpeg',
+      image: 'chenxu.jpg',
     },
   ],
 
