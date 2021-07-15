@@ -103,6 +103,18 @@ const main = {
     },
   ],
 
+  projects: [
+    {
+      title: 'TNT: Target-driveN Trajectory Prediction',
+      authors: 'Hang Zhao*, Jiyang Gao*, Tian Lan, Chen Sun, Benjamin Sapp, Balakrishnan Varadarajan, Yue Shen, Yi Shen, Yuning Chai, Cordelia Schmid, Congcong Li, Dragomir Anguelov',
+      conference: 'CoRL 2020',
+      description: '"A new SOTA multi-trajectory prediction model."',
+      paper_website: 'https://arxiv.org/abs/2008.08294',
+      project_website: '',
+      image: 'tnt.png',
+    },
+  ],
+
   alumni: [],
 }
 
