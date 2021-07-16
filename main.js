@@ -73,33 +73,33 @@ const main = {
   research_assistants: [
     {
       name: 'Zihui Xue 薛子慧',
-      website: 'https://github.com/Tsinghua-MARS-Lab/',
+      website: '',
       content: 'Zihui Xue is a research assistant in the lab. She is interested in the fundamentals and applications of multi-modal learning.',
       image: 'kenan.jpeg',
     },
     {
       name: 'Tingle Li 黎庭乐',
-      website: 'https://github.com/Tsinghua-MARS-Lab/',
+      website: 'https://tinglok.netlify.app/',
       content: 'Zihui Xue is a research assistant in the lab. She is interested in the fundamentals and applications of multi-modal learning.',
-      image: 'kenan.jpeg',
+      image: 'tingle.jpg',
     },
     {
       name: 'Tianyu Hua 华天羽',
       website: 'https://patrickhua.github.io/',
       content: 'Tianyu Hua is a research assistant in the lab. He is interested in representation learning.',
-      image: 'kenan.jpeg',
+      image: 'tianyu.jpg',
     },
     {
       name: 'Ziwen Zhuang 庄子文',
-      website: 'https://github.com/Tsinghua-MARS-Lab/',
+      website: '',
       content: 'Ziwen Zhuang is a research assistant in the lab. He is interested in the multi-modal learning and robotics.',
       image: 'kenan.jpeg',
     },
     {
       name: 'Tianyuan Zhang 张天远',
-      website: 'https://github.com/Tsinghua-MARS-Lab/',
+      website: 'http://tianyuanzhang.com/',
       content: 'Tianyuan Zhang is a research assistant in the lab. He is interested in multi-modal learning and autonomous driving.',
-      image: 'kenan.jpeg',
+      image: 'tianyuan.jpg',
     },
   ],
 
