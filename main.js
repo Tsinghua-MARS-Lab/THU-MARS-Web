@@ -105,15 +105,6 @@ const main = {
 
   projects: [
     {
-      title: 'TNT: Target-driveN Trajectory Prediction',
-      publisher: 'CoRL 2020',
-      authors: 'Hang Zhao*, Jiyang Gao*, Tian Lan, Chen Sun, Benjamin Sapp, Balakrishnan Varadarajan, Yue Shen, Yi Shen, Yuning Chai, Cordelia Schmid, Congcong Li, Dragomir Anguelov',
-      description: '"A new SOTA multi-trajectory prediction model."',
-      paper_link: 'https://arxiv.org/abs/2008.08294',
-      project_link: '',
-      image: 'tnt.png',
-    },
-    {
       title: 'On Feature Decorrelation in Self-Supervised Learning',
       publisher: 'arXiv',
       authors: 'Tianyu Hua, Wenxiao Wang, Zihui Xue, Yue Wang, Sucheng Ren, Hang Zhao',
@@ -121,6 +112,15 @@ const main = {
       paper_link: 'https://arxiv.org/abs/2105.00470',
       project_link: 'https://tsinghua-mars-lab.github.io/decorr/',
       image: 'decorrelation.jpg',
+    },
+    {
+      title: 'TNT: Target-driveN Trajectory Prediction',
+      publisher: 'CoRL 2020',
+      authors: 'Hang Zhao*, Jiyang Gao*, Tian Lan, Chen Sun, Benjamin Sapp, Balakrishnan Varadarajan, Yue Shen, Yi Shen, Yuning Chai, Cordelia Schmid, Congcong Li, Dragomir Anguelov',
+      description: '"A new SOTA multi-trajectory prediction model."',
+      paper_link: 'https://arxiv.org/abs/2008.08294',
+      project_link: '',
+      image: 'tnt.png',
     },
   ],
 
