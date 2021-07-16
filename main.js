@@ -85,7 +85,7 @@ const main = {
     },
     {
       name: 'Tianyu Hua 华天羽',
-      website: 'https://github.com/Tsinghua-MARS-Lab/',
+      website: 'https://patrickhua.github.io/',
       content: 'Tianyu Hua is a research assistant in the lab. He is interested in representation learning.',
       image: 'kenan.jpeg',
     },
@@ -112,6 +112,15 @@ const main = {
       paper_link: 'https://arxiv.org/abs/2008.08294',
       project_link: '',
       image: 'tnt.png',
+    },
+    {
+      title: 'On Feature Decorrelation in Self-Supervised Learning',
+      publisher: 'arXiv',
+      authors: 'Tianyu Hua, Wenxiao Wang, Zihui Xue, Yue Wang, Sucheng Ren, Hang Zhao',
+      description: '“It reveals the connection between dimensional collapse and strong correlations”',
+      paper_link: 'https://arxiv.org/abs/2105.00470',
+      project_link: 'https://tsinghua-mars-lab.github.io/decorr/',
+      image: 'decorrelation.jpg',
     },
   ],
 
