@@ -101,6 +101,12 @@ const main = {
       content: 'Tianyuan Zhang is a research assistant in the lab. He is interested in computer vision and autonomous driving.',
       image: 'tianyuan.jpg',
     },
+    {
+      name: 'Xiaojie Xu 徐啸捷',
+      website: '',
+      content: 'Xiaojie Xu is a research assistant in the lab. He is interested in computer vision and autonomous driving.',
+      image: 'kenan.jpeg',
+    },
   ],
 
   projects: [
