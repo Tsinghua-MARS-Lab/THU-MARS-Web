@@ -122,6 +122,15 @@ const main = {
       project_link: '',
       image: 'tnt.png',
     },
+    {
+      title: 'VectorNet: Encoding HD Maps and Agent Dynamics from Vectorized Representation',
+      publisher: 'CVPR 2020',
+      authors: 'Jiyang Gao, Chen Sun, Hang Zhao, Yi Shen, Dragomir Anguelov, Congcong Li, Cordelia Schmid',
+      description: '"A graphical representation of HD maps."',
+      paper_link: 'https://openaccess.thecvf.com/content_CVPR_2020/papers/Gao_VectorNet_Encoding_HD_Maps_and_Agent_Dynamics_From_Vectorized_Representation_CVPR_2020_paper.pdf',
+      project_link: 'https://blog.waymo.com/2020/05/vectornet.html',
+      image: 'vectornet.gif',
+    },
   ],
 
   alumni: [],
