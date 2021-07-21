@@ -80,7 +80,7 @@ const main = {
     {
       name: 'Tingle Li 黎庭乐',
       website: 'https://tinglok.netlify.app/',
-      content: 'Zihui Xue is a research assistant in the lab. She is interested in the fundamentals and applications of multi-modal learning.',
+      content: 'Tingle Li is a research assistant in the lab. He is interested in audio-visual learning.',
       image: 'tingle.jpg',
     },
     {
@@ -92,13 +92,13 @@ const main = {
     {
       name: 'Ziwen Zhuang 庄子文',
       website: '',
-      content: 'Ziwen Zhuang is a research assistant in the lab. He is interested in the multi-modal learning and robotics.',
+      content: 'Ziwen Zhuang is a research assistant in the lab. He is interested in robotics.',
       image: 'kenan.jpeg',
     },
     {
       name: 'Tianyuan Zhang 张天远',
       website: 'http://tianyuanzhang.com/',
-      content: 'Tianyuan Zhang is a research assistant in the lab. He is interested in multi-modal learning and autonomous driving.',
+      content: 'Tianyuan Zhang is a research assistant in the lab. He is interested in computer vision and autonomous driving.',
       image: 'tianyuan.jpg',
     },
   ],
