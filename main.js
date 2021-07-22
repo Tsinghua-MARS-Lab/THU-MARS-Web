@@ -289,16 +289,16 @@ const main = {
     title: 'We are globally hiring top talents to join us.',
     content: [
       {
-        agent_type: 'PostDoc/PhD/BS Student',
-        description: '',
+        agent_type: 'PostDoc/PhD/BS Students',
+        description: 'If you would like to join our lab as a student. Please directly send your resume and transcript to Prof. Hang Zhao.',
       },
       {
-        agent_type: 'Research Assistant',
-        description: '',
+        agent_type: 'Research Assistants',
+        description: 'If you want to spend your gap year as a full-time (paid) research assistant in our lab. Please directly send your resume and transcript to Prof. Hang Zhao.',
       },
       {
-        agent_type: 'Engineer',
-        description: '',
+        agent_type: 'Engineers',
+        description: 'We have full-time engineer positions in our lab, related to autonomous driving and robotics. Please directly send your resume to Prof. Hang Zhao.',
       },
     ],
   },
