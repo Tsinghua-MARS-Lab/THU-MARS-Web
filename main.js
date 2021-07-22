@@ -126,7 +126,7 @@ const main = {
       description: '"An anchor-free multi-trajectory prediction model."',
       paper_link: 'https://arxiv.org/abs/2106.14160',
       project_link: '',
-      image: 'tnt.png',
+      image: 'densetnt.png',
     },
     {
       title: 'On Feature Decorrelation in Self-Supervised Learning',
