@@ -212,6 +212,24 @@ const main = {
   ],
 
   alumni: [],
+  
+  join_us: {
+    title: 'We are globally hiring top talents to join us.',
+    content: [
+      {
+        agent_type: 'PostDoc/PhD/BS Student',
+        description: '',
+      },
+      {
+        agent_type: 'Research Assistant',
+        description: '',
+      },
+      {
+        agent_type: 'Engineer',
+        description: '',
+      },
+    ],
+  },
 }
 
 export default main
