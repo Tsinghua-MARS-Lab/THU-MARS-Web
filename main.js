@@ -91,9 +91,9 @@ const main = {
     },
     {
       name: 'Ziwen Zhuang 庄子文',
-      website: '',
+      website: 'sites.google.com/view/ziwenzhuang',
       content: 'Ziwen Zhuang is a research assistant in the lab. He is interested in robotics.',
-      image: 'kenan.jpeg',
+      image: 'ziwen.jpg',
     },
     {
       name: 'Tianyuan Zhang 张天远',
@@ -154,7 +154,7 @@ const main = {
       description: '"An anchor-free multi-trajectory prediction model."',
       paper_link: 'https://arxiv.org/abs/2106.14160',
       project_link: '',
-      image: 'densetnt.png',
+      image: 'densetnt_waymo.png',
     },
     {
       title: 'TNT: Target-driveN Trajectory Prediction',
