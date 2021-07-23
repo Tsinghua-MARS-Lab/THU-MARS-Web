@@ -91,7 +91,7 @@ const main = {
     },
     {
       name: 'Ziwen Zhuang 庄子文',
-      website: 'sites.google.com/view/ziwenzhuang',
+      website: 'https://sites.google.com/view/ziwenzhuang',
       content: 'Ziwen Zhuang is a research assistant in the lab. He is interested in robotics.',
       image: 'ziwen.jpg',
     },
