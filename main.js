@@ -135,7 +135,7 @@ const main = {
       description: '',
       paper_link: 'https://arxiv.org/abs/2103.14431',
       project_link: '',
-      image: 'decorrelation.jpg',
+      image: 'mke.jpg',
     },
     
     {
