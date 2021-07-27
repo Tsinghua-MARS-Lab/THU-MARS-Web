@@ -108,6 +108,8 @@ const main = {
       image: 'kenan.jpeg',
     },
   ],
+  
+  alumni: [],
 
   projects: [
     {
@@ -301,8 +303,8 @@ const main = {
     //   image: '',
     // }, 
   ],
-
-  alumni: [],
+  
+  // publications: migrated to THU-MARS-Web/publications.vue
   
   join_us: {
     title: 'We are globally hiring top talents to join us.',
