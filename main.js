@@ -145,7 +145,7 @@ const main = {
       authors: 'Zihui Xue, Sucheng Ren, Zhengqi Gao, Hang Zhao',
       description: '',
       paper_link: 'https://arxiv.org/abs/2103.14431',
-      project_link: '',
+      project_link: 'https://tsinghua-mars-lab.github.io/MKE/',
       image: 'mke.png',
     },
     
