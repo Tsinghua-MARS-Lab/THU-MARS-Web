@@ -113,6 +113,15 @@ const main = {
 
   projects: [
     {
+      title: 'CVC: Contrastive Learning for Non-parallel Voice Conversion',
+      publisher: 'Interspeech 2021 (ISCA travel grant award)',
+      authors: 'Tingle Li, Yichen Liu, Chenxu Hu, Hang Zhao',
+      description: '"It only requires one-way GAN training when it comes to non-parallel voice conversion"',
+      paper_link: 'https://arxiv.org/abs/2011.00782',
+      project_link: 'https://tinglok.netlify.app/files/cvc/',
+      image: 'CVC.jpg',
+    },
+    {
       title: 'HDMapNet: An Online HD Map Construction and Evaluation Framework',
       publisher: 'CVPR Workshop (best paper nominee)',
       authors: 'Qi Li, Yue Wang, Yilun Wang, Hang Zhao',
