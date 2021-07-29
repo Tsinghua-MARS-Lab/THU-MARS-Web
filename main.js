@@ -113,15 +113,6 @@ const main = {
 
   projects: [
     {
-      title: 'CVC: Contrastive Learning for Non-parallel Voice Conversion',
-      publisher: 'Interspeech 2021 (ISCA travel grant award)',
-      authors: 'Tingle Li, Yichen Liu, Chenxu Hu, Hang Zhao',
-      description: '"It only requires one-way GAN training when it comes to non-parallel voice conversion"',
-      paper_link: 'https://arxiv.org/abs/2011.00782',
-      project_link: 'https://tinglok.netlify.app/files/cvc/',
-      image: 'CVC.jpg',
-    },
-    {
       title: 'HDMapNet: An Online HD Map Construction and Evaluation Framework',
       publisher: 'CVPR Workshop (best paper nominee)',
       authors: 'Qi Li, Yue Wang, Yilun Wang, Hang Zhao',
@@ -148,7 +139,6 @@ const main = {
       project_link: 'https://tsinghua-mars-lab.github.io/MKE/',
       image: 'mke.png',
     },
-    
     {
       title: 'DenseTNT: End-to-end Trajectory Prediction from Dense Goal Sets',
       publisher: 'ICCV 2021',
@@ -166,6 +156,15 @@ const main = {
       paper_link: 'https://arxiv.org/abs/2106.14160',
       project_link: '',
       image: 'densetnt_waymo.png',
+    },
+    {
+      title: 'CVC: Contrastive Learning for Non-parallel Voice Conversion',
+      publisher: 'Interspeech 2021 (ISCA travel grant award)',
+      authors: 'Tingle Li, Yichen Liu, Chenxu Hu, Hang Zhao',
+      description: '"It only requires one-way GAN training for non-parallel voice conversion"',
+      paper_link: 'https://arxiv.org/abs/2011.00782',
+      project_link: 'https://tinglok.netlify.app/files/cvc/',
+      image: 'CVC.jpg',
     },
     {
       title: 'TNT: Target-driveN Trajectory Prediction',
