@@ -114,7 +114,7 @@ const main = {
   projects: [
     {
       title: 'HDMapNet: An Online HD Map Construction and Evaluation Framework',
-      publisher: 'CVPR Workshop (best paper nominee)',
+      publisher: 'CVPR 2021 Workshop (best paper nominee)',
       authors: 'Qi Li, Yue Wang, Yilun Wang, Hang Zhao',
       description: '"HD map sensing from onboard sensors!"',
       paper_link: 'https://arxiv.org/abs/2107.06307',
@@ -138,7 +138,7 @@ const main = {
       paper_link: 'https://arxiv.org/abs/2103.14431',
       project_link: 'https://tsinghua-mars-lab.github.io/MKE/',
       image: 'mke.png',
-    },
+    },    
     {
       title: 'DenseTNT: End-to-end Trajectory Prediction from Dense Goal Sets',
       publisher: 'ICCV 2021',
@@ -150,7 +150,7 @@ const main = {
     },
     {
       title: 'DenseTNT: Waymo Open Dataset Motion Prediction Challenge 1st Place Solution',
-      publisher: 'CVPR Workshop, Waymo Open Dataset Challenge Winner',
+      publisher: 'CVPR 2021 Workshop, Waymo Open Dataset Challenge Winner',
       authors: 'Junru Gu, Qiao Sun, Hang Zhao',
       description: '"An anchor-free TNT model for multi-trajectory prediction."',
       paper_link: 'https://arxiv.org/abs/2106.14160',
@@ -315,7 +315,7 @@ const main = {
   publications: [
     {
       title: 'HDMapNet: An Online HD Map Construction and Evaluation Framework',
-      publisher: 'CVPR Workshop (best paper nominee)',
+      publisher: 'CVPR 2021 Workshop (best paper nominee)',
       authors: 'Qi Li, Yue Wang, Yilun Wang, Hang Zhao',
       paper_link: 'https://arxiv.org/abs/2107.06307',
     },
@@ -324,6 +324,12 @@ const main = {
       publisher: 'ICCV 2021 Oral',
       authors: 'Tianyu Hua, Wenxiao Wang, Zihui Xue, Yue Wang, Sucheng Ren, Hang Zhao',
       paper_link: 'https://arxiv.org/abs/2105.00470',
+    },
+	{
+      title: 'Large Scale Interactive Motion Forecasting for Autonomous Driving: The Waymo Open Motion Dataset',
+      publisher: 'ICCV 2021 Oral',
+      authors: 'Scott Ettinger, Shuyang Cheng, Benjamin Caine, Chenxi Liu, Hang Zhao, Sabeek Pradhan, Yuning Chai, Ben Sapp, Charles Qi, Yin Zhou, Zoey Yang, Aurelien Chouard, Pei Sun, Jiquan Ngiam, Vijay Vasudevan, Alexander McCauley, Jonathon Shlens, Dragomir Anguelov',
+      paper_link: 'https://arxiv.org/abs/2104.10133',
     },
     {
       title: 'Multimodal Knowledge Expansion',
@@ -339,7 +345,7 @@ const main = {
     },
     {
       title: 'DenseTNT: Waymo Open Dataset Motion Prediction Challenge 1st Place Solution',
-      publisher: 'CVPR Workshop, Waymo Open Dataset Challenge Winner',
+      publisher: 'CVPR 2021 Workshop, Waymo Open Dataset Challenge Winner',
       authors: 'Junru Gu, Qiao Sun, Hang Zhao',
       paper_link: 'https://arxiv.org/abs/2106.14160',
     },
@@ -355,6 +361,18 @@ const main = {
       authors: 'Hang Zhao*, Jiyang Gao*, Tian Lan, Chen Sun, Benjamin Sapp, Balakrishnan Varadarajan, Yue Shen, Yi Shen, Yuning Chai, Cordelia Schmid, Congcong Li, Dragomir Anguelov',
       paper_link: 'https://arxiv.org/abs/2008.08294',
     },
+    {
+      title: 'CLOUD: Contrastive Learning of Unsupervised Dynamics',
+      publisher: 'CoRL 2020',
+      authors: 'Jianren Wang, Yujie Lu, Hang Zhao',
+      paper_link: 'https://arxiv.org/abs/2010.12488',
+    }, 
+    {
+      title: 'Unsupervised Monocular Depth Learning in Dynamic Scenes',
+      publisher: 'CoRL 2020',
+      authors: 'Hanhan Li, Ariel Gordon, Hang Zhao, Vincent Casser, Anelia Angelova',
+      paper_link: 'https://arxiv.org/abs/2010.16404',
+    }, 
     {
       title: 'VectorNet: Encoding HD Maps and Agent Dynamics from Vectorized Representation',
       publisher: 'CVPR 2020',
@@ -392,6 +410,12 @@ const main = {
       paper_link: 'https://arxiv.org/abs/1712.09374',
     }, 
     {
+      title: 'Self-Supervised Audio-visual Co-segmentation',
+      publisher: 'ICASSP 2019',
+      authors: 'Andrew Rouditchenko*, Hang Zhao*, Chuang Gan, Josh McDermott, Antonio Torralba',
+      paper_link: 'https://arxiv.org/abs/1904.09013',
+    }, 
+    {
       title: 'The Sound of Pixels',
       publisher: 'ECCV 2018',
       authors: 'Hang Zhao, Chuang Gan, Andrew Rouditchenko, Carl Vondrick, Josh McDermott, Antonio Torralba',
@@ -409,6 +433,12 @@ const main = {
       authors: 'Mingmin Zhao, Tianhong Li, Mohammad Alsheikh, Yonglong Tian, Hang Zhao, Antonio Torralba, Dina Katabi',
       paper_link: '',
     },
+    {
+      title: 'Semantic Understanding of Scenes through the ADE20K Dataset',
+      publisher: 'IJCV 2018',
+      authors: 'Bolei Zhou, Hang Zhao, Xavier Puig, Tete Xiao, Sanja Fidler, Adela Barriuso, Antonio Torralba',
+      paper_link: 'https://link.springer.com/article/10.1007/s11263-018-1140-0',
+    }, 
     {
       title: 'Open Vocabulary Scene Parsing',
       publisher: 'ICCV 2017',
@@ -430,7 +460,7 @@ const main = {
     {
       title: 'Duckietown: an Open, Inexpensive and Flexible Platform for Autonomy Education and Research',
       publisher: 'ICRA 2017',
-      authors: '',
+      authors: 'Liam Paul, et al.',
       paper_link: 'http://people.csail.mit.edu/hangzhao/papers/duckietown.pdf',
     }, 
     {
@@ -438,6 +468,24 @@ const main = {
       publisher: 'ICCP 2015 Best Paper Runner-up',
       authors: 'Hang Zhao, Boxin Shi, Christy Fernandez-Cull, Sai-Kit Yeung and Ramesh Raskar',
       paper_link: 'http://people.csail.mit.edu/hangzhao/papers/moduloUHDR.pdf',
+    }, 
+    {
+      title: 'Snapshot on-chip HDR ROIC architectures',
+      publisher: 'COSI 2015',
+      authors: 'Christy Fernandez-Cull, Hang Zhao, Boxin Shi, Brian M. Tyrrell, Joseph Lin and Ramesh Raskar',
+      paper_link: '',
+    }, 
+    {	
+      title: 'Occluded imaging with time of flight sensors',
+      publisher: 'ACM Transactions on Graphics 2015',
+      authors: 'Achuta Kadambi, Hang Zhao, Boxin Shi and Ramesh Raskar',
+      paper_link: '',
+    }, 
+    {
+      title: 'Sub-pixel layout for super-resolution with images in an octic group',
+      publisher: 'ECCV 2014',
+      authors: 'Boxin Shi, Hang Zhao, Moshe Ben-Ezra, Sai-Kit Yeung, Christy Fernandez-Cull, R. Hamilton Shepard, Christopher Barsi, Ramesh Raskar',
+      paper_link: 'https://link.springer.com/chapter/10.1007/978-3-319-10590-1_17',
     }, 
     // {
     //   title: '',
