@@ -317,11 +317,13 @@ const main = {
       title: 'TNT: Target-driveN Trajectory Prediction',
       authors: 'Hang Zhao*, Jiyang Gao*, Tian Lan, Chen Sun, Benjamin Sapp, Balakrishnan Varadarajan, Yue Shen, Yi Shen, Yuning Chai, Cordelia Schmid, Congcong Li, Dragomir Anguelov',
       publisher: 'Conference on Robot Learning (CoRL)',
+      paper_link: 'https://arxiv.org/abs/2008.08294',
     },
     {
       title: 'VectorNet: Encoding HD Maps and Agent Dynamics from Vectorized Representation',
       authors: 'Jiyang Gao*, Chen Sun*, Hang Zhao, Yi Shen, Dragomir Anguelov, Congcong Li, Cordelia Schmid',
       publisher: 'Computer Vision and Pattern Recognition (CVPR)',
+      paper_link: 'https://openaccess.thecvf.com/content_CVPR_2020/papers/Gao_VectorNet_Encoding_HD_Maps_and_Agent_Dynamics_From_Vectorized_Representation_CVPR_2020_paper.pdf',
     },
   ],
   
