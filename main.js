@@ -91,9 +91,9 @@ const main = {
     },
     {
       name: 'Ziwen Zhuang 庄子文',
-      website: '',
+      website: 'https://sites.google.com/view/ziwenzhuang',
       content: 'Ziwen Zhuang is a research assistant in the lab. He is interested in robotics.',
-      image: 'kenan.jpeg',
+      image: 'ziwen.jpg',
     },
     {
       name: 'Tianyuan Zhang 张天远',
@@ -108,6 +108,8 @@ const main = {
       image: 'kenan.jpeg',
     },
   ],
+  
+  alumni: [],
 
   projects: [
     {
@@ -134,10 +136,9 @@ const main = {
       authors: 'Zihui Xue, Sucheng Ren, Zhengqi Gao, Hang Zhao',
       description: '',
       paper_link: 'https://arxiv.org/abs/2103.14431',
-      project_link: '',
-      image: 'decorrelation.jpg',
+      project_link: 'https://tsinghua-mars-lab.github.io/MKE/',
+      image: 'mke.png',
     },
-    
     {
       title: 'DenseTNT: End-to-end Trajectory Prediction from Dense Goal Sets',
       publisher: 'ICCV 2021',
@@ -154,7 +155,16 @@ const main = {
       description: '"An anchor-free TNT model for multi-trajectory prediction."',
       paper_link: 'https://arxiv.org/abs/2106.14160',
       project_link: '',
-      image: 'densetnt.png',
+      image: 'densetnt_waymo.png',
+    },
+    {
+      title: 'CVC: Contrastive Learning for Non-parallel Voice Conversion',
+      publisher: 'Interspeech 2021 (ISCA travel grant award)',
+      authors: 'Tingle Li, Yichen Liu, Chenxu Hu, Hang Zhao',
+      description: '"It only requires one-way GAN training for non-parallel voice conversion"',
+      paper_link: 'https://arxiv.org/abs/2011.00782',
+      project_link: 'https://tinglok.netlify.app/files/cvc/',
+      image: 'CVC.jpg',
     },
     {
       title: 'TNT: Target-driveN Trajectory Prediction',
@@ -301,8 +311,8 @@ const main = {
     //   image: '',
     // }, 
   ],
-
-  alumni: [],
+  
+  // publications: migrated to THU-MARS-Web/publications.vue
   
   join_us: {
     title: 'We are globally hiring top talents to join us.',
