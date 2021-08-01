@@ -134,6 +134,7 @@ const main = {
       title: 'Large Scale Interactive Motion Forecasting for Autonomous Driving: The Waymo Open Motion Dataset',
       publisher: 'ICCV 2021 Oral',
       authors: 'Scott Ettinger, Shuyang Cheng, Benjamin Caine, Chenxi Liu, Hang Zhao, Sabeek Pradhan, Yuning Chai, Ben Sapp, Charles Qi, Yin Zhou, Zoey Yang, Aurelien Chouard, Pei Sun, Jiquan Ngiam, Vijay Vasudevan, Alexander McCauley, Jonathon Shlens, Dragomir Anguelov',
+	  description: '"A high-quality interactive motion prediction dataset for autonomous driving!"',
       paper_link: 'https://arxiv.org/abs/2104.10133',
       project_link: 'https://blog.waymo.com/2021/03/expanding-waymo-open-dataset-with-interactive-scenario-data-and-new-challenges.html',
       image: 'waymo_motion.gif',
@@ -187,7 +188,9 @@ const main = {
       title: 'SEMI: Self-supervised Exploration via Multisensory Incongruity',
       publisher: 'Preprint',
       authors: 'Jianren Wang*, Ziwen Zhuang*, Hang Zhao',
+      description: '',
       paper_link: 'https://arxiv.org/abs/2009.12494',
+      project_link: '',
       image: 'SEMI.jpeg',
     }, 
     {
