@@ -130,6 +130,14 @@ const main = {
       project_link: 'https://tsinghua-mars-lab.github.io/decorr/',
       image: 'decorrelation.jpg',
     },
+	{
+      title: 'Large Scale Interactive Motion Forecasting for Autonomous Driving: The Waymo Open Motion Dataset',
+      publisher: 'ICCV 2021 Oral',
+      authors: 'Scott Ettinger, Shuyang Cheng, Benjamin Caine, Chenxi Liu, Hang Zhao, Sabeek Pradhan, Yuning Chai, Ben Sapp, Charles Qi, Yin Zhou, Zoey Yang, Aurelien Chouard, Pei Sun, Jiquan Ngiam, Vijay Vasudevan, Alexander McCauley, Jonathon Shlens, Dragomir Anguelov',
+      paper_link: 'https://arxiv.org/abs/2104.10133',
+      project_link: 'https://blog.waymo.com/2021/03/expanding-waymo-open-dataset-with-interactive-scenario-data-and-new-challenges.html',
+      image: 'waymo_motion.gif',
+    },
     {
       title: 'Multimodal Knowledge Expansion',
       publisher: 'ICCV 2021',
@@ -176,6 +184,13 @@ const main = {
       image: 'tnt.png',
     },
     {
+      title: 'SEMI: Self-supervised Exploration via Multisensory Incongruity',
+      publisher: 'Preprint',
+      authors: 'Jianren Wang*, Ziwen Zhuang*, Hang Zhao',
+      paper_link: 'https://arxiv.org/abs/2009.12494',
+      image: 'SEMI.jpeg',
+    }, 
+    {
       title: 'VectorNet: Encoding HD Maps and Agent Dynamics from Vectorized Representation',
       publisher: 'CVPR 2020',
       authors: 'Jiyang Gao, Chen Sun, Hang Zhao, Yi Shen, Dragomir Anguelov, Congcong Li, Cordelia Schmid',
@@ -187,8 +202,8 @@ const main = {
     {
       title: 'Scalability in Perception for Autonomous Driving: Waymo Open Dataset',
       publisher: 'CVPR 2020',
-      authors: 'Pei Sun et al.',
-      description: '"One of the largest and most diverse autonomous driving datasets ever released."',
+      authors: 'Pei Sun, Henrik Kretzschmar, Xerxes Dotiwalla, Aurelien Chouard, Vijaysai Patnaik, Paul Tsui, James Guo, Yin Zhou, Yuning Chai, Benjamin Caine, Vijay Vasudevan, Wei Han, Jiquan Ngiam, Hang Zhao, Aleksei Timofeev, Scott Ettinger, Maxim Krivokon, Amy Gao, Aditya Joshi, Sheng Zhao, Shuyang Cheng, Yu Zhang, Jonathon Shlens, Zhifeng Chen, Dragomir Anguelov',
+      description: '"One of the largest and most diverse autonomous driving datasets ever released!"',
       paper_link: 'https://arxiv.org/abs/1912.04838',
       project_link: 'https://waymo.com/open/',
       image: 'waymo_od_challenge.jpeg',
@@ -362,6 +377,12 @@ const main = {
       paper_link: 'https://arxiv.org/abs/2008.08294',
     },
     {
+      title: 'SEMI: Self-supervised Exploration via Multisensory Incongruity',
+      publisher: 'Preprint',
+      authors: 'Jianren Wang*, Ziwen Zhuang*, Hang Zhao',
+      paper_link: 'https://arxiv.org/abs/2009.12494',
+    }, 
+    {
       title: 'CLOUD: Contrastive Learning of Unsupervised Dynamics',
       publisher: 'CoRL 2020',
       authors: 'Jianren Wang, Yujie Lu, Hang Zhao',
@@ -382,7 +403,7 @@ const main = {
     {
       title: 'Scalability in Perception for Autonomous Driving: Waymo Open Dataset',
       publisher: 'CVPR 2020',
-      authors: 'Pei Sun et al.',
+      authors: 'Pei Sun, Henrik Kretzschmar, Xerxes Dotiwalla, Aurelien Chouard, Vijaysai Patnaik, Paul Tsui, James Guo, Yin Zhou, Yuning Chai, Benjamin Caine, Vijay Vasudevan, Wei Han, Jiquan Ngiam, Hang Zhao, Aleksei Timofeev, Scott Ettinger, Maxim Krivokon, Amy Gao, Aditya Joshi, Sheng Zhao, Shuyang Cheng, Yu Zhang, Jonathon Shlens, Zhifeng Chen, Dragomir Anguelov',
       paper_link: 'https://arxiv.org/abs/1912.04838',
     },
     {
