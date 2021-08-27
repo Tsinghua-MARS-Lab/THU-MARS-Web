@@ -151,7 +151,7 @@ const main = {
     {
       title: 'DenseTNT: End-to-end Trajectory Prediction from Dense Goal Sets',
       publisher: 'ICCV 2021',
-      authors: 'Junru Gu, Jiyang Gao, Chen Sun, Hang Zhao',
+      authors: 'Junru Gu, Chen Sun, Hang Zhao',
       description: '"A SOTA end-to-end multi-trajectory prediction model."',
       paper_link: '',
       project_link: '',
@@ -174,6 +174,13 @@ const main = {
       paper_link: 'https://arxiv.org/abs/2011.00782',
       project_link: 'https://tinglok.netlify.app/files/cvc/',
       image: 'CVC.jpg',
+    },
+    {
+      title: 'HDMapGen: A Hierarchical Graph Generative Model of High Definition Maps',
+      publisher: 'CVPR 2021',
+      authors: 'Lu Mi, Hang Zhao, Charlie Nash, Xiaohan Jin, Jiyang Gao, Chen Sun, Cordelia Schmid, Nir Shavit, Yuning Chai, Dragomir Anguelov',
+      paper_link: 'https://openaccess.thecvf.com/content/CVPR2021/html/Mi_HDMapGen_A_Hierarchical_Graph_Generative_Model_of_High_Definition_Maps_CVPR_2021_paper.html',
+      image: 'HDMapGen.jpg',
     },
     {
       title: 'TNT: Target-driveN Trajectory Prediction',
@@ -374,6 +381,12 @@ const main = {
       paper_link: 'https://arxiv.org/abs/2011.00782',
     },
     {
+      title: 'HDMapGen: A Hierarchical Graph Generative Model of High Definition Maps',
+      publisher: 'CVPR 2021',
+      authors: 'Lu Mi, Hang Zhao, Charlie Nash, Xiaohan Jin, Jiyang Gao, Chen Sun, Cordelia Schmid, Nir Shavit, Yuning Chai, Dragomir Anguelov',
+      paper_link: 'https://openaccess.thecvf.com/content/CVPR2021/html/Mi_HDMapGen_A_Hierarchical_Graph_Generative_Model_of_High_Definition_Maps_CVPR_2021_paper.html',
+    },
+    {
       title: 'TNT: Target-driveN Trajectory Prediction',
       publisher: 'CoRL 2020',
       authors: 'Hang Zhao*, Jiyang Gao*, Tian Lan, Chen Sun, Benjamin Sapp, Balakrishnan Varadarajan, Yue Shen, Yi Shen, Yuning Chai, Cordelia Schmid, Congcong Li, Dragomir Anguelov',
@@ -397,6 +410,12 @@ const main = {
       authors: 'Hanhan Li, Ariel Gordon, Hang Zhao, Vincent Casser, Anelia Angelova',
       paper_link: 'https://arxiv.org/abs/2010.16404',
     }, 
+    {
+      title: 'UnModNet: Learning to Unwrap a Modulo Image for High Dynamic Range Imaging',
+      publisher: 'NeuRIPS 2020',
+      authors: 'Chu Zhou, Hang Zhao, Jin Han, Chang Xu, Chao Xu, Tiejun Huang, Boxin Shi',
+      paper_link: 'https://proceedings.neurips.cc/paper/2020/hash/1102a326d5f7c9e04fc3c89d0ede88c9-Abstract.html',
+    },
     {
       title: 'VectorNet: Encoding HD Maps and Agent Dynamics from Vectorized Representation',
       publisher: 'CVPR 2020',
