@@ -153,18 +153,9 @@ const main = {
       publisher: 'ICCV 2021',
       authors: 'Junru Gu, Chen Sun, Hang Zhao',
       description: '"A SOTA end-to-end multi-trajectory prediction model."',
-      paper_link: '',
-      project_link: '',
+      paper_link: 'https://arxiv.org/abs/2108.09640',
+      project_link: 'https://tsinghua-mars-lab.github.io/DenseTNT/',
       image: 'densetnt.png',
-    },
-    {
-      title: 'DenseTNT: Waymo Open Dataset Motion Prediction Challenge 1st Place Solution',
-      publisher: 'CVPR 2021 Workshop, Waymo Open Dataset Challenge Winner',
-      authors: 'Junru Gu, Qiao Sun, Hang Zhao',
-      description: '"An anchor-free TNT model for multi-trajectory prediction."',
-      paper_link: 'https://arxiv.org/abs/2106.14160',
-      project_link: '',
-      image: 'densetnt_waymo.png',
     },
     {
       title: 'CVC: Contrastive Learning for Non-parallel Voice Conversion',
@@ -365,8 +356,8 @@ const main = {
     {
       title: 'DenseTNT: End-to-end Trajectory Prediction from Dense Goal Sets',
       publisher: 'ICCV 2021',
-      authors: 'Junru Gu, Jiyang Gao, Chen Sun, Hang Zhao',
-      paper_link: '',
+      authors: 'Junru Gu, Chen Sun, Hang Zhao',
+      paper_link: 'https://arxiv.org/abs/2108.09640',
     },
     {
       title: 'DenseTNT: Waymo Open Dataset Motion Prediction Challenge 1st Place Solution',
