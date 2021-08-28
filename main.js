@@ -152,7 +152,7 @@ const main = {
       title: 'DenseTNT: End-to-end Trajectory Prediction from Dense Goal Sets',
       publisher: 'ICCV 2021',
       authors: 'Junru Gu, Chen Sun, Hang Zhao',
-      description: '"A SOTA end-to-end multi-trajectory prediction model."',
+      description: '"A SOTA anchor-free and end-to-end multi-trajectory prediction model."',
       paper_link: 'https://arxiv.org/abs/2108.09640',
       project_link: 'https://tsinghua-mars-lab.github.io/DenseTNT/',
       image: 'densetnt.png',
