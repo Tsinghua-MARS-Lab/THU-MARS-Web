@@ -150,11 +150,15 @@ const main = {
     },    
     {
       title: 'DenseTNT: End-to-end Trajectory Prediction from Dense Goal Sets',
-      publisher: 'ICCV 2021',
+      publisher: 'ICCV 2021, Waymo Motion Prediction Challenge Winner',
       authors: 'Junru Gu, Chen Sun, Hang Zhao',
-      description: '"A SOTA anchor-free and end-to-end multi-trajectory prediction model."',
+      description: '"A SOTA anchor-free and end-to-end multi-trajectory prediction model"',
       paper_link: 'https://arxiv.org/abs/2108.09640',
       project_link: 'https://tsinghua-mars-lab.github.io/DenseTNT/',
+      extra_link: {
+        button: 'Challenge Report',
+	link: 'https://arxiv.org/abs/2106.14160',
+      },
       image: 'densetnt.png',
     },
     {
