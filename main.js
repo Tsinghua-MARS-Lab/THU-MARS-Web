@@ -161,7 +161,7 @@ const main = {
       },
       tags: [
         'hot',
-      ]
+      ],
       image: 'densetnt.png',
     },
     {
