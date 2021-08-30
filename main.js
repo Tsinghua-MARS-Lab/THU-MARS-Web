@@ -120,6 +120,9 @@ const main = {
       paper_link: 'https://arxiv.org/abs/2107.06307',
       project_link: 'https://tsinghua-mars-lab.github.io/HDMapNet/',
       image: 'hdmapnet_demo.gif',
+      tags: [
+        'hot',
+      ],
     },
     {
       title: 'On Feature Decorrelation in Self-Supervised Learning',
@@ -129,8 +132,11 @@ const main = {
       paper_link: 'https://arxiv.org/abs/2105.00470',
       project_link: 'https://tsinghua-mars-lab.github.io/decorr/',
       image: 'decorrelation.jpg',
+      tags: [
+        'hot',
+      ],
     },
-	{
+	  {
       title: 'Large Scale Interactive Motion Forecasting for Autonomous Driving: The Waymo Open Motion Dataset',
       publisher: 'ICCV 2021 Oral',
       authors: 'Scott Ettinger, Shuyang Cheng, Benjamin Caine, Chenxi Liu, Hang Zhao, Sabeek Pradhan, Yuning Chai, Ben Sapp, Charles Qi, Yin Zhou, Zoey Yang, Aurelien Chouard, Pei Sun, Jiquan Ngiam, Vijay Vasudevan, Alexander McCauley, Jonathon Shlens, Dragomir Anguelov',
@@ -138,6 +144,9 @@ const main = {
       paper_link: 'https://arxiv.org/abs/2104.10133',
       project_link: 'https://blog.waymo.com/2021/03/expanding-waymo-open-dataset-with-interactive-scenario-data-and-new-challenges.html',
       image: 'waymo_motion.gif',
+      tags: [
+        'hot',
+      ],
     },
     {
       title: 'Multimodal Knowledge Expansion',
@@ -155,14 +164,16 @@ const main = {
       description: '"A SOTA anchor-free and end-to-end multi-trajectory prediction model"',
       paper_link: 'https://arxiv.org/abs/2108.09640',
       project_link: 'https://tsinghua-mars-lab.github.io/DenseTNT/',
-      extra_link: {
-        name: 'Challenge Report',
-	link: 'https://arxiv.org/abs/2106.14160',
-      },
+      extra_link: [
+        {
+          name: 'Challenge Report',
+  	      link: 'https://arxiv.org/abs/2106.14160',
+        },
+      ],
+      image: 'densetnt.png',
       tags: [
         'hot',
       ],
-      image: 'densetnt.png',
     },
     {
       title: 'CVC: Contrastive Learning for Non-parallel Voice Conversion',
@@ -181,15 +192,6 @@ const main = {
       image: 'HDMapGen.jpg',
     },
     {
-      title: 'TNT: Target-driveN Trajectory Prediction',
-      publisher: 'CoRL 2020',
-      authors: 'Hang Zhao*, Jiyang Gao*, Tian Lan, Chen Sun, Benjamin Sapp, Balakrishnan Varadarajan, Yue Shen, Yi Shen, Yuning Chai, Cordelia Schmid, Congcong Li, Dragomir Anguelov',
-      description: '"A new learning-based framework for multi-trajectory prediction!"',
-      paper_link: 'https://arxiv.org/abs/2008.08294',
-      project_link: '',
-      image: 'tnt.png',
-    },
-    {
       title: 'SEMI: Self-supervised Exploration via Multisensory Incongruity',
       publisher: 'Preprint',
       authors: 'Jianren Wang*, Ziwen Zhuang*, Hang Zhao',
@@ -199,6 +201,18 @@ const main = {
       image: 'SEMI.jpeg',
     }, 
     {
+      title: 'TNT: Target-driveN Trajectory Prediction',
+      publisher: 'CoRL 2020',
+      authors: 'Hang Zhao*, Jiyang Gao*, Tian Lan, Chen Sun, Benjamin Sapp, Balakrishnan Varadarajan, Yue Shen, Yi Shen, Yuning Chai, Cordelia Schmid, Congcong Li, Dragomir Anguelov',
+      description: '"A new learning-based framework for multi-trajectory prediction!"',
+      paper_link: 'https://arxiv.org/abs/2008.08294',
+      project_link: '',
+      image: 'tnt.png',
+      tags: [
+        'hot',
+      ],
+    },
+    {
       title: 'VectorNet: Encoding HD Maps and Agent Dynamics from Vectorized Representation',
       publisher: 'CVPR 2020',
       authors: 'Jiyang Gao, Chen Sun, Hang Zhao, Yi Shen, Dragomir Anguelov, Congcong Li, Cordelia Schmid',
@@ -206,6 +220,9 @@ const main = {
       paper_link: 'https://openaccess.thecvf.com/content_CVPR_2020/papers/Gao_VectorNet_Encoding_HD_Maps_and_Agent_Dynamics_From_Vectorized_Representation_CVPR_2020_paper.pdf',
       project_link: 'https://blog.waymo.com/2020/05/vectornet.html',
       image: 'vectornet.gif',
+      tags: [
+        'hot',
+      ],
     },
     {
       title: 'Scalability in Perception for Autonomous Driving: Waymo Open Dataset',
@@ -215,6 +232,9 @@ const main = {
       paper_link: 'https://arxiv.org/abs/1912.04838',
       project_link: 'https://waymo.com/open/',
       image: 'waymo_od_challenge.jpeg',
+      tags: [
+        'hot',
+      ],
     },
     {
       title: 'The Sound of Motions',
@@ -260,6 +280,9 @@ const main = {
       paper_link: 'https://arxiv.org/abs/1804.03160',
       project_link: 'http://sound-of-pixels.csail.mit.edu/',
       image: 'sound_of_pixels.png',
+      tags: [
+        'hot',
+      ],
     }, 
     {
       title: 'RF-Based 3D Skeletons',
@@ -278,6 +301,9 @@ const main = {
       paper_link: '',
       project_link: 'http://rfpose.csail.mit.edu/',
       image: 'rf-pose.png',
+      tags: [
+        'hot',
+      ],
     },
     {
       title: 'Open Vocabulary Scene Parsing',
@@ -295,7 +321,25 @@ const main = {
       description: '"The most widely used scene parsing dataset."',
       paper_link: 'http://people.csail.mit.edu/bzhou/publication/scene-parse-camera-ready.pdf',
       project_link: 'http://groups.csail.mit.edu/vision/datasets/ADE20K/',
+      code_link: 'https://github.com/CSAILVision/semantic-segmentation-pytorch',
+      extra_link: [
+        {
+          name: 'Scene Parsing Benchmark',
+          link: 'http://sceneparsing.csail.mit.edu/',
+        },
+        {
+          name: 'Toolkit',
+          link: 'https://github.com/CSAILVision/sceneparsing',
+        },
+        {
+          name: 'Paper (IJCV 2018)',
+          link: 'https://link.springer.com/article/10.1007/s11263-018-1140-0',
+        },
+      ],
       image: 'sceneparsing_cvpr2017.png',
+      tags: [
+        'hot',
+      ],
     }, 
     {
       title: 'Loss Functions for Neural Networks for Image Processing',
@@ -305,6 +349,9 @@ const main = {
       paper_link: 'http://ieeexplore.ieee.org/iel7/6745852/6960042/07797130.pdf',
       project_link: 'http://research.nvidia.com/publication/loss-functions-image-restoration-neural-networks',
       image: 'lossNN.png',
+      tags: [
+        'hot',
+      ],
     }, 
     {
       title: 'Duckietown: an Open, Inexpensive and Flexible Platform for Autonomy Education and Research',
@@ -323,6 +370,9 @@ const main = {
       paper_link: 'http://people.csail.mit.edu/hangzhao/papers/moduloUHDR.pdf',
       project_link: 'http://web.media.mit.edu/~hangzhao/modulo.html',
       image: 'moduloHDR.png',
+      tags: [
+        'hot',
+      ],
     }, 
     // {
     //   title: '',
