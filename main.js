@@ -166,7 +166,7 @@ const main = {
       project_link: 'https://tsinghua-mars-lab.github.io/DenseTNT/',
       extra_link: [
         {
-          name: 'Challenge Report',
+          name: 'Waymo Challenge Report',
   	      link: 'https://arxiv.org/abs/2106.14160',
         },
       ],
@@ -245,15 +245,15 @@ const main = {
       project_link: '',
       image: 'sound_of_motions.png',
     },
-    {
-      title: 'Self-supervised Moving Vehicle Tracking with Stereo Sound',
-      publisher: 'ICCV 2019',
-      authors: 'Chuang Gan, Hang Zhao, Peihao Chen, David Cox, Antonio Torralba',
-      description: '',
-      paper_link: 'http://openaccess.thecvf.com/content_ICCV_2019/html/Gan_Self-Supervised_Moving_Vehicle_Tracking_With_Stereo_Sound_ICCV_2019_paper.html',
-      project_link: '',
-      image: 'stereo_tracking.jpeg',
-    }, 
+    // {
+    //   title: 'Self-supervised Moving Vehicle Tracking with Stereo Sound',
+    //   publisher: 'ICCV 2019',
+    //   authors: 'Chuang Gan, Hang Zhao, Peihao Chen, David Cox, Antonio Torralba',
+    //   description: '',
+    //   paper_link: 'http://openaccess.thecvf.com/content_ICCV_2019/html/Gan_Self-Supervised_Moving_Vehicle_Tracking_With_Stereo_Sound_ICCV_2019_paper.html',
+    //   project_link: '',
+    //   image: 'stereo_tracking.jpeg',
+    // }, 
     {
       title: 'Through-Wall Human Mesh Recovery Using Radio Signals',
       publisher: 'ICCV 2019',
@@ -297,8 +297,8 @@ const main = {
       title: 'Through-Wall Human Pose Estimation Using Radio Signals',
       publisher: 'CVPR 2018',
       authors: 'Mingmin Zhao, Tianhong Li, Mohammad Alsheikh, Yonglong Tian, Hang Zhao, Antonio Torralba, Dina Katabi',
-      description: '',
-      paper_link: '',
+      description: 'Superman vision: Seeing human pose through the wall!',
+      paper_link: 'https://openaccess.thecvf.com/content_cvpr_2018/papers/Zhao_Through-Wall_Human_Pose_CVPR_2018_paper.pdf',
       project_link: 'http://rfpose.csail.mit.edu/',
       image: 'rf-pose.png',
       tags: [
@@ -320,20 +320,19 @@ const main = {
       authors: 'Bolei Zhou, Hang Zhao, Xavier Puig, Sanja Fidler, Adela Barriuso, Antonio Torralba',
       description: '"The most widely used scene parsing dataset."',
       paper_link: 'http://people.csail.mit.edu/bzhou/publication/scene-parse-camera-ready.pdf',
-      project_link: 'http://groups.csail.mit.edu/vision/datasets/ADE20K/',
       code_link: 'https://github.com/CSAILVision/semantic-segmentation-pytorch',
       extra_link: [
         {
-          name: 'Scene Parsing Benchmark',
-          link: 'http://sceneparsing.csail.mit.edu/',
-        },
-        {
-          name: 'Toolkit',
-          link: 'https://github.com/CSAILVision/sceneparsing',
-        },
-        {
           name: 'Paper (IJCV 2018)',
           link: 'https://link.springer.com/article/10.1007/s11263-018-1140-0',
+        },
+        {
+          name: 'Full Dataset',
+          link: 'http://groups.csail.mit.edu/vision/datasets/ADE20K/',
+        },
+        {
+          name: 'MIT Scene Parsing Benchmark',
+          link: 'http://sceneparsing.csail.mit.edu/',
         },
       ],
       image: 'sceneparsing_cvpr2017.png',
