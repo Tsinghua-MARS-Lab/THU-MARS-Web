@@ -45,12 +45,6 @@ const main = {
       image: 'chenzhuang.jpg',
     },
     {
-      name: 'Wenxiao Wang 汪文潇',
-      website: '',
-      content: 'Wenxiao Wang is a MS student starting from 2020. He is interested in self-supervised learning.',
-      image: 'kenan.jpeg',
-    },
-    {
       name: 'Yichen Liu 刘奕辰',
       website: '',
       content: 'Yichen Liu is a MS student starting from 2020. He is interested in the fundamentals and applications of multi-modal learning.',
@@ -109,7 +103,14 @@ const main = {
     },
   ],
   
-  alumni: [],
+  alumni: [
+    {
+      name: 'Wenxiao Wang 汪文潇',
+      website: '',
+      content: 'Wenxiao Wang is a MS student starting from 2020. He is interested in self-supervised learning.',
+      image: 'kenan.jpeg',
+    },
+  ],
 
   projects: [
     {
