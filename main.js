@@ -140,6 +140,12 @@ const main = {
       content: 'Sucheng was an intern from 2020 to 2021.',
       image: 'kenan.jpeg',
     },
+        {
+      name: 'Running Zhao 赵闰宁',
+      website: '',
+      content: 'Running Zhao was an intern in 2021. He is now a PhD student at the University of Hong Kong.',
+      image: 'kenan.jpeg',
+    },
   ],
 
   projects: [
