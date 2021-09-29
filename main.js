@@ -53,24 +53,36 @@ const main = {
     {
       name: 'Junru Gu 辜俊儒',
       website: 'https://github.com/GentleSmile',
-      content: 'Junru Gu is a fourth year undergraduate student at Tsinghua University, and an incoming PhD student in the fall of 2021.',
+      content: 'Junru Gu is a PhD student starting from 2021. He is interested in autonomous driving.',
       image: 'gujunru.png',
     },
     {
       name: 'Chenxu Hu 胡晨旭',
       website: '',
-      content: 'Chenxu Hu is a fourth year undergraduate student at Zhejiang University, and an incoming PhD student in the fall of 2021.',
+      content: 'Chenxu Hu is a PhD student starting from 2021. He is interested in multi-modal learning, across vision, language and audio.',
       image: 'chenxu.jpg',
+    },
+    {
+      name: 'Ren Wang 汪仁皓',
+      website: '',
+      content: 'Ren Wang is a PhD student starting from 2021. He is interested in representation learning.',
+      image: 'kenan.jpeg',
+    },
+    {
+      name: 'Qiao Sun 孙桥',
+      website: '',
+      content: 'Qiao Sun is a PhD student starting from 2022. He is interested in autonomous driving.',
+      image: 'kenan.jpeg',
+    },
+    {
+      name: 'Tianyuan Yuan 袁天远',
+      website: '',
+      content: 'Tianyuan Yuan is fourth year undergraduate student at Peking University, and an incoming PhD student in 2022.',
+      image: 'kenan.jpeg',
     },
   ],
 
   research_assistants: [
-    {
-      name: 'Zihui Xue 薛子慧',
-      website: '',
-      content: 'Zihui Xue is a research assistant in the lab. She is interested in the fundamentals and applications of multi-modal learning.',
-      image: 'kenan.jpeg',
-    },
     {
       name: 'Tingle Li 黎庭乐',
       website: 'https://tinglok.netlify.app/',
@@ -78,22 +90,10 @@ const main = {
       image: 'tingle.jpg',
     },
     {
-      name: 'Tianyu Hua 华天羽',
-      website: 'https://patrickhua.github.io/',
-      content: 'Tianyu Hua is a research assistant in the lab. He is interested in representation learning.',
-      image: 'tianyu.jpg',
-    },
-    {
       name: 'Ziwen Zhuang 庄子文',
       website: 'https://sites.google.com/view/ziwenzhuang',
       content: 'Ziwen Zhuang is a research assistant in the lab. He is interested in robotics.',
       image: 'ziwen.jpg',
-    },
-    {
-      name: 'Tianyuan Zhang 张天远',
-      website: 'http://tianyuanzhang.com/',
-      content: 'Tianyuan Zhang is a research assistant in the lab. He is interested in computer vision and autonomous driving.',
-      image: 'tianyuan.jpg',
     },
     {
       name: 'Xiaojie Xu 徐啸捷',
@@ -107,7 +107,37 @@ const main = {
     {
       name: 'Wenxiao Wang 汪文潇',
       website: '',
-      content: 'Wenxiao Wang is a MS student starting from 2020. He is interested in self-supervised learning.',
+      content: 'Wenxiao Wang was a MS student from 2020 to 2021. He is now a PhD student at University of Maryland.',
+      image: 'kenan.jpeg',
+    },
+    {
+      name: 'Zihui Xue 薛子慧',
+      website: '',
+      content: 'Zihui Xue was a research assistant from 2020 to 2021. She is now a PhD student at UT Austin.',
+      image: 'kenan.jpeg',
+    },
+    {
+      name: 'Tianyu Hua 华天羽',
+      website: 'https://patrickhua.github.io/',
+      content: 'Tianyu Hua was a research assistant from 2020 to 2021. He is now a PhD student at Uiversity of British Columbia.',
+      image: 'tianyu.jpg',
+    },
+    {
+      name: 'Tianyuan Zhang 张天远',
+      website: 'http://tianyuanzhang.com/',
+      content: 'Tianyuan Zhang was a research assistant in 2021. He is now a MS student at CMU.',
+      image: 'tianyuan.jpg',
+    },
+    {
+      name: 'Zhengqi Gao 高正祺',
+      website: 'https://zhengqigao.github.io/',
+      content: 'Zhengqi Gao was an intern in 2021. He is now a PhD student at MIT.',
+      image: 'kenan.jpeg',
+    },
+    {
+      name: 'Sucheng Ren 任苏成',
+      website: '',
+      content: 'Sucheng was an intern from 2020 to 2021.',
       image: 'kenan.jpeg',
     },
   ],
