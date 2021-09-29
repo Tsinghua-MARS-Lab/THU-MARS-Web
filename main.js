@@ -150,6 +150,18 @@ const main = {
 
   projects: [
     {
+      title: 'DETR3D: 3D Object Detection from Multi-view Images via 3D-to-2D Queries',
+      publisher: 'CoRL 2021',
+      authors: 'Yue Wang, Vitor Campagnolo Guizilini, Tianyuan Zhang, Yilun Wang, Hang Zhao, Justin Solomon',
+      description: '"A new paradigm of 3D object detection from 2D images!"',
+      paper_link: 'https://openreview.net/pdf?id=xHnJS2GYFDz',
+      project_link: '',
+      image: 'detr3d.jpeg',
+      tags: [
+        'hot',
+      ],
+    },
+    {
       title: 'HDMapNet: An Online HD Map Construction and Evaluation Framework',
       publisher: 'CVPR 2021 Workshop (best paper nominee)',
       authors: 'Qi Li, Yue Wang, Yilun Wang, Hang Zhao',
@@ -422,6 +434,24 @@ const main = {
   ],
   
   publications: [
+    {
+      title: 'DETR3D: 3D Object Detection from Multi-view Images via 3D-to-2D Queries',
+      publisher: 'CoRL 2021',
+      authors: 'Yue Wang, Vitor Campagnolo Guizilini, Tianyuan Zhang, Yilun Wang, Hang Zhao, Justin Solomon',
+      paper_link: 'https://openreview.net/pdf?id=xHnJS2GYFDz',
+    },
+    {
+      title: 'Adversarially Robust Imitation Learning',
+      publisher: 'CoRL 2021',
+      authors: 'Jianren Wang, Ziwen Zhuang, Yuyang Wang, Hang Zhao',
+      paper_link: 'https://openreview.net/pdf?id=9aVCUv3nKBg',
+    },
+    {
+      title: 'Multi-Agent Trajectory Prediction by Combining Egocentric and Allocentric Views',
+      publisher: 'CoRL 2021',
+      authors: 'Xiaosong Jia, Liting Sun, Hang Zhao, Masayoshi Tomizuka, Wei Zhan',
+      paper_link: 'https://openreview.net/pdf?id=lAtePxetBNb',
+    },
     {
       title: 'HDMapNet: An Online HD Map Construction and Evaluation Framework',
       publisher: 'CVPR 2021 Workshop (best paper nominee)',
