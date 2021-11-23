@@ -58,7 +58,7 @@ const main = {
     },
     {
       name: 'Chenxu Hu 胡晨旭',
-      website: '',
+      website: 'https://scholar.google.com/citations?user=4LzKZggAAAAJ&hl=zh-CN&oi=ao',
       content: 'Chenxu Hu is a PhD student starting from 2021. He is interested in multi-modal learning, across vision, language and audio.',
       image: 'chenxu.jpg',
     },
@@ -149,6 +149,18 @@ const main = {
   ],
 
   projects: [
+    {
+      title: 'Neural Dubber: Dubbing for Videos According to Scripts',
+      publisher: 'NeurIPS 2021',
+      authors: 'Chenxu Hu, Qiao Tian, Tingle Li, Yuping Wang, Yuxuan Wang, Hang Zhao',
+      description: '"First achieve automatic video dubbing computationally by neural network!"',
+      paper_link: 'https://arxiv.org/abs/2110.08243',
+      project_link: 'https://tsinghua-mars-lab.github.io/NeuralDubber/',
+      image: 'neural_dubber.png',
+      tags: [
+        'hot',
+      ],
+    },
     {
       title: 'DETR3D: 3D Object Detection from Multi-view Images via 3D-to-2D Queries',
       publisher: 'CoRL 2021',
