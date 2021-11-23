@@ -447,6 +447,12 @@ const main = {
   
   publications: [
     {
+      title: 'Neural Dubber: Dubbing for Videos According to Scripts',
+      publisher: 'NeurIPS 2021',
+      authors: 'Chenxu Hu, Qiao Tian, Tingle Li, Yuping Wang, Yuxuan Wang, Hang Zhao',
+      paper_link: 'https://arxiv.org/abs/2110.08243',
+    },
+    {
       title: 'DETR3D: 3D Object Detection from Multi-view Images via 3D-to-2D Queries',
       publisher: 'CoRL 2021',
       authors: 'Yue Wang, Vitor Campagnolo Guizilini, Tianyuan Zhang, Yilun Wang, Hang Zhao, Justin Solomon',
