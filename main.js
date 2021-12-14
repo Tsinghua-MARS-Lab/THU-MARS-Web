@@ -45,12 +45,6 @@ const main = {
       image: 'chenzhuang.jpg',
     },
     {
-      name: 'Yichen Liu 刘奕辰',
-      website: '',
-      content: 'Yichen Liu is a MS student starting from 2020. He is interested in the fundamentals and applications of multi-modal learning.',
-      image: 'kenan.jpeg',
-    },
-    {
       name: 'Junru Gu 辜俊儒',
       website: 'https://github.com/GentleSmile',
       content: 'Junru Gu is a PhD student starting from 2021. He is interested in autonomous driving.',
@@ -477,6 +471,12 @@ const main = {
       paper_link: 'https://arxiv.org/abs/2107.06307',
     },
     {
+      title: 'SimIPU: Simple 2D Image and 3D Point Cloud Unsupervised Pre-Training for Spatial-Aware Visual Representations',
+      publisher: 'AAAI 2021',
+      authors: 'Zhenyu Li, Zehui Chen, Ang Li, Liangji Fang, Qinhong Jiang, Xianming Liu, Junjun Jiang, Bolei Zhou, Hang Zhao',
+      paper_link: 'https://arxiv.org/abs/2112.04680',
+    },
+    {
       title: 'On Feature Decorrelation in Self-Supervised Learning',
       publisher: 'ICCV 2021 Oral',
       authors: 'Tianyu Hua, Wenxiao Wang, Zihui Xue, Yue Wang, Sucheng Ren, Hang Zhao',
@@ -559,6 +559,18 @@ const main = {
       publisher: 'CVPR 2020',
       authors: 'Pei Sun, Henrik Kretzschmar, Xerxes Dotiwalla, Aurelien Chouard, Vijaysai Patnaik, Paul Tsui, James Guo, Yin Zhou, Yuning Chai, Benjamin Caine, Vijay Vasudevan, Wei Han, Jiquan Ngiam, Hang Zhao, Aleksei Timofeev, Scott Ettinger, Maxim Krivokon, Amy Gao, Aditya Joshi, Sheng Zhao, Shuyang Cheng, Yu Zhang, Jonathon Shlens, Zhifeng Chen, Dragomir Anguelov',
       paper_link: 'https://arxiv.org/abs/1912.04838',
+    },
+    {
+      title: 'Music Gesture for Visual Sound Separation',
+      publisher: 'CVPR 2020',
+      authors: 'Chuang Gan, Deng Huang, Hang Zhao, Joshua B Tenenbaum, Antonio Torralba',
+      paper_link: 'https://openaccess.thecvf.com/content_CVPR_2020/html/Gan_Music_Gesture_for_Visual_Sound_Separation_CVPR_2020_paper.html',
+    },
+    {
+      title: 'Alignnet: A Unifying Approach to Audio-visual Alignment',
+      publisher: 'WACV 2020',
+      authors: 'Jianren Wang, Zhaoyuan Fang, Hang Zhao',
+      paper_link: 'https://openaccess.thecvf.com/content_WACV_2020/html/Wang_AlignNet_A_Unifying_Approach_to_Audio-Visual_Alignment_WACV_2020_paper.html'
     },
     {
       title: 'The Sound of Motions',
@@ -648,13 +660,13 @@ const main = {
       title: 'Snapshot on-chip HDR ROIC architectures',
       publisher: 'COSI 2015',
       authors: 'Christy Fernandez-Cull, Hang Zhao, Boxin Shi, Brian M. Tyrrell, Joseph Lin and Ramesh Raskar',
-      paper_link: '',
+      paper_link: 'https://www.osapublishing.org/abstract.cfm?uri=COSI-2015-CM3E.3',
     }, 
     {	
       title: 'Occluded imaging with time of flight sensors',
       publisher: 'ACM Transactions on Graphics 2015',
       authors: 'Achuta Kadambi, Hang Zhao, Boxin Shi and Ramesh Raskar',
-      paper_link: '',
+      paper_link: 'https://dl.acm.org/doi/abs/10.1145/2836164',
     }, 
     {
       title: 'Sub-pixel layout for super-resolution with images in an octic group',
