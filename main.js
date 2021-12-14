@@ -441,6 +441,12 @@ const main = {
   
   publications: [
     {
+      title: 'SimIPU: Simple 2D Image and 3D Point Cloud Unsupervised Pre-Training for Spatial-Aware Visual Representations',
+      publisher: 'AAAI 2022',
+      authors: 'Zhenyu Li, Zehui Chen, Ang Li, Liangji Fang, Qinhong Jiang, Xianming Liu, Junjun Jiang, Bolei Zhou, Hang Zhao',
+      paper_link: 'https://arxiv.org/abs/2112.04680',
+    },
+    {
       title: 'Neural Dubber: Dubbing for Videos According to Scripts',
       publisher: 'NeurIPS 2021',
       authors: 'Chenxu Hu, Qiao Tian, Tingle Li, Yuping Wang, Yuxuan Wang, Hang Zhao',
@@ -469,12 +475,6 @@ const main = {
       publisher: 'CVPR 2021 Workshop (best paper nominee)',
       authors: 'Qi Li, Yue Wang, Yilun Wang, Hang Zhao',
       paper_link: 'https://arxiv.org/abs/2107.06307',
-    },
-    {
-      title: 'SimIPU: Simple 2D Image and 3D Point Cloud Unsupervised Pre-Training for Spatial-Aware Visual Representations',
-      publisher: 'AAAI 2021',
-      authors: 'Zhenyu Li, Zehui Chen, Ang Li, Liangji Fang, Qinhong Jiang, Xianming Liu, Junjun Jiang, Bolei Zhou, Hang Zhao',
-      paper_link: 'https://arxiv.org/abs/2112.04680',
     },
     {
       title: 'On Feature Decorrelation in Self-Supervised Learning',
