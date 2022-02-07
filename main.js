@@ -90,6 +90,12 @@ const main = {
       content: 'Ziwen Zhuang is a research assistant in the lab. He is interested in robotics.',
       image: 'ziwen.jpg',
     },
+    {
+      name: 'Qi Li 李祁',
+      website: 'https://liqi17thu.github.io/',
+      content: 'Qi Li is an undergraduate research assistant in the lab. He is interested in autonomous driving and robotics.',
+      image: 'qili.jpeg',
+    },
   ],
   
   alumni: [
@@ -127,7 +133,7 @@ const main = {
       name: 'Sucheng Ren 任苏成',
       website: 'https://oliverrensu.github.io/',
       content: 'Sucheng was an intern from 2020 to 2021.',
-      image: 'kenan.jpeg',
+      image: 'sucheng.jpeg',
     },
     {
       name: 'Running Zhao 赵闰宁',
