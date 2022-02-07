@@ -487,7 +487,7 @@ const main = {
       title: 'IFR-Explore: Learning Inter-object Functional Relationships in 3D Indoor Scenes',
       publisher: 'ICLR 2022',
       authors: 'Qi Li, Kaichun Mo, Yanchao Yang, Hang Zhao, Leonidas Guibas',
-      paper_link: '',
+      paper_link: 'https://arxiv.org/abs/2112.05298?context=cs',
     }, 
     {
       title: 'SimIPU: Simple 2D Image and 3D Point Cloud Unsupervised Pre-Training for Spatial-Aware Visual Representations',
@@ -500,6 +500,12 @@ const main = {
       publisher: 'NeurIPS 2021',
       authors: 'Chenxu Hu, Qiao Tian, Tingle Li, Yuping Wang, Yuxuan Wang, Hang Zhao',
       paper_link: 'https://arxiv.org/abs/2110.08243',
+    },
+    {
+      title: 'What Makes Multi-Modal Learning Better than Single (Provably)',
+      publisher: 'NeurIPS 2021',
+      authors: 'Yu Huang, Chenzhuang Du, Zihui Xue, Xuanyao Chen, Hang Zhao, Longbo Huang',
+      paper_link: 'https://proceedings.neurips.cc/paper/2021/hash/5aa3405a3f865c10f420a4a7b55cbff3-Abstract.html',
     },
     {
       title: 'DETR3D: 3D Object Detection from Multi-view Images via 3D-to-2D Queries',
