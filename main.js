@@ -43,7 +43,7 @@ const main = {
       name: 'Chenzhuang Du 杜晨壮',
       website: '',
       content: 'Chenzhuang Du is a PhD student starting from 2020. He is interested in the fundamentals and applications of multi-modal learning.',
-      image: 'chenzhuang.jpg',
+      image: 'chenzhuang.jpeg',
     },
     {
       name: 'Junru Gu 辜俊儒',
@@ -53,9 +53,9 @@ const main = {
     },
     {
       name: 'Chenxu Hu 胡晨旭',
-      website: 'https://scholar.google.com/citations?user=4LzKZggAAAAJ&hl=zh-CN&oi=ao',
+      website: 'https://huchenxucs.github.io/',
       content: 'Chenxu Hu is a PhD student starting from 2021. He is interested in multi-modal learning, across vision, language and audio.',
-      image: 'chenxu.jpg',
+      image: 'chenxu.jpeg',
     },
     {
       name: 'Ren Wang 汪仁皓',
@@ -473,13 +473,13 @@ const main = {
     },  
     {
       title: 'R4D: Utilizing Reference Objects for Long-Range Distance Estimation',
-      publisher: 'ICRA 2022',
+      publisher: 'ICLR 2022',
       authors: 'Yingwei Li, Tiffany Chen, Maya Kabkab, Ruichi Yu, Longlong Jing, Yurong You, Hang Zhao',
       paper_link: '',
     },  
     {
       title: 'IFR-Explore: Learning Inter-object Functional Relationships in 3D Indoor Scenes',
-      publisher: 'ICRA 2022',
+      publisher: 'ICLR 2022',
       authors: 'Qi Li, Kaichun Mo, Yanchao Yang, Hang Zhao, Leonidas Guibas',
       paper_link: '',
     }, 
