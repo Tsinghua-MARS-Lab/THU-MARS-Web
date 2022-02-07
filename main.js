@@ -90,12 +90,6 @@ const main = {
       content: 'Ziwen Zhuang is a research assistant in the lab. He is interested in robotics.',
       image: 'ziwen.jpg',
     },
-    {
-      name: 'Xiaojie Xu 徐啸捷',
-      website: '',
-      content: 'Xiaojie Xu is a research assistant in the lab. He is interested in computer vision and autonomous driving.',
-      image: 'kenan.jpeg',
-    },
   ],
   
   alumni: [
@@ -103,13 +97,13 @@ const main = {
       name: 'Wenxiao Wang 汪文潇',
       website: '',
       content: 'Wenxiao Wang was a MS student from 2020 to 2021. He is now a PhD student at University of Maryland.',
-      image: 'kenan.jpeg',
+      image: 'wenxiao.jpeg',
     },
     {
       name: 'Zihui Xue 薛子慧',
-      website: '',
+      website: 'https://zihuixue.github.io/',
       content: 'Zihui Xue was a research assistant from 2020 to 2021. She is now a PhD student at UT Austin.',
-      image: 'kenan.jpeg',
+      image: 'zihui.jpeg',
     },
     {
       name: 'Tianyu Hua 华天羽',
@@ -127,23 +121,47 @@ const main = {
       name: 'Zhengqi Gao 高正祺',
       website: 'https://zhengqigao.github.io/',
       content: 'Zhengqi Gao was an intern in 2021. He is now a PhD student at MIT.',
-      image: 'kenan.jpeg',
+      image: 'zhengqi.png',
     },
     {
       name: 'Sucheng Ren 任苏成',
-      website: '',
+      website: 'https://oliverrensu.github.io/',
       content: 'Sucheng was an intern from 2020 to 2021.',
       image: 'kenan.jpeg',
     },
-        {
+    {
       name: 'Running Zhao 赵闰宁',
       website: '',
       content: 'Running Zhao was an intern in 2021. He is now a PhD student at the University of Hong Kong.',
       image: 'kenan.jpeg',
     },
+    {
+      name: 'Xiaojie Xu 徐啸捷',
+      website: '',
+      content: 'Xiaojie Xu was an intern in 2021. He is now a PhD student at the Hong Kong University of Science and Technology.',
+      image: 'kenan.jpeg',
+    },
+    {
+      name: 'Lingyu Zhu 朱玲玉',
+      website: 'https://ly-zhu.github.io/',
+      content: 'Lingyu Zhu was a visiting student in 2021 Fall. She is a PhD student at Tampere University, Finland.',
+      image: 'lingyuzhu.png',
+    },
   ],
 
   projects: [
+    {
+      title: 'HDMapNet: An Online HD Map Construction and Evaluation Framework',
+      publisher: 'ICRA 2022, CVPR 2021 Workshop best paper nominee',
+      authors: 'Qi Li, Yue Wang, Yilun Wang, Hang Zhao',
+      description: '"HD map sensing from onboard sensors!"',
+      paper_link: 'https://arxiv.org/abs/2107.06307',
+      project_link: 'https://tsinghua-mars-lab.github.io/HDMapNet/',
+      image: 'hdmapnet_demo.gif',
+      tags: [
+        'hot',
+      ],
+    },
     {
       title: 'Neural Dubber: Dubbing for Videos According to Scripts',
       publisher: 'NeurIPS 2021',
@@ -164,18 +182,6 @@ const main = {
       paper_link: 'https://openreview.net/pdf?id=xHnJS2GYFDz',
       project_link: '',
       image: 'detr3d.jpeg',
-      tags: [
-        'hot',
-      ],
-    },
-    {
-      title: 'HDMapNet: An Online HD Map Construction and Evaluation Framework',
-      publisher: 'CVPR 2021 Workshop (best paper nominee)',
-      authors: 'Qi Li, Yue Wang, Yilun Wang, Hang Zhao',
-      description: '"HD map sensing from onboard sensors!"',
-      paper_link: 'https://arxiv.org/abs/2107.06307',
-      project_link: 'https://tsinghua-mars-lab.github.io/HDMapNet/',
-      image: 'hdmapnet_demo.gif',
       tags: [
         'hot',
       ],
@@ -249,7 +255,7 @@ const main = {
     },
     {
       title: 'SEMI: Self-supervised Exploration via Multisensory Incongruity',
-      publisher: 'Preprint',
+      publisher: 'ICRA 2022',
       authors: 'Jianren Wang*, Ziwen Zhuang*, Hang Zhao',
       description: '"Multi-sensory incongruity incentizes RL agents to explore!"',
       paper_link: 'https://arxiv.org/abs/2009.12494',
@@ -440,7 +446,43 @@ const main = {
     // }, 
   ],
   
-  publications: [
+  publications: [ 
+    {
+      title: 'HDMapNet: An Online HD Map Construction and Evaluation Framework',
+      publisher: 'ICRA 2022, CVPR 2021 Workshop best paper nominee',
+      authors: 'Qi Li, Yue Wang, Yilun Wang, Hang Zhao',
+      paper_link: 'https://arxiv.org/abs/2107.06307',
+    },
+    {
+      title: 'SEMI: Self-supervised Exploration via Multisensory Incongruity',
+      publisher: 'ICRA 2022',
+      authors: 'Jianren Wang*, Ziwen Zhuang*, Hang Zhao',
+      paper_link: 'https://arxiv.org/abs/2009.12494',
+    }, 
+    {
+      title: 'Depth Estimation Matters Most: Improving Per-Object Depth Estimation for Monocular 3D Detection and Tracking',
+      publisher: 'ICRA 2022',
+      authors: 'Longlong Jing, Ruichi Yu, Henrik Kretzschmar, Kang Li, Ruizhongtai Qi, Hang Zhao, Alper Ayvaci, Xu Chen, Dillon Cower, Yingwei Li, Yurong You, Han Deng, Congcong Li, Dragomir Anguelov',
+      paper_link: '',
+    },  
+    {
+      title: 'Intrinsically Motivated Self-supervised Learning in Reinforcement Learning',
+      publisher: 'ICRA 2022',
+      authors: 'Yue Zhao, Chenzhuang Du, Hang Zhao, Tiejun Li',
+      paper_link: '',
+    },  
+    {
+      title: 'R4D: Utilizing Reference Objects for Long-Range Distance Estimation',
+      publisher: 'ICRA 2022',
+      authors: 'Yingwei Li, Tiffany Chen, Maya Kabkab, Ruichi Yu, Longlong Jing, Yurong You, Hang Zhao',
+      paper_link: '',
+    },  
+    {
+      title: 'IFR-Explore: Learning Inter-object Functional Relationships in 3D Indoor Scenes',
+      publisher: 'ICRA 2022',
+      authors: 'Qi Li, Kaichun Mo, Yanchao Yang, Hang Zhao, Leonidas Guibas',
+      paper_link: '',
+    }, 
     {
       title: 'SimIPU: Simple 2D Image and 3D Point Cloud Unsupervised Pre-Training for Spatial-Aware Visual Representations',
       publisher: 'AAAI 2022',
@@ -470,12 +512,6 @@ const main = {
       publisher: 'CoRL 2021',
       authors: 'Xiaosong Jia, Liting Sun, Hang Zhao, Masayoshi Tomizuka, Wei Zhan',
       paper_link: 'https://openreview.net/pdf?id=lAtePxetBNb',
-    },
-    {
-      title: 'HDMapNet: An Online HD Map Construction and Evaluation Framework',
-      publisher: 'CVPR 2021 Workshop (best paper nominee)',
-      authors: 'Qi Li, Yue Wang, Yilun Wang, Hang Zhao',
-      paper_link: 'https://arxiv.org/abs/2107.06307',
     },
     {
       title: 'On Feature Decorrelation in Self-Supervised Learning',
@@ -525,12 +561,6 @@ const main = {
       authors: 'Hang Zhao*, Jiyang Gao*, Tian Lan, Chen Sun, Benjamin Sapp, Balakrishnan Varadarajan, Yue Shen, Yi Shen, Yuning Chai, Cordelia Schmid, Congcong Li, Dragomir Anguelov',
       paper_link: 'https://arxiv.org/abs/2008.08294',
     },
-    {
-      title: 'SEMI: Self-supervised Exploration via Multisensory Incongruity',
-      publisher: 'Preprint',
-      authors: 'Jianren Wang*, Ziwen Zhuang*, Hang Zhao',
-      paper_link: 'https://arxiv.org/abs/2009.12494',
-    }, 
     {
       title: 'CLOUD: Contrastive Learning of Unsupervised Dynamics',
       publisher: 'CoRL 2020',
