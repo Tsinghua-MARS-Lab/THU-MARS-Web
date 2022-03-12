@@ -157,6 +157,15 @@ const main = {
 
   projects: [
     {
+      title: 'SEMI: Self-supervised Exploration via Multisensory Incongruity',
+      publisher: 'ICRA 2022',
+      authors: 'Jianren Wang*, Ziwen Zhuang*, Hang Zhao',
+      description: '"Multi-sensory incongruity incentizes RL agents to explore!"',
+      paper_link: 'https://arxiv.org/abs/2009.12494',
+      project_link: '',
+      image: 'SEMI.jpeg',
+    }, 
+    {
       title: 'HDMapNet: An Online HD Map Construction and Evaluation Framework',
       publisher: 'ICRA 2022, CVPR 2021 Workshop best paper nominee',
       authors: 'Qi Li, Yue Wang, Yilun Wang, Hang Zhao',
@@ -181,6 +190,16 @@ const main = {
       ],
     },
     {
+      title: 'What Makes Multi-Modal Learning Better than Single (Provably)',
+      publisher: 'NeurIPS 2021',
+      authors: 'Yu Huang, Chenzhuang Du, Zihui Xue, Xuanyao Chen, Hang Zhao, Longbo Huang',
+      paper_link: 'https://proceedings.neurips.cc/paper/2021/hash/5aa3405a3f865c10f420a4a7b55cbff3-Abstract.html',
+      image: 'mm_better.png',
+      tags: [
+        'hot',
+      ],
+    },
+    {
       title: 'DETR3D: 3D Object Detection from Multi-view Images via 3D-to-2D Queries',
       publisher: 'CoRL 2021',
       authors: 'Yue Wang, Vitor Campagnolo Guizilini, Tianyuan Zhang, Yilun Wang, Hang Zhao, Justin Solomon',
@@ -197,7 +216,7 @@ const main = {
       publisher: 'ICCV 2021 Oral',
       authors: 'Tianyu Hua, Wenxiao Wang, Zihui Xue, Yue Wang, Sucheng Ren, Hang Zhao',
       description: '"It reveals the connection between model collapse and feature correlations!"',
-      paper_link: 'https://arxiv.org/abs/2105.00470',
+      paper_link: 'https://openaccess.thecvf.com/content/ICCV2021/html/Hua_On_Feature_Decorrelation_in_Self-Supervised_Learning_ICCV_2021_paper.html',
       project_link: 'https://tsinghua-mars-lab.github.io/decorr/',
       image: 'decorrelation.jpg',
       tags: [
@@ -209,7 +228,7 @@ const main = {
       publisher: 'ICCV 2021 Oral',
       authors: 'Scott Ettinger, Shuyang Cheng, Benjamin Caine, Chenxi Liu, Hang Zhao, Sabeek Pradhan, Yuning Chai, Ben Sapp, Charles Qi, Yin Zhou, Zoey Yang, Aurelien Chouard, Pei Sun, Jiquan Ngiam, Vijay Vasudevan, Alexander McCauley, Jonathon Shlens, Dragomir Anguelov',
 	  // description: '"A high-quality interactive motion prediction dataset for autonomous driving!"',
-      paper_link: 'https://arxiv.org/abs/2104.10133',
+      paper_link: 'https://openaccess.thecvf.com/content/ICCV2021/html/Ettinger_Large_Scale_Interactive_Motion_Forecasting_for_Autonomous_Driving_The_Waymo_ICCV_2021_paper.html',
       project_link: 'https://blog.waymo.com/2021/03/expanding-waymo-open-dataset-with-interactive-scenario-data-and-new-challenges.html',
       image: 'waymo_motion.gif',
       tags: [
@@ -221,7 +240,7 @@ const main = {
       publisher: 'ICCV 2021',
       authors: 'Zihui Xue, Sucheng Ren, Zhengqi Gao, Hang Zhao',
       description: '"Multimodal data brings knowledge for free!"',
-      paper_link: 'https://arxiv.org/abs/2103.14431',
+      paper_link: 'https://openaccess.thecvf.com/content/ICCV2021/html/Xue_Multimodal_Knowledge_Expansion_ICCV_2021_paper.html',
       project_link: 'https://tsinghua-mars-lab.github.io/MKE/',
       image: 'mke.png',
     },    
@@ -230,7 +249,7 @@ const main = {
       publisher: 'ICCV 2021, Waymo Motion Prediction Challenge Winner',
       authors: 'Junru Gu, Chen Sun, Hang Zhao',
       description: '"A SOTA anchor-free and end-to-end multi-trajectory prediction model"',
-      paper_link: 'https://arxiv.org/abs/2108.09640',
+      paper_link: 'https://openaccess.thecvf.com/content/ICCV2021/html/Gu_DenseTNT_End-to-End_Trajectory_Prediction_From_Dense_Goal_Sets_ICCV_2021_paper.html',
       project_link: 'https://tsinghua-mars-lab.github.io/DenseTNT/',
       extra_link: [
         {
@@ -248,7 +267,7 @@ const main = {
       publisher: 'Interspeech 2021 (ISCA travel grant award)',
       authors: 'Tingle Li, Yichen Liu, Chenxu Hu, Hang Zhao',
       description: '"It only requires one-way GAN training for non-parallel voice conversion"',
-      paper_link: 'https://arxiv.org/abs/2011.00782',
+      paper_link: 'https://www.isca-speech.org/archive/interspeech_2021/li21d_interspeech.html',
       project_link: 'https://tinglok.netlify.app/files/cvc/',
       image: 'CVC.jpg',
     },
@@ -259,15 +278,6 @@ const main = {
       paper_link: 'https://openaccess.thecvf.com/content/CVPR2021/html/Mi_HDMapGen_A_Hierarchical_Graph_Generative_Model_of_High_Definition_Maps_CVPR_2021_paper.html',
       image: 'HDMapGen.jpg',
     },
-    {
-      title: 'SEMI: Self-supervised Exploration via Multisensory Incongruity',
-      publisher: 'ICRA 2022',
-      authors: 'Jianren Wang*, Ziwen Zhuang*, Hang Zhao',
-      description: '"Multi-sensory incongruity incentizes RL agents to explore!"',
-      paper_link: 'https://arxiv.org/abs/2009.12494',
-      project_link: '',
-      image: 'SEMI.jpeg',
-    }, 
     {
       title: 'TNT: Target-driveN Trajectory Prediction',
       publisher: 'CoRL 2020',
@@ -373,15 +383,15 @@ const main = {
         'hot',
       ],
     },
-    {
-      title: 'Open Vocabulary Scene Parsing',
-      publisher: 'ICCV 2017',
-      authors: 'Hang Zhao, Xavier Puig, Bolei Zhou, Sanja Fidler, Antonio Torralba',
-      description: '',
-      paper_link: 'http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhao_Open_Vocabulary_Scene_ICCV_2017_paper.pdf',
-      project_link: 'http://sceneparsing.csail.mit.edu/openvoc/',
-      image: 'openvoc.png',
-    }, 
+    // {
+    //   title: 'Open Vocabulary Scene Parsing',
+    //   publisher: 'ICCV 2017',
+    //   authors: 'Hang Zhao, Xavier Puig, Bolei Zhou, Sanja Fidler, Antonio Torralba',
+    //   description: '',
+    //   paper_link: 'http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhao_Open_Vocabulary_Scene_ICCV_2017_paper.pdf',
+    //   project_link: 'http://sceneparsing.csail.mit.edu/openvoc/',
+    //   image: 'openvoc.png',
+    // }, 
     {
       title: 'Scene Parsing through ADE20K Dataset',
       publisher: 'CVPR 2017',
@@ -454,6 +464,30 @@ const main = {
   
   publications: [ 
     {
+      title: 'M2I: From Factored Marginal Trajectory Prediction to Interactive Prediction',
+      publisher: 'CVPR 2022',
+      authors: 'Qiao Sun, Xin Huang, Junru Gu, Brian C Williams, Hang Zhao',
+      paper_link: 'https://arxiv.org/abs/2202.11884',
+    },
+    {
+      title: 'Co-advise: Cross Inductive Bias Distillation',
+      publisher: 'CVPR 2022',
+      authors: 'Sucheng Ren, Zhengqi Gao, Tianyu Hua, Zihui Xue, Yonglong Tian, Shengfeng He, Hang Zhao',
+      paper_link: 'https://arxiv.org/abs/2106.12378',
+    },
+    {
+      title: 'Embracing Single Stride 3D Object Detector with Sparse Transformer',
+      publisher: 'CVPR 2022',
+      authors: 'Lue Fan, Ziqi Pang, Tianyuan Zhang, Yu-Xiong Wang, Hang Zhao, Feng Wang, Naiyan Wang, Zhaoxiang Zhang',
+      paper_link: 'https://arxiv.org/abs/2112.06375',
+    },
+    {
+      title: 'Egocentric Prediction of Action Target in 3D',
+      publisher: 'CVPR 2022',
+      authors: 'Yiming Li, Ziang Cao, Andrew Liang, Benjamin Liang, Luoyao Chen, Hang Zhao, Chen Feng',
+      paper_link: '',
+    },
+    {
       title: 'HDMapNet: An Online HD Map Construction and Evaluation Framework',
       publisher: 'ICRA 2022, CVPR 2021 Workshop best paper nominee',
       authors: 'Qi Li, Yue Wang, Yilun Wang, Hang Zhao',
@@ -523,31 +557,31 @@ const main = {
       title: 'Multi-Agent Trajectory Prediction by Combining Egocentric and Allocentric Views',
       publisher: 'CoRL 2021',
       authors: 'Xiaosong Jia, Liting Sun, Hang Zhao, Masayoshi Tomizuka, Wei Zhan',
-      paper_link: 'https://openreview.net/pdf?id=lAtePxetBNb',
+      paper_link: 'https://proceedings.mlr.press/v164/jia22a.html',
     },
     {
       title: 'On Feature Decorrelation in Self-Supervised Learning',
       publisher: 'ICCV 2021 Oral',
       authors: 'Tianyu Hua, Wenxiao Wang, Zihui Xue, Yue Wang, Sucheng Ren, Hang Zhao',
-      paper_link: 'https://arxiv.org/abs/2105.00470',
+      paper_link: 'https://openaccess.thecvf.com/content/ICCV2021/html/Hua_On_Feature_Decorrelation_in_Self-Supervised_Learning_ICCV_2021_paper.html',
     },
 	{
       title: 'Large Scale Interactive Motion Forecasting for Autonomous Driving: The Waymo Open Motion Dataset',
       publisher: 'ICCV 2021 Oral',
       authors: 'Scott Ettinger, Shuyang Cheng, Benjamin Caine, Chenxi Liu, Hang Zhao, Sabeek Pradhan, Yuning Chai, Ben Sapp, Charles Qi, Yin Zhou, Zoey Yang, Aurelien Chouard, Pei Sun, Jiquan Ngiam, Vijay Vasudevan, Alexander McCauley, Jonathon Shlens, Dragomir Anguelov',
-      paper_link: 'https://arxiv.org/abs/2104.10133',
+      paper_link: 'https://openaccess.thecvf.com/content/ICCV2021/html/Ettinger_Large_Scale_Interactive_Motion_Forecasting_for_Autonomous_Driving_The_Waymo_ICCV_2021_paper.html',
     },
     {
       title: 'Multimodal Knowledge Expansion',
       publisher: 'ICCV 2021',
       authors: 'Zihui Xue, Sucheng Ren, Zhengqi Gao, Hang Zhao',
-      paper_link: 'https://arxiv.org/abs/2103.14431',
+      paper_link: 'https://openaccess.thecvf.com/content/ICCV2021/html/Xue_Multimodal_Knowledge_Expansion_ICCV_2021_paper.html',
     },
     {
       title: 'DenseTNT: End-to-end Trajectory Prediction from Dense Goal Sets',
       publisher: 'ICCV 2021',
       authors: 'Junru Gu, Chen Sun, Hang Zhao',
-      paper_link: 'https://arxiv.org/abs/2108.09640',
+      paper_link: 'https://openaccess.thecvf.com/content/ICCV2021/html/Gu_DenseTNT_End-to-End_Trajectory_Prediction_From_Dense_Goal_Sets_ICCV_2021_paper.html',
     },
     {
       title: 'DenseTNT: Waymo Open Dataset Motion Prediction Challenge 1st Place Solution',
@@ -559,7 +593,7 @@ const main = {
       title: 'CVC: Contrastive Learning for Non-parallel Voice Conversion',
       publisher: 'Interspeech 2021 (ISCA travel grant award)',
       authors: 'Tingle Li, Yichen Liu, Chenxu Hu, Hang Zhao',
-      paper_link: 'https://arxiv.org/abs/2011.00782',
+      paper_link: 'https://www.isca-speech.org/archive/interspeech_2021/li21d_interspeech.html',
     },
     {
       title: 'HDMapGen: A Hierarchical Graph Generative Model of High Definition Maps',
