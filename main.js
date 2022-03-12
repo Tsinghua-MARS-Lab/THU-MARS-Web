@@ -91,6 +91,30 @@ const main = {
       image: 'ziwen.jpg',
     },
     {
+      name: 'Ziyuan Huang 黄子渊',
+      website: 'https://huang-ziyuan.github.io/',
+      content: 'Ziyuan Huang is a visiting student from National University of Singapore. He is interested in video understanding and multi-modal learning.',
+      image: 'ziyuan.jpeg',
+    },
+    {
+      name: 'Bowen Li 李博文',
+      website: 'https://vision4robotics.github.io/authors/bowen-li/',
+      content: 'Bowen Li is an undergraduate research assistant in the lab. He is interested in robotics and computer vision.',
+      image: 'bowenli.jpeg',
+    },
+    {
+      name: 'Xuan Xiong 熊璇',
+      website: '',
+      content: 'Xuan Xiong is a research assistant in the lab. She is interested in autonomous driving.',
+      image: 'kenan.jpeg',
+    },
+    {
+      name: 'Boxiang Rong 荣波翔',
+      website: '',
+      content: 'Boxiang Rong is an undergraduate research assistant in the lab. He is interested in autonomous driving.',
+      image: 'kenan.jpeg',
+    },
+    {
       name: 'Qi Li 李祁',
       website: 'https://liqi17thu.github.io/',
       content: 'Qi Li is an undergraduate research assistant in the lab. He is interested in autonomous driving and robotics.',
