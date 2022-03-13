@@ -66,8 +66,8 @@ const main = {
     {
       name: 'Qiao Sun 孙桥',
       website: '',
-      content: 'Qiao Sun is a PhD student starting from 2022. He is interested in autonomous driving.',
-      image: 'kenan.jpeg',
+      content: 'Qiao Sun is a PhD student starting from 2022. He is interested in prediction and planning for autonomous driving.',
+      image: 'qiaosun.png',
     },
     {
       name: 'Tianyuan Yuan 袁天远',
@@ -180,6 +180,15 @@ const main = {
   ],
 
   projects: [
+      {
+      title: 'M2I: From Factored Marginal Trajectory Prediction to Interactive Prediction',
+      publisher: 'CVPR 2022',
+      authors: 'Qiao Sun\*, Xin Huang\*, Junru Gu, Brian C. Williams, Hang Zhao',
+      description: '"Relationship predictions boost your motion prediction models for interactive predictions!"',
+      paper_link: 'https://arxiv.org/abs/2202.118844',
+      project_link: 'https://tsinghua-mars-lab.github.io/M2I/',
+      image: 'M2I.gif',
+    },   
     {
       title: 'SEMI: Self-supervised Exploration via Multisensory Incongruity',
       publisher: 'ICRA 2022',
