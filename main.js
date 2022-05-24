@@ -115,11 +115,18 @@ const main = {
       image: 'kenan.jpeg',
     },
     {
-      name: 'Qi Li 李祁',
-      website: 'https://liqi17thu.github.io/',
-      content: 'Qi Li is an undergraduate research assistant in the lab. He is interested in autonomous driving and robotics.',
-      image: 'qili.jpeg',
+      name: 'Running Zhao 赵闰宁',
+      website: '',
+      content: 'Running Zhao is a visiting PhD student from the University of Hong Kong. He is interested in Radar signal learning',
+      image: 'kenan.jpeg',
     },
+    {
+      name: 'Tianbao Zhang 张天宝',
+      website: '',
+      content: 'Tianbao Zhang is a research assistant in the lab. He is interested in autonomous driving.',
+      image: 'kenan.jpeg',
+    },
+
   ],
   
   alumni: [
@@ -160,27 +167,21 @@ const main = {
       image: 'sucheng.jpeg',
     },
     {
-      name: 'Running Zhao 赵闰宁',
-      website: '',
-      content: 'Running Zhao was an intern in 2021. He is now a PhD student at the University of Hong Kong.',
-      image: 'kenan.jpeg',
-    },
-    {
-      name: 'Xiaojie Xu 徐啸捷',
-      website: '',
-      content: 'Xiaojie Xu was an intern in 2021. He is now a PhD student at the Hong Kong University of Science and Technology.',
-      image: 'kenan.jpeg',
-    },
-    {
       name: 'Lingyu Zhu 朱玲玉',
       website: 'https://ly-zhu.github.io/',
       content: 'Lingyu Zhu was a visiting student in 2021 Fall. She is a PhD student at Tampere University, Finland.',
       image: 'lingyuzhu.png',
     },
+    {
+      name: 'Qi Li 李祁',
+      website: 'https://liqi17thu.github.io/',
+      content: 'Qi Li was an undergraduate research assistant in the lab. He is interested in autonomous driving and robotics.',
+      image: 'qili.jpeg',
+    },
   ],
 
   projects: [
-      {
+    {
       title: 'M2I: From Factored Marginal Trajectory Prediction to Interactive Prediction',
       publisher: 'CVPR 2022',
       authors: 'Qiao Sun\*, Xin Huang\*, Junru Gu, Brian C. Williams, Hang Zhao',
@@ -188,7 +189,7 @@ const main = {
       paper_link: 'https://arxiv.org/abs/2202.118844',
       project_link: 'https://tsinghua-mars-lab.github.io/M2I/',
       image: 'M2I.gif',
-    },   
+    },
     {
       title: 'SEMI: Self-supervised Exploration via Multisensory Incongruity',
       publisher: 'ICRA 2022',
@@ -497,6 +498,12 @@ const main = {
   
   publications: [ 
     {
+      title: 'MUTR3D: A Multi-camera Tracking Framework via 3D-to-2D Queries',
+      publisher: 'CVPR Workshop on Autonomous Driving 2022',
+      authors: 'Tianyuan Zhang, Xuanyao Chen, Yue Wang, Yilun Wang, Hang Zhao',
+      paper_link: 'https://arxiv.org/abs/2205.00613',
+    },
+    {
       title: 'M2I: From Factored Marginal Trajectory Prediction to Interactive Prediction',
       publisher: 'CVPR 2022',
       authors: 'Qiao Sun, Xin Huang, Junru Gu, Brian C Williams, Hang Zhao',
@@ -677,7 +684,7 @@ const main = {
       paper_link: 'https://openaccess.thecvf.com/content_CVPR_2020/html/Gan_Music_Gesture_for_Visual_Sound_Separation_CVPR_2020_paper.html',
     },
     {
-      title: 'Alignnet: A Unifying Approach to Audio-visual Alignment',
+      title: 'AlignNet: A Unifying Approach to Audio-visual Alignment',
       publisher: 'WACV 2020',
       authors: 'Jianren Wang, Zhaoyuan Fang, Hang Zhao',
       paper_link: 'https://openaccess.thecvf.com/content_WACV_2020/html/Wang_AlignNet_A_Unifying_Approach_to_Audio-Visual_Alignment_WACV_2020_paper.html'
