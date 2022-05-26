@@ -496,7 +496,31 @@ const main = {
     // }, 
   ],
   
-  publications: [ 
+  publications: [
+    {
+      title: 'Learning Visual Styles from Audio-Visual Associations',
+      publisher: 'Preprint 2022',
+      authors: 'Tingle Li, Yichen Liu, Andrew Owens, Hang Zhao',
+      paper_link: 'https://arxiv.org/abs/2205.05072',
+    },
+    {
+      title: 'Sound2Synth: Interpreting Sound via FM Synthesizer Parameters Estimation',
+      publisher: 'IJCAI 2022',
+      authors: 'Zui Chen, Yansen Jing, Shengcheng Yuan, Yifei Xu, Jian Wu, Hang Zhao',
+      paper_link: 'https://arxiv.org/abs/2205.03043',
+    },
+    {
+      title: 'AutoAlign: Pixel-Instance Feature Aggregation for Multi-Modal 3D Object Detection',
+      publisher: 'IJCAI 2022',
+      authors: 'Zehui Chen, Zhenyu Li, Shiquan Zhang, Liangji Fang, Qinghong Jiang, Feng Zhao, Bolei Zhou, Hang Zhao',
+      paper_link: 'https://arxiv.org/abs/2201.06493',
+    },
+    {
+      title: 'FUTR3D: A Unified Sensor Fusion Framework for 3D Detection',
+      publisher: 'Preprint 2022',
+      authors: 'Xuanyao Chen, Tianyuan Zhang, Yue Wang, Yilun Wang, Hang Zhao',
+      paper_link: 'https://arxiv.org/abs/2203.10642',
+    }, 
     {
       title: 'MUTR3D: A Multi-camera Tracking Framework via 3D-to-2D Queries',
       publisher: 'CVPR Workshop on Autonomous Driving 2022',
@@ -605,7 +629,7 @@ const main = {
       authors: 'Tianyu Hua, Wenxiao Wang, Zihui Xue, Yue Wang, Sucheng Ren, Hang Zhao',
       paper_link: 'https://openaccess.thecvf.com/content/ICCV2021/html/Hua_On_Feature_Decorrelation_in_Self-Supervised_Learning_ICCV_2021_paper.html',
     },
-	{
+	  {
       title: 'Large Scale Interactive Motion Forecasting for Autonomous Driving: The Waymo Open Motion Dataset',
       publisher: 'ICCV 2021 Oral',
       authors: 'Scott Ettinger, Shuyang Cheng, Benjamin Caine, Chenxi Liu, Hang Zhao, Sabeek Pradhan, Yuning Chai, Ben Sapp, Charles Qi, Yin Zhou, Zoey Yang, Aurelien Chouard, Pei Sun, Jiquan Ngiam, Vijay Vasudevan, Alexander McCauley, Jonathon Shlens, Dragomir Anguelov',
