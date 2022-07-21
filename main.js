@@ -181,7 +181,7 @@ const main = {
     },
     {
       name: 'Jiangtao Yu 于江涛',
-      website: 'www.jiangtaoyu.com',
+      website: 'https://binpeach.github.io/',
       content: 'Jiangtao Yu was an undergraduate intern in the lab. He is interested in multi-sensor machine learning.',
       image: 'yujiangtao.png',
     },
