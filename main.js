@@ -68,7 +68,7 @@ const main = {
       name: 'Qiao Sun 孙桥',
       website: '',
       content: 'Qiao Sun is a PhD student starting from 2022. He is interested in prediction and planning for autonomous driving.',
-      image: 'qiaosun.png',
+      image: 'qiaosun.png',	
     },
     {
       name: 'Tianyuan Yuan 袁天远',
@@ -182,7 +182,7 @@ const main = {
     {
       name: 'Jiangtao Yu 于江涛',
       website: 'https://binpeach.github.io/',
-      content: 'Jiangtao Yu was an undergraduate intern in the lab. He is interested in multi-sensor machine learning.',
+      content: 'Jiangtao Yu is an undergraduate intern in the lab. He is interested in multi-sensor machine learning.',
       image: 'yujiangtao.png',
     },
   ],
