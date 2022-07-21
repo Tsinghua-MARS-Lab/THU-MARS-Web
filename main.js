@@ -127,6 +127,12 @@ const main = {
       content: 'Tianbao Zhang is a research assistant in the lab. He is interested in autonomous driving.',
       image: 'kenan.jpeg',
     },
+    {
+      name: 'Jiangtao Yu 于江涛',
+      website: 'https://binpeach.github.io/',
+      content: 'Jiangtao Yu is an undergraduate intern in the lab. He is interested in multi-sensor machine learning.',
+      image: 'yujiangtao.png',
+    },
 
   ],
   
@@ -179,12 +185,7 @@ const main = {
       content: 'Qi Li was an undergraduate research assistant in the lab. He is interested in autonomous driving and robotics.',
       image: 'qili.jpeg',
     },
-    {
-      name: 'Jiangtao Yu 于江涛',
-      website: 'https://binpeach.github.io/',
-      content: 'Jiangtao Yu is an undergraduate intern in the lab. He is interested in multi-sensor machine learning.',
-      image: 'yujiangtao.png',
-    },
+    
   ],
 
   projects: [
