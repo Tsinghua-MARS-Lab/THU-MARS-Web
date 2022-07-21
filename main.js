@@ -130,7 +130,7 @@ const main = {
     {
       name: 'Jiangtao Yu 于江涛',
       website: 'https://binpeach.github.io/',
-      content: 'Jiangtao Yu is an undergraduate intern in the lab. He is interested in multi-sensor machine learning.',
+      content: 'Jiangtao Yu is an undergraduate research assistant in the lab. He is interested in multi-sensor machine learning.',
       image: 'yujiangtao.png',
     },
 
@@ -505,6 +505,12 @@ const main = {
   ],
   
   publications: [
+    {
+      title: 'Radio2Speech: High Quality Speech Recovery from Radio Frequency Signals',
+      publisher: 'Interspeech 2022',
+      authors: 'Running Zhao, Jiangtao Yu, Tingle Li, Hang Zhao*, Edith C.H. Ngai*',
+      paper_link: 'https://arxiv.org/abs/2206.11066',
+    },
     {
       title: 'Learning Visual Styles from Audio-Visual Associations',
       publisher: 'Preprint 2022',
