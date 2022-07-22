@@ -190,6 +190,15 @@ const main = {
 
   projects: [
     {
+      title: 'Radio2Speech: High Quality Speech Recovery from Radio Frequency Signals',
+      publisher: 'Interspeech 2022',
+      authors: 'Running Zhao, Jiangtao Yu, Tingle Li, Hang Zhao\*, Edith C.H. Ngai\*',
+      description: '"High-quality speech recovery system for millimeter-wave radar without deafness!"',
+      paper_link: 'https://arxiv.org/abs/2206.11066',
+      project_link: 'https://zhaorunning.github.io/Radio2Speech/',
+      image: 'radio2speech.jpg',
+    },
+    {
       title: 'M2I: From Factored Marginal Trajectory Prediction to Interactive Prediction',
       publisher: 'CVPR 2022',
       authors: 'Qiao Sun\*, Xin Huang\*, Junru Gu, Brian C. Williams, Hang Zhao',
