@@ -208,6 +208,22 @@ const main = {
       image: 'M2I.gif',
     },
     {
+      title: 'FUTR3D: A Unified Sensor Fusion Framework for 3D Detection',
+      publisher: 'Preprint 2022',
+      authors: 'Xuanyao Chen, Tianyuan Zhang, Yue Wang, Yilun Wang, Hang Zhao',
+      paper_link: 'https://arxiv.org/abs/2203.10642',
+      project_link: 'https://tsinghua-mars-lab.github.io/futr3d/',
+      image: 'futr3d.png',
+    }, 
+    {
+      title: 'MUTR3D: A Multi-camera Tracking Framework via 3D-to-2D Queries',
+      publisher: 'CVPR Workshop on Autonomous Driving 2022',
+      authors: 'Tianyuan Zhang, Xuanyao Chen, Yue Wang, Yilun Wang, Hang Zhao',
+      paper_link: 'https://arxiv.org/abs/2205.00613',
+      project_link: 'https://tsinghua-mars-lab.github.io/mutr3d/',
+      image: 'mutr3d.png',
+    },
+    {
       title: 'SEMI: Self-supervised Exploration via Multisensory Incongruity',
       publisher: 'ICRA 2022',
       authors: 'Jianren Wang*, Ziwen Zhuang*, Hang Zhao',
@@ -514,6 +530,18 @@ const main = {
   ],
   
   publications: [
+      {
+      title: 'ViP3D: End-to-end Visual Trajectory Prediction via 3D Agent Queries',
+      publisher: 'Preprint 2022',
+      authors: 'Junru Gu, Chenxu Hu, Tianyuan Zhang, Xuanyao Chen, Yilun Wang, Yue Wang, Hang Zhao',
+      paper_link: 'https://arxiv.org/abs/2208.01582',
+    },
+    {
+      title: 'VectorMapNet: End-to-end Vectorized HD Map Learning',
+      publisher: 'Preprint 2022',
+      authors: 'Yicheng Liu, Yue Wang, Yilun Wang, Hang Zhao',
+      paper_link: 'https://arxiv.org/abs/2206.08920',
+    },
     {
       title: 'Radio2Speech: High Quality Speech Recovery from Radio Frequency Signals',
       publisher: 'Interspeech 2022',
