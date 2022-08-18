@@ -190,6 +190,15 @@ const main = {
 
   projects: [
     {
+      title: 'ViP3D: End-to-end Visual Trajectory Prediction via 3D Agent Queries',
+      publisher: 'Preprint 2022',
+      authors: 'Junru Gu\*, Chenxu Hu\*, Tianyuan Zhang, Xuanyao Chen, Yilun Wang, Yue Wang, Hang Zhao',
+      description: '"First vision-based approach to predict future trajectories of agents for autonomous driving!"',
+      paper_link: 'https://arxiv.org/abs/2208.01582',
+      project_link: 'https://tsinghua-mars-lab.github.io/ViP3D/',
+      image: 'vip3d.gif',
+    },
+    {
       title: 'Radio2Speech: High Quality Speech Recovery from Radio Frequency Signals',
       publisher: 'Interspeech 2022',
       authors: 'Running Zhao, Jiangtao Yu, Tingle Li, Hang Zhao\*, Edith C.H. Ngai\*',
@@ -530,10 +539,10 @@ const main = {
   ],
   
   publications: [
-      {
+    {
       title: 'ViP3D: End-to-end Visual Trajectory Prediction via 3D Agent Queries',
       publisher: 'Preprint 2022',
-      authors: 'Junru Gu, Chenxu Hu, Tianyuan Zhang, Xuanyao Chen, Yilun Wang, Yue Wang, Hang Zhao',
+      authors: 'Junru Gu\*, Chenxu Hu\*, Tianyuan Zhang, Xuanyao Chen, Yilun Wang, Yue Wang, Hang Zhao',
       paper_link: 'https://arxiv.org/abs/2208.01582',
     },
     {
