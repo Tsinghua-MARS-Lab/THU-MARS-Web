@@ -61,7 +61,7 @@ const main = {
     {
       name: 'Ren Wang 汪仁皓',
       website: '',
-      content: 'Ren Wang is a PhD student starting from 2021. He is interested in representation learning.',
+      content: 'Ren Wang is a PhD student starting from 2021. He is interested in representation learning and robotics.',
       image: 'kenan.jpeg',
     },
     {
@@ -73,35 +73,29 @@ const main = {
     {
       name: 'Tianyuan Yuan 袁天远',
       website: '',
-      content: 'Tianyuan Yuan is fourth year undergraduate student at Peking University, and an incoming PhD student in 2022.',
+      content: 'Tianyuan Yuan is a PhD student starting from 2022. He is interested in computer vision and autonomous driving.',
+      image: 'kenan.jpeg',
+    },
+    {
+      name: 'Simian Luo 骆思勉',
+      website: '',
+      content: 'Simian Luo is a MS student starting from 2022. He is interested in multi-modal machine learning.',
+      image: 'kenan.jpeg',
+    },
+    {
+      name: 'Xiaoyu Tian 田晓宇',
+      website: '',
+      content: 'Xiaoyu Tian is a MS student and an incoming PhD student. He is interested in computer vision and autonomous driving.',
       image: 'kenan.jpeg',
     },
   ],
 
   research_assistants: [
     {
-      name: 'Tingle Li 黎庭乐',
-      website: 'https://tinglok.netlify.app/',
-      content: 'Tingle Li is a research assistant in the lab. He is interested in audio-visual learning.',
-      image: 'tingle.jpg',
-    },
-    {
       name: 'Ziwen Zhuang 庄子文',
       website: 'https://sites.google.com/view/ziwenzhuang',
       content: 'Ziwen Zhuang is a research assistant in the lab. He is interested in robotics.',
       image: 'ziwen.jpg',
-    },
-    {
-      name: 'Ziyuan Huang 黄子渊',
-      website: 'https://huang-ziyuan.github.io/',
-      content: 'Ziyuan Huang is a visiting student from National University of Singapore. He is interested in video understanding and multi-modal learning.',
-      image: 'ziyuan.jpeg',
-    },
-    {
-      name: 'Bowen Li 李博文',
-      website: 'https://vision4robotics.github.io/authors/bowen-li/',
-      content: 'Bowen Li is an undergraduate research assistant in the lab. He is interested in robotics and computer vision.',
-      image: 'bowenli.jpeg',
     },
     {
       name: 'Xuan Xiong 熊璇',
@@ -110,9 +104,9 @@ const main = {
       image: 'kenan.jpeg',
     },
     {
-      name: 'Boxiang Rong 荣波翔',
+      name: 'Yicheng Liu 刘毅成',
       website: '',
-      content: 'Boxiang Rong is an undergraduate research assistant in the lab. He is interested in autonomous driving.',
+      content: 'Yicheng Liu is a research assistant in the lab. He is interested in autonomous driving.',
       image: 'kenan.jpeg',
     },
     {
@@ -133,13 +127,18 @@ const main = {
       content: 'Jiangtao Yu is an undergraduate research assistant in the lab. He is interested in multi-sensor machine learning.',
       image: 'yujiangtao.png',
     },
-
+    {
+      name: 'Zenan Li 李泽楠',
+      website: '',
+      content: 'Zenan Li is an undergraduate intern in the lab. He is interested in multi-modal learning and decision.',
+      image: 'kenan.jpeg',
+    },
   ],
   
   alumni: [
     {
       name: 'Wenxiao Wang 汪文潇',
-      website: '',
+      website: 'https://wangwenxiao.github.io/',
       content: 'Wenxiao Wang was a MS student from 2020 to 2021. He is now a PhD student at University of Maryland.',
       image: 'wenxiao.jpeg',
     },
@@ -170,8 +169,32 @@ const main = {
     {
       name: 'Sucheng Ren 任苏成',
       website: 'https://oliverrensu.github.io/',
-      content: 'Sucheng was an intern from 2020 to 2021.',
+      content: 'Sucheng was an intern in 2021. He is now a PhD student at UT Austin',
       image: 'sucheng.jpeg',
+    },
+    {
+      name: 'Qi Li 李祁',
+      website: 'https://liqi17thu.github.io/',
+      content: 'Qi Li was an undergraduate intern in 2021. He is now a PhD student at UCLA.',
+      image: 'qili.jpeg',
+    },
+    {
+      name: 'Tingle Li 黎庭乐',
+      website: 'https://tinglok.netlify.app/',
+      content: 'Tingle Li was a research assistant from 2021 to 2022. He is now a PhD student at UC Berkeley.',
+      image: 'tingle.jpg',
+    },
+    {
+      name: 'Bowen Li 李博文',
+      website: 'https://vision4robotics.github.io/authors/bowen-li/',
+      content: 'Bowen Li was an undergraduate intern in 2022. He is now a PhD student at CMU.',
+      image: 'bowenli.jpeg',
+    },
+    {
+      name: 'Boxiang Rong 荣波翔',
+      website: '',
+      content: 'Boxiang Rong was an undergraduate intern in 2022. He is now a MS student at UTH Zurich.',
+      image: 'kenan.jpeg',
     },
     {
       name: 'Lingyu Zhu 朱玲玉',
@@ -180,12 +203,13 @@ const main = {
       image: 'lingyuzhu.png',
     },
     {
-      name: 'Qi Li 李祁',
-      website: 'https://liqi17thu.github.io/',
-      content: 'Qi Li was an undergraduate research assistant in the lab. He is interested in autonomous driving and robotics.',
-      image: 'qili.jpeg',
+      name: 'Ziyuan Huang 黄子渊',
+      website: 'https://huang-ziyuan.github.io/',
+      content: 'Ziyuan Huang was a visiting student in 2022. He is now a PhD student at National University of Singapore.',
+      image: 'ziyuan.jpeg',
     },
-    
+
+
   ],
 
   projects: [
