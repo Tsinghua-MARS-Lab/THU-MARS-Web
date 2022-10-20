@@ -65,12 +65,6 @@ const main = {
       image: 'kenan.jpeg',
     },
     {
-      name: 'Qiao Sun 孙桥',
-      website: '',
-      content: 'Qiao Sun is a PhD student starting from 2022. He is interested in prediction and planning for autonomous driving.',
-      image: 'qiaosun.png',	
-    },
-    {
       name: 'Tianyuan Yuan 袁天远',
       website: '',
       content: 'Tianyuan Yuan is a PhD student starting from 2022. He is interested in computer vision and autonomous driving.',
@@ -91,6 +85,12 @@ const main = {
   ],
 
   research_assistants: [
+      {
+      name: 'Qiao Sun 孙桥',
+      website: '',
+      content: 'Qiao Sun is a researcher in the lab. He is interested in planning and simulation for autonomous driving.',
+      image: 'qiaosun.png', 
+    },
     {
       name: 'Ziwen Zhuang 庄子文',
       website: 'https://sites.google.com/view/ziwenzhuang',
@@ -116,15 +116,39 @@ const main = {
       image: 'kenan.jpeg',
     },
     {
-      name: 'Tianbao Zhang 张天宝',
+      name: 'Xuanyao Chen 陈炫耀',
       website: '',
-      content: 'Tianbao Zhang is a research assistant in the lab. He is interested in autonomous driving.',
+      content: 'Xuanyao Chen is an undergraduate intern in the lab. He is interested in autonomous driving.',
+      image: 'kenan.jpeg',
+    },
+    {
+      name: 'Siting Li 李思婷',
+      website: '',
+      content: 'Siting Li is an undergraduate intern in the lab. She is interested in multi-modal learning.',
+      image: 'kenan.jpeg',
+    },
+    {
+      name: 'Zitian Tang 唐梓天',
+      website: '',
+      content: 'Zitian Tang is an undergraduate intern in the lab. He is interested in multi-modal learning.',
+      image: 'kenan.jpeg',
+    },
+    {
+      name: 'Wenjie Ye 叶闻捷',
+      website: '',
+      content: 'Wenjie Ye is an undergraduate intern in the lab. He is interested in multi-modal learning.',
+      image: 'kenan.jpeg',
+    },
+    {
+      name: 'Shiduo Zhang 张世铎',
+      website: '',
+      content: 'Shiduo Zhang is an undergraduate intern in the lab. He is interested in robotics.',
       image: 'kenan.jpeg',
     },
     {
       name: 'Jiangtao Yu 于江涛',
       website: 'https://binpeach.github.io/',
-      content: 'Jiangtao Yu is an undergraduate research assistant in the lab. He is interested in multi-sensor machine learning.',
+      content: 'Jiangtao Yu is an undergraduate intern in the lab. He is interested in multi-sensor machine learning.',
       image: 'yujiangtao.png',
     },
     {
@@ -566,6 +590,18 @@ const main = {
       authors: 'Yicheng Liu, Yue Wang, Yilun Wang, Hang Zhao',
       paper_link: 'https://arxiv.org/abs/2206.08920',
     },
+    {
+      title: 'CYBORGS: Contrastively Bootstrapping Object Representations by Grounding in Segmentation.',
+      publisher: 'ECCV 2022',
+      authors: 'Renhao Wang, Hang Zhao, Yang Gao',
+      paper_link: 'https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136910251.pdf',
+    }, 
+    {
+      title: 'Learning Visual Styles from Audio-Visual Associations.',
+      publisher: 'ECCV 2022',
+      authors: 'Tingle Li, Yichen Liu, Andrew Owens, Hang Zhao',
+      paper_link: 'https://arxiv.org/abs/2205.05072',
+    }, 
     {
       title: 'Radio2Speech: High Quality Speech Recovery from Radio Frequency Signals',
       publisher: 'Interspeech 2022',
