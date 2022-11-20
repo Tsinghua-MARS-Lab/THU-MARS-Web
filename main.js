@@ -147,7 +147,7 @@ const main = {
     },
     {
       name: 'Jiangtao Yu 于江涛',
-      website: 'https://www.jiangtaoyu.com',
+      website: 'https://jiangtaoyu.hk',
       content: 'Jiangtao Yu is an undergraduate intern in the lab. He is interested in multi-sensor machine learning.',
       image: 'yujiangtao.png',
     },
