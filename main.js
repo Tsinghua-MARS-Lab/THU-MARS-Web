@@ -247,6 +247,14 @@ const main = {
       image: 'vip3d.gif',
     },
     {
+      title: 'InterSim: Interactive Traffic Simulation via Explicit Relation Modeling',
+      publisher: 'IROS 2022',
+      authors: 'Qiao Sun, Xin Huang, Brian C Williams, Hang Zhao',
+      paper_link: 'https://arxiv.org/abs/2210.14413',
+      project_link: 'https://tsinghua-mars-lab.github.io/InterSim/',
+      image: 'intersim.png',
+    }, 
+    {
       title: 'Radio2Speech: High Quality Speech Recovery from Radio Frequency Signals',
       publisher: 'Interspeech 2022',
       authors: 'Running Zhao, Jiangtao Yu, Tingle Li, Hang Zhao\*, Edith C.H. Ngai\*',
@@ -600,13 +608,19 @@ const main = {
       paper_link: 'https://arxiv.org/abs/2206.08920',
     },
     {
-      title: 'CYBORGS: Contrastively Bootstrapping Object Representations by Grounding in Segmentation.',
+      title: 'InterSim: Interactive Traffic Simulation via Explicit Relation Modeling',
+      publisher: 'IROS 2022',
+      authors: 'Qiao Sun, Xin Huang, Brian C Williams, Hang Zhao',
+      paper_link: 'https://arxiv.org/abs/2210.14413',
+    }, 
+    {
+      title: 'CYBORGS: Contrastively Bootstrapping Object Representations by Grounding in Segmentation',
       publisher: 'ECCV 2022',
       authors: 'Renhao Wang, Hang Zhao, Yang Gao',
       paper_link: 'https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136910251.pdf',
     }, 
     {
-      title: 'Learning Visual Styles from Audio-Visual Associations.',
+      title: 'Learning Visual Styles from Audio-Visual Associations',
       publisher: 'ECCV 2022',
       authors: 'Tingle Li, Yichen Liu, Andrew Owens, Hang Zhao',
       paper_link: 'https://arxiv.org/abs/2205.05072',
@@ -616,12 +630,6 @@ const main = {
       publisher: 'Interspeech 2022',
       authors: 'Running Zhao, Jiangtao Yu, Tingle Li, Hang Zhao*, Edith C.H. Ngai*',
       paper_link: 'https://arxiv.org/abs/2206.11066',
-    },
-    {
-      title: 'Learning Visual Styles from Audio-Visual Associations',
-      publisher: 'Preprint 2022',
-      authors: 'Tingle Li, Yichen Liu, Andrew Owens, Hang Zhao',
-      paper_link: 'https://arxiv.org/abs/2205.05072',
     },
     {
       title: 'Sound2Synth: Interpreting Sound via FM Synthesizer Parameters Estimation',
@@ -669,7 +677,7 @@ const main = {
       title: 'Egocentric Prediction of Action Target in 3D',
       publisher: 'CVPR 2022',
       authors: 'Yiming Li, Ziang Cao, Andrew Liang, Benjamin Liang, Luoyao Chen, Hang Zhao, Chen Feng',
-      paper_link: '',
+      paper_link: 'https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Egocentric_Prediction_of_Action_Target_in_3D_CVPR_2022_paper.pdf',
     },
     {
       title: 'HDMapNet: An Online HD Map Construction and Evaluation Framework',
@@ -687,19 +695,19 @@ const main = {
       title: 'Depth Estimation Matters Most: Improving Per-Object Depth Estimation for Monocular 3D Detection and Tracking',
       publisher: 'ICRA 2022',
       authors: 'Longlong Jing, Ruichi Yu, Henrik Kretzschmar, Kang Li, Ruizhongtai Qi, Hang Zhao, Alper Ayvaci, Xu Chen, Dillon Cower, Yingwei Li, Yurong You, Han Deng, Congcong Li, Dragomir Anguelov',
-      paper_link: '',
+      paper_link: 'https://ieeexplore.ieee.org/document/9811749',
     },  
     {
       title: 'Intrinsically Motivated Self-supervised Learning in Reinforcement Learning',
       publisher: 'ICRA 2022',
       authors: 'Yue Zhao, Chenzhuang Du, Hang Zhao, Tiejun Li',
-      paper_link: '',
+      paper_link: 'https://ieeexplore.ieee.org/document/9812213/',
     },  
     {
       title: 'R4D: Utilizing Reference Objects for Long-Range Distance Estimation',
       publisher: 'ICLR 2022',
       authors: 'Yingwei Li, Tiffany Chen, Maya Kabkab, Ruichi Yu, Longlong Jing, Yurong You, Hang Zhao',
-      paper_link: '',
+      paper_link: 'https://openreview.net/forum?id=MQ2sAGunyBP',
     },  
     {
       title: 'IFR-Explore: Learning Inter-object Functional Relationships in 3D Indoor Scenes',
