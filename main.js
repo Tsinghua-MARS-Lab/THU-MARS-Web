@@ -613,41 +613,41 @@ const main = {
       paper_link: '',
     },
     {
-      title: 'GeoMAE: Masked Geometric Target Prediction for Self-supervised Point Cloud Pre-Training'
+      title: 'GeoMAE: Masked Geometric Target Prediction for Self-supervised Point Cloud Pre-Training',
       publisher: 'CVPR 2023',
       authors: 'Xiaoyu Tian, Haoxi Ran, Yue Wang, Hang Zhao',
       paper_link: '',
-    }
+    },
     {
-      title: 'What Happened 3 Seconds Ago? Inferring the Past with Thermal Imaging'
+      title: 'What Happened 3 Seconds Ago? Inferring the Past with Thermal Imaging',
       publisher: 'CVPR 2023',
       authors: 'Zitian Tang, Wenjie Ye, Wei-Chiu Ma, Hang Zhao',
       paper_link: '',
     },
     {
-      title: 'SparseViT: Revisiting Activation Sparsity for Efficient High-Resolution Vision Transformer'
+      title: 'SparseViT: Revisiting Activation Sparsity for Efficient High-Resolution Vision Transformer',
       publisher: 'CVPR 2023',
       authors: 'Xuanyao Chen, Zhijian Liu, Haotian Tang, Li Yi, Hang Zhao, Song Han',
       paper_link: '',
-    }
+    },
     {
-      title: 'The Modality Focusing Hypothesis: Towards Understanding Crossmodal Knowledge Distillation'
+      title: 'The Modality Focusing Hypothesis: Towards Understanding Crossmodal Knowledge Distillation',
       publisher: 'ICLR 2023 Oral Top 5\%',
       authors: 'Zihui Xue, Zhengqi Gao, Sucheng Ren, Hang Zhao',
       paper_link: 'https://openreview.net/pdf?id=w0QXrZ3N-s',
-    }
+    },
     {
-      title: 'Programmatically Grounded, Compositionally Generalizable Robotic Manipulation'
+      title: 'Programmatically Grounded, Compositionally Generalizable Robotic Manipulation',
       publisher: 'ICLR 2023 Oral Top 25\%',
       authors: 'Renhao Wang, Jiayuan Mao, Joy Hsu, Hang Zhao, Jiajun Wu, Yang Gao',
       paper_link: 'https://openreview.net/pdf?id=rZ-wylY5VI',
-    }
+    },
     {
-      title: 'Self-supervision through Random Segments with Autoregressive Coding (RandSAC)'
+      title: 'Self-supervision through Random Segments with Autoregressive Coding (RandSAC)',
       publisher: 'ICLR 2023',
       authors: 'Tianyu Hua, Yonglong Tian, Sucheng Ren, Michalis Raptis, Hang Zhao, Leonid Sigal',
       paper_link: 'https://openreview.net/pdf?id=Ubc74gTVo3',
-    }
+    },
     {
       title: 'VectorMapNet: End-to-end Vectorized HD Map Learning',
       publisher: 'Preprint 2022',
