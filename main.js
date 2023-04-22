@@ -42,8 +42,8 @@ const main = {
   graduate_students: [
     {
       name: 'Chenzhuang Du 杜晨壮',
-      website: '',
-      content: 'Chenzhuang Du is a PhD student starting from 2020. He is interested in the fundamentals and applications of multi-modal learning.',
+      website: 'https://scholar.google.com/citations?user=VoF-UAEAAAAJ&hl=en',
+      content: 'Chenzhuang Du is a PhD student starting from 2020. He is interested in application of Foundation Models and multi-modal learning.',
       image: 'chenzhuang.jpeg',
     },
     {
