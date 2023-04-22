@@ -68,13 +68,13 @@ const main = {
       name: 'Tianyuan Yuan 袁天远',
       website: '',
       content: 'Tianyuan Yuan is a PhD student starting from 2022. He is interested in computer vision and autonomous driving.',
-      image: 'yuantianyuan.jpg',
+      image: 'kenan.jpeg',
     },
     {
       name: 'Simian Luo 骆思勉',
       website: '',
-      content: 'Simian Luo is a MS student starting from 2022. He is interested in multi-modal machine learning.',
-      image: 'kenan.jpeg',
+      content: 'Simian Luo is a MS student starting from 2022. He is interested in Multi-Modal Generation, AIGC, and multi-modal representation learning.',
+      image: 'lsm.jpg',
     },
     {
       name: 'Xiaoyu Tian 田晓宇',
