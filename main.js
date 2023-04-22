@@ -68,7 +68,7 @@ const main = {
       name: 'Tianyuan Yuan 袁天远',
       website: '',
       content: 'Tianyuan Yuan is a PhD student starting from 2022. He is interested in computer vision and autonomous driving.',
-      image: 'kenan.jpeg',
+      image: 'yuantianyuan.jpg',
     },
     {
       name: 'Simian Luo 骆思勉',
