@@ -113,7 +113,7 @@ const main = {
       name: 'Tao Jiang 江涛',
       website: '',
       content: 'Tao Jiang is a research assistant in the lab. He is interested in autonomous driving.',
-      image: 'kenan.jpeg',
+      image: 'jiangtao.jpeg',
     },
     {
       name: 'Cynthia Yu 俞秉宏',
