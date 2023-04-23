@@ -105,9 +105,9 @@ const main = {
     },
     {
       name: 'Yicheng Liu 刘毅成',
-      website: '',
+      website: 'https://scholar.google.com/citations?user=vRmsgQUAAAAJ&hl',
       content: 'Yicheng Liu is a research assistant in the lab, and an incoming PhD student. He is interested in autonomous driving.',
-      image: 'kenan.jpeg',
+      image: 'yicheng.jpeg',
     },
     {
       name: 'Tao Jiang 江涛',
