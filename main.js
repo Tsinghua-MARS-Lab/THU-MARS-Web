@@ -87,7 +87,7 @@ const main = {
   research_assistants: [
       {
       name: 'Qiao Sun 孙桥',
-      website: '',
+      website: 'https://qiaosun.me/',
       content: 'Qiao Sun is a researcher in the lab. He is interested in planning and simulation for autonomous driving.',
       image: 'qiaosun.png', 
     },
