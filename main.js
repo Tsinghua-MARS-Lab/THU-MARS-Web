@@ -59,12 +59,6 @@ const main = {
       image: 'chenxu.jpeg',
     },
     {
-      name: 'Ren Wang 汪仁皓',
-      website: '',
-      content: 'Ren Wang is a PhD student starting from 2021. He is interested in representation learning and robotics.',
-      image: 'kenan.jpeg',
-    },
-    {
       name: 'Tianyuan Yuan 袁天远',
       website: '',
       content: 'Tianyuan Yuan is a PhD student starting from 2022. He is interested in computer vision and autonomous driving.',
@@ -122,12 +116,6 @@ const main = {
       image: 'kenan.jpeg',
     },
     {
-      name: 'Running Zhao 赵闰宁',
-      website: '',
-      content: 'Running Zhao is a visiting PhD student from the University of Hong Kong. He is interested in Radar signal learning',
-      image: 'kenan.jpeg',
-    },
-    {
       name: 'Siting Li 李思婷',
       website: '',
       content: 'Siting Li is an undergraduate intern in the lab. She is interested in multi-modal learning.',
@@ -163,6 +151,12 @@ const main = {
       content: 'Zenan Li is an undergraduate intern in the lab, and an imcoming PhD student. He is interested in multi-modal learning and decision.',
       image: 'kenan.jpeg',
     },
+    {
+      name: 'Running Zhao 赵闰宁',
+      website: '',
+      content: 'Running Zhao is a visiting PhD student from the University of Hong Kong. He is interested in Radar signal learning',
+      image: 'kenan.jpeg',
+    },
   ],
   
   alumni: [
@@ -172,6 +166,13 @@ const main = {
       content: 'Wenxiao Wang was a MS student from 2020 to 2021. He is now a PhD student at University of Maryland.',
       image: 'wenxiao.jpeg',
     },
+    {
+      name: 'Renhao Wang 汪仁皓',
+      website: 'https://scholar.google.com/citations?user=q4RlE2oAAAAJ&hl=en',
+      content: 'Renhao Wang was a research assistnat from 2021 to 2022. He is now a PhD student at UC Berkeley.',
+      image: 'kenan.jpeg',
+    },
+
     {
       name: 'Zihui Xue 薛子慧',
       website: 'https://zihuixue.github.io/',
@@ -619,7 +620,7 @@ const main = {
       title: 'Neural Map Prior for Autonomous Driving',
       publisher: 'CVPR 2023',
       authors: 'Xuan Xiong, Yicheng Liu, Tianyuan Yuan, Yilun Wang, Yue Wang, Hang Zhao',
-      paper_link: '',
+      paper_link: 'https://arxiv.org/abs/2304.08481',
     },
     {
       title: 'GeoMAE: Masked Geometric Target Prediction for Self-supervised Point Cloud Pre-Training',
@@ -637,7 +638,7 @@ const main = {
       title: 'SparseViT: Revisiting Activation Sparsity for Efficient High-Resolution Vision Transformer',
       publisher: 'CVPR 2023',
       authors: 'Xuanyao Chen, Zhijian Liu, Haotian Tang, Li Yi, Hang Zhao, Song Han',
-      paper_link: '',
+      paper_link: 'https://arxiv.org/abs/2303.17605',
     },
     {
       title: 'The Modality Focusing Hypothesis: Towards Understanding Crossmodal Knowledge Distillation',
