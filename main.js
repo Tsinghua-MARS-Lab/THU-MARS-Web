@@ -123,9 +123,9 @@ const main = {
     },
     {
       name: 'Zitian Tang 唐梓天',
-      website: '',
+      website: 'https://zitiantang.github.io/',
       content: 'Zitian Tang is an undergraduate intern in the lab. He is interested in multi-modal learning.',
-      image: 'kenan.jpeg',
+      image: 'zitian.jpg',
     },
     {
       name: 'Wenjie Ye 叶闻捷',
@@ -243,6 +243,20 @@ const main = {
   ],
 
   projects: [
+    {
+      title: 'What Happened 3 Seconds Ago? Inferring the Past with Thermal Imaging',
+      publisher: 'CVPR 2023',
+      authors: 'Zitian Tang, Wenjie Ye, Wei-Chiu Ma, Hang Zhao',
+      description: '"First RGB-Thermal dataset of indoor human motion and a model to estimate 3-second-ago human pose!"',
+      paper_link: 'https://arxiv.org/abs/2304.13651',
+      extra_link: [
+        {
+          name: 'Dataset',
+  	      link: 'https://github.com/ZitianTang/Thermal-IM',
+        },
+      ],
+      image: 'ThermalIM.png',
+    },
     {
       title: 'Neural Map Prior for Autonomous Driving',
       publisher: 'CVPR 2023',
