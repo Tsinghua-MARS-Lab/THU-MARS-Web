@@ -611,6 +611,12 @@ const main = {
   
   publications: [
     {
+      title: 'What Happened 3 Seconds Ago? Inferring the Past with Thermal Imaging',
+      publisher: 'CVPR 2023',
+      authors: 'Zitian Tang, Wenjie Ye, Wei-Chiu Ma, Hang Zhao',
+      paper_link: 'https://arxiv.org/abs/2304.13651',
+    },
+    {
       title: 'ViP3D: End-to-end Visual Trajectory Prediction via 3D Agent Queries',
       publisher: 'CVPR 2023',
       authors: 'Junru Gu, Chenxu Hu, Tianyuan Zhang, Xuanyao Chen, Yilun Wang, Yue Wang, Hang Zhao',
