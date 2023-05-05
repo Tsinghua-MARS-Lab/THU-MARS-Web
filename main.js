@@ -247,7 +247,7 @@ const main = {
       title: 'What Happened 3 Seconds Ago? Inferring the Past with Thermal Imaging',
       publisher: 'CVPR 2023',
       authors: 'Zitian Tang, Wenjie Ye, Wei-Chiu Ma, Hang Zhao',
-      description: '"First RGB-Thermal dataset of indoor human motion and a model to estimate 3-second-ago human pose!"',
+      description: '"Using thermal cues to estimate the past human motions."',
       paper_link: 'https://arxiv.org/abs/2304.13651',
       extra_link: [
         {
@@ -261,7 +261,7 @@ const main = {
       title: 'Neural Map Prior for Autonomous Driving',
       publisher: 'CVPR 2023',
       authors: 'Xuan Xiong, Yicheng Liu, Tianyuan Yuan, Yue Wang, Yilun Wang, Hang Zhao',
-      description: '"First learning-based framework that employs a neural representation of global maps to improve local map inference performance for autonomous driving!"',
+      description: '"A neural representation of HD maps to improve local map inference performance for autonomous driving!"',
       paper_link: 'https://arxiv.org/abs/2304.08481',
       project_link: 'https://tsinghua-mars-lab.github.io/neural_map_prior/',
       image: 'neuralmapprior.png',
@@ -270,7 +270,7 @@ const main = {
       title: 'ViP3D: End-to-end Visual Trajectory Prediction via 3D Agent Queries',
       publisher: 'CVPR 2023',
       authors: 'Junru Gu\*, Chenxu Hu\*, Tianyuan Zhang, Xuanyao Chen, Yilun Wang, Yue Wang, Hang Zhao',
-      description: '"First vision-based approach to predict future trajectories of agents for autonomous driving!"',
+      description: '"A vision-based approach to trajectory prediction for autonomous driving!"',
       paper_link: 'https://arxiv.org/abs/2208.01582',
       project_link: 'https://tsinghua-mars-lab.github.io/ViP3D/',
       image: 'vip3d.gif',
