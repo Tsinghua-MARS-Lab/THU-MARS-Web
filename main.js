@@ -631,27 +631,21 @@ const main = {
       paper_link: 'https://arxiv.org/abs/2304.13651',
     },
     {
-      title: 'ViP3D: End-to-end Visual Trajectory Prediction via 3D Agent Queries',
-      publisher: 'CVPR 2023',
-      authors: 'Junru Gu, Chenxu Hu, Tianyuan Zhang, Xuanyao Chen, Yilun Wang, Yue Wang, Hang Zhao',
-      paper_link: 'https://arxiv.org/abs/2208.01582',
-    },
-    {
       title: 'Neural Map Prior for Autonomous Driving',
       publisher: 'CVPR 2023',
       authors: 'Xuan Xiong, Yicheng Liu, Tianyuan Yuan, Yilun Wang, Yue Wang, Hang Zhao',
       paper_link: 'https://arxiv.org/abs/2304.08481',
     },
     {
+      title: 'ViP3D: End-to-end Visual Trajectory Prediction via 3D Agent Queries',
+      publisher: 'CVPR 2023',
+      authors: 'Junru Gu, Chenxu Hu, Tianyuan Zhang, Xuanyao Chen, Yilun Wang, Yue Wang, Hang Zhao',
+      paper_link: 'https://arxiv.org/abs/2208.01582',
+    },
+    {
       title: 'GeoMAE: Masked Geometric Target Prediction for Self-supervised Point Cloud Pre-Training',
       publisher: 'CVPR 2023',
       authors: 'Xiaoyu Tian, Haoxi Ran, Yue Wang, Hang Zhao',
-      paper_link: '',
-    },
-    {
-      title: 'What Happened 3 Seconds Ago? Inferring the Past with Thermal Imaging',
-      publisher: 'CVPR 2023',
-      authors: 'Zitian Tang, Wenjie Ye, Wei-Chiu Ma, Hang Zhao',
       paper_link: '',
     },
     {
@@ -680,7 +674,7 @@ const main = {
     },
     {
       title: 'VectorMapNet: End-to-end Vectorized HD Map Learning',
-      publisher: 'Preprint 2022',
+      publisher: 'ICML 2023',
       authors: 'Yicheng Liu, Yue Wang, Yilun Wang, Hang Zhao',
       paper_link: 'https://arxiv.org/abs/2206.08920',
     },
