@@ -244,6 +244,15 @@ const main = {
 
   projects: [
     {
+      title: 'VectorMapNet: End-to-end Vectorized HD Map Learning',
+      publisher: 'ICML 2023',
+      authors: 'Yicheng Liu, Tianyuan Yuan, Yue Wang, Yilun Wang, Hang Zhao',
+      description: '"An end-to-end vectorized HD map learning framework for autonomous driving!"',
+      paper_link: 'https://arxiv.org/abs/2206.08920',
+      project_link: 'https://tsinghua-mars-lab.github.io/vectormapnet/',
+      image: 'vectormapnet.png',
+    },
+    {
       title: 'What Happened 3 Seconds Ago? Inferring the Past with Thermal Imaging',
       publisher: 'CVPR 2023',
       authors: 'Zitian Tang, Wenjie Ye, Wei-Chiu Ma, Hang Zhao',
