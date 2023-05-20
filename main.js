@@ -655,7 +655,7 @@ const main = {
       title: 'GeoMAE: Masked Geometric Target Prediction for Self-supervised Point Cloud Pre-Training',
       publisher: 'CVPR 2023',
       authors: 'Xiaoyu Tian, Haoxi Ran, Yue Wang, Hang Zhao',
-      paper_link: '',
+      paper_link: 'https://arxiv.org/abs/2305.08808',
     },
     {
       title: 'SparseViT: Revisiting Activation Sparsity for Efficient High-Resolution Vision Transformer',
