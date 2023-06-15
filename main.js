@@ -244,6 +244,36 @@ const main = {
 
   projects: [
     {
+      title: 'Occ3D: A Large-Scale 3D Occupancy Prediction Benchmark for Autonomous Driving',
+      publisher: 'Preprint',
+      authors: 'Xiaoyu Tian*, Tao Jiang*, Longfei Yun, Yucheng Mao, Huitong Yang, Yue Wang, Yilun Wang, Hang Zhao',
+      // description: '""',
+      paper_link: 'https://arxiv.org/abs/2304.14365',
+      project_link: 'https://tsinghua-mars-lab.github.io/Occ3D/',
+      image: 'Occ3D.png',
+      extra_link: [
+        {
+          name: 'Dataset',
+          link: 'https://github.com/Tsinghua-MARS-Lab/Occ3D',
+        },
+      ],
+    },
+    {
+      title: 'SSCBench: A Large-Scale 3D Semantic Scene Completion Benchmark for Autonomous Driving',
+      publisher: 'Preprint',
+      authors: 'Yiming Li*, Sihang Li*, Xinhao Liu*, Moonjun Gong*, Kenan Li, Nuo Chen, Zijun Wang, Zhiheng Li, Tao Jiang, Fisher Yu, Yue Wang, Hang Zhao, Zhiding Yu, Chen Feng',
+      // description: '""',
+      // paper_link: 'https://arxiv.org/abs/2304.14365',
+      project_link: 'https://github.com/ai4ce/SSCBench',
+      image: 'sscbench.png',
+      extra_link: [
+        {
+          name: 'Dataset',
+          link: 'https://github.com/ai4ce/SSCBench/tree/main/dataset',
+        },
+      ],
+    },
+    {
       title: 'VectorMapNet: End-to-end Vectorized HD Map Learning',
       publisher: 'ICML 2023',
       authors: 'Yicheng Liu, Tianyuan Yuan, Yue Wang, Yilun Wang, Hang Zhao',
@@ -312,7 +342,7 @@ const main = {
     },
     {
       title: 'FUTR3D: A Unified Sensor Fusion Framework for 3D Detection',
-      publisher: 'Preprint 2022',
+      publisher: 'CVPRW 2023',
       authors: 'Xuanyao Chen, Tianyuan Zhang, Yue Wang, Yilun Wang, Hang Zhao',
       paper_link: 'https://arxiv.org/abs/2203.10642',
       project_link: 'https://tsinghua-mars-lab.github.io/futr3d/',
@@ -633,6 +663,17 @@ const main = {
   ],
   
   publications: [
+    {
+      title: 'Occ3D: A Large-Scale 3D Occupancy Prediction Benchmark for Autonomous Driving',
+      publisher: 'Preprint',
+      authors: 'Xiaoyu Tian*, Tao Jiang*, Longfei Yun, Yucheng Mao, Huitong Yang, Yue Wang, Yilun Wang, Hang Zhao',
+      paper_link: 'https://arxiv.org/abs/2304.14365',
+    {
+      title: 'SSCBench: A Large-Scale 3D Semantic Scene Completion Benchmark for Autonomous Driving',
+      publisher: 'Preprint',
+      authors: 'Yiming Li*, Sihang Li*, Xinhao Liu*, Moonjun Gong*, Kenan Li, Nuo Chen, Zijun Wang, Zhiheng Li, Tao Jiang, Fisher Yu, Yue Wang, Hang Zhao, Zhiding Yu, Chen Feng',
+      // paper_link: 'https://arxiv.org/abs/2304.14365',
+    },
     {
       title: 'What Happened 3 Seconds Ago? Inferring the Past with Thermal Imaging',
       publisher: 'CVPR 2023',
