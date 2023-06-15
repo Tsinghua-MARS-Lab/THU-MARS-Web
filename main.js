@@ -668,6 +668,7 @@ const main = {
       publisher: 'Preprint',
       authors: 'Xiaoyu Tian*, Tao Jiang*, Longfei Yun, Yucheng Mao, Huitong Yang, Yue Wang, Yilun Wang, Hang Zhao',
       paper_link: 'https://arxiv.org/abs/2304.14365',
+    },
     {
       title: 'SSCBench: A Large-Scale 3D Semantic Scene Completion Benchmark for Autonomous Driving',
       publisher: 'Preprint',
