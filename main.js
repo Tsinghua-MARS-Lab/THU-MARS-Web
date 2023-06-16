@@ -263,7 +263,7 @@ const main = {
       publisher: 'Preprint',
       authors: 'Yiming Li*, Sihang Li*, Xinhao Liu*, Moonjun Gong*, Kenan Li, Nuo Chen, Zijun Wang, Zhiheng Li, Tao Jiang, Fisher Yu, Yue Wang, Hang Zhao, Zhiding Yu, Chen Feng',
       // description: '""',
-      // paper_link: 'https://arxiv.org/abs/2304.14365',
+      paper_link: 'https://arxiv.org/abs/2306.09001',
       project_link: 'https://github.com/ai4ce/SSCBench',
       image: 'sscbench.png',
       extra_link: [
@@ -672,7 +672,7 @@ const main = {
       title: 'SSCBench: A Large-Scale 3D Semantic Scene Completion Benchmark for Autonomous Driving',
       publisher: 'Preprint',
       authors: 'Yiming Li*, Sihang Li*, Xinhao Liu*, Moonjun Gong*, Kenan Li, Nuo Chen, Zijun Wang, Zhiheng Li, Tao Jiang, Fisher Yu, Yue Wang, Hang Zhao, Zhiding Yu, Chen Feng',
-      // paper_link: 'https://arxiv.org/abs/2304.14365',
+      paper_link: 'https://arxiv.org/abs/2306.09001',
     },
     {
       title: 'What Happened 3 Seconds Ago? Inferring the Past with Thermal Imaging',
