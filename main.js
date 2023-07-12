@@ -244,6 +244,21 @@ const main = {
 
   projects: [
     {
+      title: 'ChatDB: Augmenting LLMs with Databases as Their Symbolic Memory',
+      publisher: 'LLM@IJCAI\'23',
+      authors: 'Chenxu Hu*, Jie Fu*†, Chenzhuang Du, Simian Luo, Junbo Zhao, Hang Zhao†',
+      description: '"Augmenting LLMs with symbolic memory for accurate memory and complex reasoning."',
+      paper_link: 'https://arxiv.org/abs/2306.03901',
+      project_link: 'https://chatdatabase.github.io/',
+      image: 'chatdb.png',
+      extra_link: [
+        {
+          name: 'Code',
+          link: 'https://github.com/huchenxucs/ChatDB',
+        },
+      ],
+    },
+    {
       title: 'Occ3D: A Large-Scale 3D Occupancy Prediction Benchmark for Autonomous Driving',
       publisher: 'Preprint',
       authors: 'Xiaoyu Tian*, Tao Jiang*, Longfei Yun, Yucheng Mao, Huitong Yang, Yue Wang, Yilun Wang, Hang Zhao',
@@ -664,6 +679,12 @@ const main = {
   
   publications: [
     {
+      title: 'ChatDB: Augmenting LLMs with Databases as Their Symbolic Memory',
+      publisher: 'LLM@IJCAI\'23',
+      authors: 'Chenxu Hu*, Jie Fu*†, Chenzhuang Du, Simian Luo, Junbo Zhao, Hang Zhao†',
+      paper_link: 'https://arxiv.org/abs/2306.03901',
+    },
+    {
       title: 'Occ3D: A Large-Scale 3D Occupancy Prediction Benchmark for Autonomous Driving',
       publisher: 'Preprint',
       authors: 'Xiaoyu Tian*, Tao Jiang*, Longfei Yun, Yucheng Mao, Huitong Yang, Yue Wang, Yilun Wang, Hang Zhao',
@@ -690,7 +711,7 @@ const main = {
     {
       title: 'ViP3D: End-to-end Visual Trajectory Prediction via 3D Agent Queries',
       publisher: 'CVPR 2023',
-      authors: 'Junru Gu, Chenxu Hu, Tianyuan Zhang, Xuanyao Chen, Yilun Wang, Yue Wang, Hang Zhao',
+      authors: 'Junru Gu*, Chenxu Hu*, Tianyuan Zhang, Xuanyao Chen, Yilun Wang, Yue Wang, Hang Zhao',
       paper_link: 'https://arxiv.org/abs/2208.01582',
     },
     {
