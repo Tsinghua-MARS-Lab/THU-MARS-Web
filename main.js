@@ -95,7 +95,7 @@ const main = {
       name: 'Xuan Xiong 熊璇',
       website: '',
       content: 'Xuan Xiong is a research assistant in the lab. She is interested in autonomous driving.',
-      image: 'kenan.jpeg',
+      image: 'xiaolan.png',
     },
     {
       name: 'Yicheng Liu 刘毅成',
