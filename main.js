@@ -116,24 +116,6 @@ const main = {
       image: 'kenan.jpeg',
     },
     {
-      name: 'Siting Li 李思婷',
-      website: '',
-      content: 'Siting Li is an undergraduate intern in the lab. She is interested in multi-modal learning.',
-      image: 'kenan.jpeg',
-    },
-    {
-      name: 'Zitian Tang 唐梓天',
-      website: 'https://zitiantang.github.io/',
-      content: 'Zitian Tang is an undergraduate intern in the lab. He is interested in multi-modal learning.',
-      image: 'zitian.jpg',
-    },
-    {
-      name: 'Wenjie Ye 叶闻捷',
-      website: '',
-      content: 'Wenjie Ye is an undergraduate intern in the lab. He is interested in multi-modal learning.',
-      image: 'kenan.jpeg',
-    },
-    {
       name: 'Shiduo Zhang 张世铎',
       website: '',
       content: 'Shiduo Zhang is an undergraduate intern in the lab. He is interested in robotics.',
@@ -239,6 +221,25 @@ const main = {
       content: 'Ziyuan Huang was a visiting student in 2022, from National University of Singapore.',
       image: 'ziyuan.jpeg',
     },
+    {
+      name: 'Siting Li 李思婷',
+      website: '',
+      content: 'Siting Li was an undergraduate intern from 2021 to 2023. She is now a PhD student at University of Washington.',
+      image: 'kenan.jpeg',
+    },
+    {
+      name: 'Zitian Tang 唐梓天',
+      website: 'https://zitiantang.github.io/',
+      content: 'Zitian Tang is an undergraduate intern from 2021 to 2023. He is now a PhD student at Brown University.',
+      image: 'zitian.jpg',
+    },
+    {
+      name: 'Wenjie Ye 叶闻捷',
+      website: '',
+      content: 'Wenjie Ye is an undergraduate intern from 2021 to 2023. He is now a research assistant at Shanghai Qi Zhi Institute.',
+      image: 'kenan.jpeg',
+    },
+
 
   ],
 
@@ -680,9 +681,15 @@ const main = {
   publications: [
     {
       title: 'ChatDB: Augmenting LLMs with Databases as Their Symbolic Memory',
-      publisher: 'LLM@IJCAI\'23',
+      publisher: 'LLM@IJCAI 2023',
       authors: 'Chenxu Hu*, Jie Fu*†, Chenzhuang Du, Simian Luo, Junbo Zhao, Hang Zhao†',
       paper_link: 'https://arxiv.org/abs/2306.03901',
+    },
+    {
+      title: 'P4P: Conflict-Aware Motion Prediction for Planning in Autonomous Driving',
+      publisher: 'IROS 2023',
+      authors: 'Qiao Sun, Xin Huang, Brian C. Williams, Hang Zhao',
+      paper_link: 'https://arxiv.org/abs/2211.01634',
     },
     {
       title: 'Occ3D: A Large-Scale 3D Occupancy Prediction Benchmark for Autonomous Driving',
