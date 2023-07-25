@@ -134,10 +134,22 @@ const main = {
       image: 'kenan.jpeg',
     },
     {
-      name: 'Running Zhao 赵闰宁',
+      name: 'Derun Li 李德润',
       website: '',
-      content: 'Running Zhao is a visiting PhD student from the University of Hong Kong. He is interested in Radar signal learning',
+      content: 'Jiageng Mao is an intern in the lab. He is a PhD student at Shanghai Jiaotong University.',
       image: 'kenan.jpeg',
+    },
+    {
+      name: 'Jiageng Mao 毛佳庚',
+      website: '',
+      content: 'Jiageng Mao is an intern in the lab. He is a PhD student at University of Southern California.',
+      image: 'kenan.jpeg',
+    },
+    {
+      name: 'Cindy Zeng 曾思齐',
+      website: '',
+      content: 'Cindy Zeng is an intern in the lab. She is a PhD student at the University of Illinois Urbana-Champaign.',
+      image: 'xiaolan.png',
     },
   ],
   
@@ -210,6 +222,12 @@ const main = {
       image: 'kenan.jpeg',
     },
     {
+      name: 'Running Zhao 赵闰宁',
+      website: '',
+      content: 'Running Zhao was a visiting PhD student from the University of Hong Kong.',
+      image: 'kenan.jpeg',
+    },
+    {
       name: 'Lingyu Zhu 朱玲玉',
       website: 'https://ly-zhu.github.io/',
       content: 'Lingyu Zhu was a visiting student in 2021 Fall, from Tampere University, Finland.',
@@ -239,7 +257,6 @@ const main = {
       content: 'Wenjie Ye is an undergraduate intern from 2021 to 2023. He is now a research assistant at Shanghai Qi Zhi Institute.',
       image: 'kenan.jpeg',
     },
-
 
   ],
 
