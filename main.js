@@ -59,12 +59,6 @@ const main = {
       image: 'chenxu.jpeg',
     },
     {
-      name: 'Ren Wang 汪仁皓',
-      website: '',
-      content: 'Ren Wang is a PhD student starting from 2021. He is interested in representation learning and robotics.',
-      image: 'kenan.jpeg',
-    },
-    {
       name: 'Tianyuan Yuan 袁天远',
       website: '',
       content: 'Tianyuan Yuan is a PhD student starting from 2022. He is interested in computer vision and autonomous driving.',
@@ -101,13 +95,13 @@ const main = {
       name: 'Xuan Xiong 熊璇',
       website: '',
       content: 'Xuan Xiong is a research assistant in the lab. She is interested in autonomous driving.',
-      image: 'kenan.jpeg',
+      image: 'xiaolan.png',
     },
     {
       name: 'Yicheng Liu 刘毅成',
-      website: '',
+      website: 'https://scholar.google.com/citations?user=vRmsgQUAAAAJ&hl',
       content: 'Yicheng Liu is a research assistant in the lab, and an incoming PhD student. He is interested in autonomous driving.',
-      image: 'kenan.jpeg',
+      image: 'yicheng.jpeg',
     },
     {
       name: 'Tao Jiang 江涛',
@@ -119,30 +113,6 @@ const main = {
       name: 'Cynthia Yu 俞秉宏',
       website: '',
       content: 'Cynthia Yu is a research assistant in the lab. She is interested in autonomous driving.',
-      image: 'kenan.jpeg',
-    },
-    {
-      name: 'Running Zhao 赵闰宁',
-      website: '',
-      content: 'Running Zhao is a visiting PhD student from the University of Hong Kong. He is interested in Radar signal learning',
-      image: 'kenan.jpeg',
-    },
-    {
-      name: 'Siting Li 李思婷',
-      website: '',
-      content: 'Siting Li is an undergraduate intern in the lab. She is interested in multi-modal learning.',
-      image: 'kenan.jpeg',
-    },
-    {
-      name: 'Zitian Tang 唐梓天',
-      website: '',
-      content: 'Zitian Tang is an undergraduate intern in the lab. He is interested in multi-modal learning.',
-      image: 'kenan.jpeg',
-    },
-    {
-      name: 'Wenjie Ye 叶闻捷',
-      website: '',
-      content: 'Wenjie Ye is an undergraduate intern in the lab. He is interested in multi-modal learning.',
       image: 'kenan.jpeg',
     },
     {
@@ -163,6 +133,24 @@ const main = {
       content: 'Zenan Li is an undergraduate intern in the lab, and an imcoming PhD student. He is interested in multi-modal learning and decision.',
       image: 'kenan.jpeg',
     },
+    {
+      name: 'Derun Li 李德润',
+      website: '',
+      content: 'Jiageng Mao is an intern in the lab. He is a PhD student at Shanghai Jiaotong University.',
+      image: 'kenan.jpeg',
+    },
+    {
+      name: 'Jiageng Mao 毛佳庚',
+      website: '',
+      content: 'Jiageng Mao is an intern in the lab. He is a PhD student at University of Southern California.',
+      image: 'kenan.jpeg',
+    },
+    {
+      name: 'Cindy Zeng 曾思齐',
+      website: '',
+      content: 'Cindy Zeng is an intern in the lab. She is a PhD student at the University of Illinois Urbana-Champaign.',
+      image: 'xiaolan.png',
+    },
   ],
   
   alumni: [
@@ -172,6 +160,13 @@ const main = {
       content: 'Wenxiao Wang was a MS student from 2020 to 2021. He is now a PhD student at University of Maryland.',
       image: 'wenxiao.jpeg',
     },
+    {
+      name: 'Renhao Wang 汪仁皓',
+      website: 'https://scholar.google.com/citations?user=q4RlE2oAAAAJ&hl=en',
+      content: 'Renhao Wang was a research assistnat from 2021 to 2022. He is now a PhD student at UC Berkeley.',
+      image: 'kenan.jpeg',
+    },
+
     {
       name: 'Zihui Xue 薛子慧',
       website: 'https://zihuixue.github.io/',
@@ -227,6 +222,12 @@ const main = {
       image: 'kenan.jpeg',
     },
     {
+      name: 'Running Zhao 赵闰宁',
+      website: '',
+      content: 'Running Zhao was a visiting PhD student from the University of Hong Kong.',
+      image: 'kenan.jpeg',
+    },
+    {
       name: 'Lingyu Zhu 朱玲玉',
       website: 'https://ly-zhu.github.io/',
       content: 'Lingyu Zhu was a visiting student in 2021 Fall, from Tampere University, Finland.',
@@ -238,15 +239,110 @@ const main = {
       content: 'Ziyuan Huang was a visiting student in 2022, from National University of Singapore.',
       image: 'ziyuan.jpeg',
     },
+    {
+      name: 'Siting Li 李思婷',
+      website: '',
+      content: 'Siting Li was an undergraduate intern from 2021 to 2023. She is now a PhD student at University of Washington.',
+      image: 'kenan.jpeg',
+    },
+    {
+      name: 'Zitian Tang 唐梓天',
+      website: 'https://zitiantang.github.io/',
+      content: 'Zitian Tang is an undergraduate intern from 2021 to 2023. He is now a PhD student at Brown University.',
+      image: 'zitian.jpg',
+    },
+    {
+      name: 'Wenjie Ye 叶闻捷',
+      website: '',
+      content: 'Wenjie Ye is an undergraduate intern from 2021 to 2023. He is now a research assistant at Shanghai Qi Zhi Institute.',
+      image: 'kenan.jpeg',
+    },
 
   ],
 
   projects: [
     {
+      title: 'ChatDB: Augmenting LLMs with Databases as Their Symbolic Memory',
+      publisher: 'LLM@IJCAI\'23',
+      authors: 'Chenxu Hu*, Jie Fu*†, Chenzhuang Du, Simian Luo, Junbo Zhao, Hang Zhao†',
+      description: '"Augmenting LLMs with symbolic memory for accurate memory and complex reasoning."',
+      paper_link: 'https://arxiv.org/abs/2306.03901',
+      project_link: 'https://chatdatabase.github.io/',
+      image: 'chatdb.png',
+      extra_link: [
+        {
+          name: 'Code',
+          link: 'https://github.com/huchenxucs/ChatDB',
+        },
+      ],
+    },
+    {
+      title: 'Occ3D: A Large-Scale 3D Occupancy Prediction Benchmark for Autonomous Driving',
+      publisher: 'Preprint',
+      authors: 'Xiaoyu Tian*, Tao Jiang*, Longfei Yun, Yucheng Mao, Huitong Yang, Yue Wang, Yilun Wang, Hang Zhao',
+      // description: '""',
+      paper_link: 'https://arxiv.org/abs/2304.14365',
+      project_link: 'https://tsinghua-mars-lab.github.io/Occ3D/',
+      image: 'Occ3D.png',
+      extra_link: [
+        {
+          name: 'Dataset',
+          link: 'https://github.com/Tsinghua-MARS-Lab/Occ3D',
+        },
+      ],
+    },
+    {
+      title: 'SSCBench: A Large-Scale 3D Semantic Scene Completion Benchmark for Autonomous Driving',
+      publisher: 'Preprint',
+      authors: 'Yiming Li*, Sihang Li*, Xinhao Liu*, Moonjun Gong*, Kenan Li, Nuo Chen, Zijun Wang, Zhiheng Li, Tao Jiang, Fisher Yu, Yue Wang, Hang Zhao, Zhiding Yu, Chen Feng',
+      // description: '""',
+      paper_link: 'https://arxiv.org/abs/2306.09001',
+      project_link: 'https://github.com/ai4ce/SSCBench',
+      image: 'sscbench.png',
+      extra_link: [
+        {
+          name: 'Dataset',
+          link: 'https://github.com/ai4ce/SSCBench/tree/main/dataset',
+        },
+      ],
+    },
+    {
+      title: 'VectorMapNet: End-to-end Vectorized HD Map Learning',
+      publisher: 'ICML 2023',
+      authors: 'Yicheng Liu, Tianyuan Yuan, Yue Wang, Yilun Wang, Hang Zhao',
+      description: '"An end-to-end vectorized HD map learning framework for autonomous driving!"',
+      paper_link: 'https://arxiv.org/abs/2206.08920',
+      project_link: 'https://tsinghua-mars-lab.github.io/vectormapnet/',
+      image: 'vectormapnet.png',
+    },
+    {
+      title: 'What Happened 3 Seconds Ago? Inferring the Past with Thermal Imaging',
+      publisher: 'CVPR 2023',
+      authors: 'Zitian Tang, Wenjie Ye, Wei-Chiu Ma, Hang Zhao',
+      description: '"Using thermal cues to estimate the past human motions."',
+      paper_link: 'https://arxiv.org/abs/2304.13651',
+      extra_link: [
+        {
+          name: 'Dataset',
+  	      link: 'https://github.com/ZitianTang/Thermal-IM',
+        },
+      ],
+      image: 'ThermalIM.png',
+    },
+    {
+      title: 'Neural Map Prior for Autonomous Driving',
+      publisher: 'CVPR 2023',
+      authors: 'Xuan Xiong, Yicheng Liu, Tianyuan Yuan, Yue Wang, Yilun Wang, Hang Zhao',
+      description: '"A neural representation of HD maps to improve local map inference performance for autonomous driving!"',
+      paper_link: 'https://arxiv.org/abs/2304.08481',
+      project_link: 'https://tsinghua-mars-lab.github.io/neural_map_prior/',
+      image: 'neuralmapprior.png',
+    },
+    {
       title: 'ViP3D: End-to-end Visual Trajectory Prediction via 3D Agent Queries',
       publisher: 'CVPR 2023',
       authors: 'Junru Gu\*, Chenxu Hu\*, Tianyuan Zhang, Xuanyao Chen, Yilun Wang, Yue Wang, Hang Zhao',
-      description: '"First vision-based approach to predict future trajectories of agents for autonomous driving!"',
+      description: '"A vision-based approach to trajectory prediction for autonomous driving!"',
       paper_link: 'https://arxiv.org/abs/2208.01582',
       project_link: 'https://tsinghua-mars-lab.github.io/ViP3D/',
       image: 'vip3d.gif',
@@ -279,7 +375,7 @@ const main = {
     },
     {
       title: 'FUTR3D: A Unified Sensor Fusion Framework for 3D Detection',
-      publisher: 'Preprint 2022',
+      publisher: 'CVPRW 2023',
       authors: 'Xuanyao Chen, Tianyuan Zhang, Yue Wang, Yilun Wang, Hang Zhao',
       paper_link: 'https://arxiv.org/abs/2203.10642',
       project_link: 'https://tsinghua-mars-lab.github.io/futr3d/',
@@ -601,34 +697,58 @@ const main = {
   
   publications: [
     {
-      title: 'ViP3D: End-to-end Visual Trajectory Prediction via 3D Agent Queries',
-      publisher: 'CVPR 2023',
-      authors: 'Junru Gu, Chenxu Hu, Tianyuan Zhang, Xuanyao Chen, Yilun Wang, Yue Wang, Hang Zhao',
-      paper_link: 'https://arxiv.org/abs/2208.01582',
+      title: 'ChatDB: Augmenting LLMs with Databases as Their Symbolic Memory',
+      publisher: 'LLM@IJCAI 2023',
+      authors: 'Chenxu Hu*, Jie Fu*†, Chenzhuang Du, Simian Luo, Junbo Zhao, Hang Zhao†',
+      paper_link: 'https://arxiv.org/abs/2306.03901',
     },
     {
-      title: 'Neural Map Prior for Autonomous Driving',
-      publisher: 'CVPR 2023',
-      authors: 'Xuan Xiong, Yicheng Liu, Tianyuan Yuan, Yilun Wang, Yue Wang, Hang Zhao',
-      paper_link: '',
+      title: 'P4P: Conflict-Aware Motion Prediction for Planning in Autonomous Driving',
+      publisher: 'IROS 2023',
+      authors: 'Qiao Sun, Xin Huang, Brian C. Williams, Hang Zhao',
+      paper_link: 'https://arxiv.org/abs/2211.01634',
     },
     {
-      title: 'GeoMAE: Masked Geometric Target Prediction for Self-supervised Point Cloud Pre-Training',
-      publisher: 'CVPR 2023',
-      authors: 'Xiaoyu Tian, Haoxi Ran, Yue Wang, Hang Zhao',
-      paper_link: '',
+      title: 'Occ3D: A Large-Scale 3D Occupancy Prediction Benchmark for Autonomous Driving',
+      publisher: 'Preprint',
+      authors: 'Xiaoyu Tian*, Tao Jiang*, Longfei Yun, Yucheng Mao, Huitong Yang, Yue Wang, Yilun Wang, Hang Zhao',
+      paper_link: 'https://arxiv.org/abs/2304.14365',
+    },
+    {
+      title: 'SSCBench: A Large-Scale 3D Semantic Scene Completion Benchmark for Autonomous Driving',
+      publisher: 'Preprint',
+      authors: 'Yiming Li*, Sihang Li*, Xinhao Liu*, Moonjun Gong*, Kenan Li, Nuo Chen, Zijun Wang, Zhiheng Li, Tao Jiang, Fisher Yu, Yue Wang, Hang Zhao, Zhiding Yu, Chen Feng',
+      paper_link: 'https://arxiv.org/abs/2306.09001',
     },
     {
       title: 'What Happened 3 Seconds Ago? Inferring the Past with Thermal Imaging',
       publisher: 'CVPR 2023',
       authors: 'Zitian Tang, Wenjie Ye, Wei-Chiu Ma, Hang Zhao',
-      paper_link: '',
+      paper_link: 'https://arxiv.org/abs/2304.13651',
+    },
+    {
+      title: 'Neural Map Prior for Autonomous Driving',
+      publisher: 'CVPR 2023',
+      authors: 'Xuan Xiong, Yicheng Liu, Tianyuan Yuan, Yilun Wang, Yue Wang, Hang Zhao',
+      paper_link: 'https://arxiv.org/abs/2304.08481',
+    },
+    {
+      title: 'ViP3D: End-to-end Visual Trajectory Prediction via 3D Agent Queries',
+      publisher: 'CVPR 2023',
+      authors: 'Junru Gu*, Chenxu Hu*, Tianyuan Zhang, Xuanyao Chen, Yilun Wang, Yue Wang, Hang Zhao',
+      paper_link: 'https://arxiv.org/abs/2208.01582',
+    },
+    {
+      title: 'GeoMAE: Masked Geometric Target Prediction for Self-supervised Point Cloud Pre-Training',
+      publisher: 'CVPR 2023',
+      authors: 'Xiaoyu Tian, Haoxi Ran, Yue Wang, Hang Zhao',
+      paper_link: 'https://arxiv.org/abs/2305.08808',
     },
     {
       title: 'SparseViT: Revisiting Activation Sparsity for Efficient High-Resolution Vision Transformer',
       publisher: 'CVPR 2023',
       authors: 'Xuanyao Chen, Zhijian Liu, Haotian Tang, Li Yi, Hang Zhao, Song Han',
-      paper_link: '',
+      paper_link: 'https://arxiv.org/abs/2303.17605',
     },
     {
       title: 'The Modality Focusing Hypothesis: Towards Understanding Crossmodal Knowledge Distillation',
@@ -650,7 +770,7 @@ const main = {
     },
     {
       title: 'VectorMapNet: End-to-end Vectorized HD Map Learning',
-      publisher: 'Preprint 2022',
+      publisher: 'ICML 2023',
       authors: 'Yicheng Liu, Yue Wang, Yilun Wang, Hang Zhao',
       paper_link: 'https://arxiv.org/abs/2206.08920',
     },
