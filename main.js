@@ -76,6 +76,12 @@ const main = {
       content: 'Xiaoyu Tian is a MS student and an incoming PhD student. He is interested in computer vision and autonomous driving.',
       image: 'kenan.jpeg',
     },
+    {
+      name: 'Yicheng Liu 刘毅成',
+      website: 'https://scholar.google.com/citations?user=vRmsgQUAAAAJ&hl',
+      content: 'Yicheng Liu is a research assistant in the lab and an incoming PhD student. He is interested in autonomous driving.',
+      image: 'yicheng.jpeg',
+    },
   ],
 
   research_assistants: [
@@ -86,9 +92,9 @@ const main = {
       image: 'qiaosun.png', 
     },
     {
-      name: 'Ziwen Zhuang 庄子文',
-      website: 'https://sites.google.com/view/ziwenzhuang',
-      content: 'Ziwen Zhuang is a research assistant in the lab. He is interested in robotics.',
+      name: 'Leo Zhuang 庄子文',
+      website: 'https://ziwenzhuang.github.io',
+      content: 'Leo Ziwen Zhuang is a research assistant in the lab. He is interested in robot learning.',
       image: 'ziwen.jpg',
     },
     {
@@ -96,12 +102,6 @@ const main = {
       website: '',
       content: 'Xuan Xiong is a research assistant in the lab. She is interested in autonomous driving.',
       image: 'xiaolan.png',
-    },
-    {
-      name: 'Yicheng Liu 刘毅成',
-      website: 'https://scholar.google.com/citations?user=vRmsgQUAAAAJ&hl',
-      content: 'Yicheng Liu is a research assistant in the lab, and an incoming PhD student. He is interested in autonomous driving.',
-      image: 'yicheng.jpeg',
     },
     {
       name: 'Tao Jiang 江涛',
@@ -122,15 +122,9 @@ const main = {
       image: 'kenan.jpeg',
     },
     {
-      name: 'Jiangtao Yu 于江涛',
-      website: 'https://jiangtaoyu.hk',
-      content: 'Jiangtao Yu is an undergraduate intern in the lab. He is interested in multi-sensor machine learning.',
-      image: 'yujiangtao.png',
-    },
-    {
       name: 'Zenan Li 李泽楠',
       website: '',
-      content: 'Zenan Li is an undergraduate intern in the lab, and an imcoming PhD student. He is interested in multi-modal learning and decision.',
+      content: 'Zenan Li is an undergraduate intern in the lab and an incoming PhD student. He is interested in multi-modal learning and decision.',
       image: 'kenan.jpeg',
     },
     {
@@ -150,6 +144,18 @@ const main = {
       website: '',
       content: 'Cindy Zeng is an intern in the lab. She is a PhD student at the University of Illinois Urbana-Champaign.',
       image: 'xiaolan.png',
+    },
+    {
+      name: 'John Zheng 郑亮涛',
+      website: 'https://zltjohn.github.io/',
+      content: 'John Zheng is an intern in the lab. He is a MS student at the University of California San Diego.',
+      image: 'johnzheng.png',
+    },
+    {
+      name: 'Luca Yu 于江涛',
+      website: 'https://jiangtaoyu.hk',
+      content: 'Luca Jiangtao Yu is an intern in the lab. He is an incoming PhD student at the University of Hong Kong.',
+      image: 'lucayu.jpg',
     },
   ],
   
