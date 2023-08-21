@@ -80,7 +80,7 @@ const main = {
       name: 'Yicheng Liu 刘毅成',
       website: 'https://scholar.google.com/citations?user=vRmsgQUAAAAJ&hl',
       content: 'Yicheng Liu is a research assistant in the lab and an incoming PhD student. He is interested in autonomous driving.',
-      image: 'yicheng.jpeg',
+      image: 'yicheng.jpg',
     },
   ],
 
@@ -267,6 +267,14 @@ const main = {
   ],
 
   projects: [
+    {
+      title: 'Radio2Text: Streaming Speech Recognition Using mmWave Radio Signals',
+      publisher: 'Ubicomp/IMWUT\'23',
+      authors: 'Running Zhao*, Jiangtao Yu*, Hang Zhao†, Edith C.H. Ngai†',
+      description: '"The first mmWave-based system for streaming ASR with a vocabulary size exceeding 13k words."',
+      paper_link: 'https://arxiv.org/abs/2308.08125',
+      image: 'radio2text.png',
+    },
     {
       title: 'ChatDB: Augmenting LLMs with Databases as Their Symbolic Memory',
       publisher: 'LLM@IJCAI\'23',
