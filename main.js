@@ -145,18 +145,7 @@ const main = {
       content: 'Cindy Zeng is an intern in the lab. She is a PhD student at the University of Illinois Urbana-Champaign.',
       image: 'xiaolan.png',
     },
-    {
-      name: 'John Zheng 郑亮涛',
-      website: 'https://zltjohn.github.io/',
-      content: 'John Zheng is an intern in the lab. He is a MS student at the University of California San Diego.',
-      image: 'johnzheng.png',
-    },
-    {
-      name: 'Luca Yu 于江涛',
-      website: 'https://jiangtaoyu.hk',
-      content: 'Luca Jiangtao Yu is an intern in the lab. He is an incoming PhD student at the University of Hong Kong.',
-      image: 'lucayu.jpg',
-    },
+    
   ],
   
   alumni: [
@@ -263,13 +252,24 @@ const main = {
       content: 'Wenjie Ye is an undergraduate intern from 2021 to 2023. He is now a research assistant at Shanghai Qi Zhi Institute.',
       image: 'kenan.jpeg',
     },
-
+    {
+      name: 'Luca Yu 于江涛',
+      website: 'https://lucayu.me',
+      content: 'Luca Jiangtao Yu is an intern in the lab. He is an incoming PhD student at the University of Hong Kong.',
+      image: 'lucayu.jpg',
+    },
+    {
+      name: 'John Zheng 郑亮涛',
+      website: 'https://zltjohn.github.io/',
+      content: 'John Zheng is an intern in the lab. He is a MS student at the University of California San Diego.',
+      image: 'johnzheng.png',
+    },
   ],
 
   projects: [
     {
       title: 'Radio2Text: Streaming Speech Recognition Using mmWave Radio Signals',
-      publisher: 'Ubicomp/IMWUT\'23',
+      publisher: 'Ubicomp/ISWC\'23',
       authors: 'Running Zhao*, Jiangtao Yu*, Hang Zhao†, Edith C.H. Ngai†',
       description: '"The first mmWave-based system for streaming ASR with a vocabulary size exceeding 13k words."',
       paper_link: 'https://arxiv.org/abs/2308.08125',
@@ -710,6 +710,12 @@ const main = {
   ],
   
   publications: [
+    {
+      title: 'Radio2Text: Streaming Speech Recognition Using mmWave Radio Signals',
+      publisher: 'Ubicomp/ISWC 2023',
+      authors: 'Running Zhao*, Jiangtao Yu*, Hang Zhao†, Edith C.H. Ngai†',
+      paper_link: 'https://arxiv.org/abs/2308.08125',
+    },
     {
       title: 'ChatDB: Augmenting LLMs with Databases as Their Symbolic Memory',
       publisher: 'LLM@IJCAI 2023',
