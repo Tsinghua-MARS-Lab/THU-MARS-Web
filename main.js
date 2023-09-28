@@ -268,8 +268,22 @@ const main = {
 
   projects: [
     {
+      title: 'Robot Parkour Learning',
+      publisher: 'CoRL 2023 Oral',
+      authors: 'Ziwen Zhuang*, Zipeng Fu*, Jianren Wang, Christopher G Atkeson, Sören Schwertfeger, Chelsea Finn, Hang Zhao',
+      paper_link: 'https://openreview.net/pdf?id=uo937r5eTE',
+      project_link: 'https://robot-parkour.github.io/',
+      image: 'parkour.jpeg',
+      extra_link: [
+        {
+          name: 'Code',
+          link: 'https://github.com/ZiwenZhuang/parkour',
+        },
+      ],
+    }, 
+    {
       title: 'Radio2Text: Streaming Speech Recognition Using mmWave Radio Signals',
-      publisher: 'Ubicomp/ISWC\'23',
+      publisher: 'Ubicomp/ISWC 2023',
       authors: 'Running Zhao*, Jiangtao Yu*, Hang Zhao†, Edith C.H. Ngai†',
       description: '"The first mmWave-based system for streaming ASR with a vocabulary size exceeding 13k words."',
       paper_link: 'https://arxiv.org/abs/2308.08125',
@@ -277,7 +291,7 @@ const main = {
     },
     {
       title: 'ChatDB: Augmenting LLMs with Databases as Their Symbolic Memory',
-      publisher: 'LLM@IJCAI\'23',
+      publisher: 'LLM@IJCAI 2023',
       authors: 'Chenxu Hu*, Jie Fu*†, Chenzhuang Du, Simian Luo, Junbo Zhao, Hang Zhao†',
       description: '"Augmenting LLMs with symbolic memory for accurate memory and complex reasoning."',
       paper_link: 'https://arxiv.org/abs/2306.03901',
@@ -292,7 +306,7 @@ const main = {
     },
     {
       title: 'Occ3D: A Large-Scale 3D Occupancy Prediction Benchmark for Autonomous Driving',
-      publisher: 'Preprint',
+      publisher: 'NeurIPS 2023',
       authors: 'Xiaoyu Tian*, Tao Jiang*, Longfei Yun, Yucheng Mao, Huitong Yang, Yue Wang, Yilun Wang, Hang Zhao',
       // description: '""',
       paper_link: 'https://arxiv.org/abs/2304.14365',
@@ -305,21 +319,21 @@ const main = {
         },
       ],
     },
-    {
-      title: 'SSCBench: A Large-Scale 3D Semantic Scene Completion Benchmark for Autonomous Driving',
-      publisher: 'Preprint',
-      authors: 'Yiming Li*, Sihang Li*, Xinhao Liu*, Moonjun Gong*, Kenan Li, Nuo Chen, Zijun Wang, Zhiheng Li, Tao Jiang, Fisher Yu, Yue Wang, Hang Zhao, Zhiding Yu, Chen Feng',
-      // description: '""',
-      paper_link: 'https://arxiv.org/abs/2306.09001',
-      project_link: 'https://github.com/ai4ce/SSCBench',
-      image: 'sscbench.png',
-      extra_link: [
-        {
-          name: 'Dataset',
-          link: 'https://github.com/ai4ce/SSCBench/tree/main/dataset',
-        },
-      ],
-    },
+    // {
+    //   title: 'SSCBench: A Large-Scale 3D Semantic Scene Completion Benchmark for Autonomous Driving',
+    //   publisher: 'Preprint',
+    //   authors: 'Yiming Li*, Sihang Li*, Xinhao Liu*, Moonjun Gong*, Kenan Li, Nuo Chen, Zijun Wang, Zhiheng Li, Tao Jiang, Fisher Yu, Yue Wang, Hang Zhao, Zhiding Yu, Chen Feng',
+    //   // description: '""',
+    //   paper_link: 'https://arxiv.org/abs/2306.09001',
+    //   project_link: 'https://github.com/ai4ce/SSCBench',
+    //   image: 'sscbench.png',
+    //   extra_link: [
+    //     {
+    //       name: 'Dataset',
+    //       link: 'https://github.com/ai4ce/SSCBench/tree/main/dataset',
+    //     },
+    //   ],
+    // },
     {
       title: 'VectorMapNet: End-to-end Vectorized HD Map Learning',
       publisher: 'ICML 2023',
@@ -711,6 +725,36 @@ const main = {
   
   publications: [
     {
+      title: 'Robot Parkour Learning',
+      publisher: 'CoRL 2023 Oral',
+      authors: 'Ziwen Zhuang, Zipeng Fu, Jianren Wang, Christopher G Atkeson, Sören Schwertfeger, Chelsea Finn, Hang Zhao',
+      paper_link: 'https://openreview.net/pdf?id=uo937r5eTE',
+    }, 
+    {
+      title: 'Cross-dataset Sensor Alignment: Making Visual 3D Object Detector Generalize',
+      publisher: 'CoRL 2023',
+      authors: 'Liangtao Zheng, Yicheng Liu, Yue Wang, Hang Zhao',
+      paper_link: 'https://openreview.net/pdf?id=dIgCPoy8E3',
+    }, 
+    {
+      title: 'A Universal Semantic-Geometric Representation for Robotic Manipulation',
+      publisher: 'CoRL 2023',
+      authors: 'Tong Zhang, Yingdong Hu, Hanchen Cui, Hang Zhao, Yang Gao',
+      paper_link: 'https://openreview.net/pdf?id=AIgm8ZE_DlD',
+    }, 
+    {
+      title: 'Diff-Foley: Synchronized Video-to-Audio Synthesis with Latent Diffusion Models',
+      publisher: 'NeurIPS 2023',
+      authors: 'Simian Luo, Chuanhao Yan, Chenxu Hu, Hang Zhao',
+      paper_link: 'https://arxiv.org/abs/2306.17203',
+    },
+    {
+      title: 'Occ3D: A Large-Scale 3D Occupancy Prediction Benchmark for Autonomous Driving',
+      publisher: 'NeurIPS 2023',
+      authors: 'Xiaoyu Tian*, Tao Jiang*, Longfei Yun, Yucheng Mao, Huitong Yang, Yue Wang, Yilun Wang, Hang Zhao',
+      paper_link: 'https://arxiv.org/abs/2304.14365',
+    },
+    {
       title: 'Radio2Text: Streaming Speech Recognition Using mmWave Radio Signals',
       publisher: 'Ubicomp/ISWC 2023',
       authors: 'Running Zhao*, Jiangtao Yu*, Hang Zhao†, Edith C.H. Ngai†',
@@ -727,12 +771,6 @@ const main = {
       publisher: 'IROS 2023',
       authors: 'Qiao Sun, Xin Huang, Brian C. Williams, Hang Zhao',
       paper_link: 'https://arxiv.org/abs/2211.01634',
-    },
-    {
-      title: 'Occ3D: A Large-Scale 3D Occupancy Prediction Benchmark for Autonomous Driving',
-      publisher: 'Preprint',
-      authors: 'Xiaoyu Tian*, Tao Jiang*, Longfei Yun, Yucheng Mao, Huitong Yang, Yue Wang, Yilun Wang, Hang Zhao',
-      paper_link: 'https://arxiv.org/abs/2304.14365',
     },
     {
       title: 'SSCBench: A Large-Scale 3D Semantic Scene Completion Benchmark for Autonomous Driving',
@@ -1000,7 +1038,7 @@ const main = {
     }, 
     {
       title: 'UnModNet: Learning to Unwrap a Modulo Image for High Dynamic Range Imaging',
-      publisher: 'NeuRIPS 2020',
+      publisher: 'NeurIPS 2020',
       authors: 'Chu Zhou, Hang Zhao, Jin Han, Chang Xu, Chao Xu, Tiejun Huang, Boxin Shi',
       paper_link: 'https://proceedings.neurips.cc/paper/2020/hash/1102a326d5f7c9e04fc3c89d0ede88c9-Abstract.html',
     },
