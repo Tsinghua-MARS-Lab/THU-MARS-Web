@@ -271,7 +271,7 @@ const main = {
       title: 'Robot Parkour Learning',
       publisher: 'CoRL 2023 Oral',
       authors: 'Ziwen Zhuang*, Zipeng Fu*, Jianren Wang, Christopher G Atkeson, Sören Schwertfeger, Chelsea Finn, Hang Zhao',
-      paper_link: 'https://openreview.net/pdf?id=uo937r5eTE',
+      paper_link: 'https://robot-parkour.github.io/resources/Robot_Parkour_Learning.pdf',
       project_link: 'https://robot-parkour.github.io/',
       image: 'parkour.jpeg',
       extra_link: [
@@ -728,7 +728,7 @@ const main = {
       title: 'Robot Parkour Learning',
       publisher: 'CoRL 2023 Oral',
       authors: 'Ziwen Zhuang, Zipeng Fu, Jianren Wang, Christopher G Atkeson, Sören Schwertfeger, Chelsea Finn, Hang Zhao',
-      paper_link: 'https://openreview.net/pdf?id=uo937r5eTE',
+      paper_link: 'https://robot-parkour.github.io/resources/Robot_Parkour_Learning.pdf',
     }, 
     {
       title: 'Cross-dataset Sensor Alignment: Making Visual 3D Object Detector Generalize',
