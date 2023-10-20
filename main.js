@@ -73,13 +73,13 @@ const main = {
     {
       name: 'Xiaoyu Tian 田晓宇',
       website: '',
-      content: 'Xiaoyu Tian is a MS student and an incoming PhD student. He is interested in computer vision and autonomous driving.',
+      content: 'Xiaoyu Tian is a PhD student starting from 2023. He is interested in computer vision and autonomous driving.',
       image: 'kenan.jpeg',
     },
     {
       name: 'Yicheng Liu 刘毅成',
       website: 'https://scholar.google.com/citations?user=vRmsgQUAAAAJ&hl',
-      content: 'Yicheng Liu is a research assistant in the lab and an incoming PhD student. He is interested in autonomous driving.',
+      content: 'Yicheng Liu is a PhD student starting from 2023. He is interested in autonomous driving and representation learning.',
       image: 'yicheng.jpg',
     },
   ],
@@ -116,36 +116,17 @@ const main = {
       image: 'kenan.jpeg',
     },
     {
-      name: 'Shiduo Zhang 张世铎',
-      website: '',
-      content: 'Shiduo Zhang is an undergraduate intern in the lab. He is interested in robotics.',
-      image: 'kenan.jpeg',
-    },
-    {
       name: 'Zenan Li 李泽楠',
       website: '',
-      content: 'Zenan Li is an undergraduate intern in the lab and an incoming PhD student. He is interested in multi-modal learning and decision.',
+      content: 'Zenan Li is an incoming PhD student. He is interested in reinforcement learning.',
       image: 'kenan.jpeg',
     },
     {
       name: 'Derun Li 李德润',
       website: '',
-      content: 'Jiageng Mao is an intern in the lab. He is a PhD student at Shanghai Jiaotong University.',
+      content: 'Derun Li is an intern in the lab. He is a PhD student at Shanghai Jiaotong University.',
       image: 'kenan.jpeg',
-    },
-    {
-      name: 'Jiageng Mao 毛佳庚',
-      website: '',
-      content: 'Jiageng Mao is an intern in the lab. He is a PhD student at University of Southern California.',
-      image: 'kenan.jpeg',
-    },
-    {
-      name: 'Cindy Zeng 曾思齐',
-      website: '',
-      content: 'Cindy Zeng is an intern in the lab. She is a PhD student at the University of Illinois Urbana-Champaign.',
-      image: 'xiaolan.png',
-    },
-    
+    },    
   ],
   
   alumni: [
@@ -161,7 +142,6 @@ const main = {
       content: 'Renhao Wang was a research assistnat from 2021 to 2022. He is now a PhD student at UC Berkeley.',
       image: 'kenan.jpeg',
     },
-
     {
       name: 'Zihui Xue 薛子慧',
       website: 'https://zihuixue.github.io/',
@@ -243,27 +223,46 @@ const main = {
     {
       name: 'Zitian Tang 唐梓天',
       website: 'https://zitiantang.github.io/',
-      content: 'Zitian Tang is an undergraduate intern from 2021 to 2023. He is now a PhD student at Brown University.',
+      content: 'Zitian Tang was an undergraduate intern from 2021 to 2023. He is now a PhD student at Brown University.',
       image: 'zitian.jpg',
     },
     {
       name: 'Wenjie Ye 叶闻捷',
       website: '',
-      content: 'Wenjie Ye is an undergraduate intern from 2021 to 2023. He is now a research assistant at Shanghai Qi Zhi Institute.',
+      content: 'Wenjie Ye was an undergraduate intern from 2021 to 2023. He is now a researcher at Shanghai Qi Zhi Institute.',
       image: 'kenan.jpeg',
     },
     {
       name: 'Luca Yu 于江涛',
       website: 'https://lucayu.me',
-      content: 'Luca Jiangtao Yu is an intern in the lab. He is an incoming PhD student at the University of Hong Kong.',
+      content: 'Luca Jiangtao Yu was an intern in the lab. He is now a PhD student at the University of Hong Kong.',
       image: 'lucayu.jpg',
     },
     {
       name: 'John Zheng 郑亮涛',
       website: 'https://zltjohn.github.io/',
-      content: 'John Zheng is an intern in the lab. He is a MS student at the University of California San Diego.',
+      content: 'John Zheng was an intern in the lab. He was a MS student at UCSD.',
       image: 'johnzheng.png',
     },
+    {
+      name: 'Jiageng Mao 毛佳庚',
+      website: '',
+      content: 'Jiageng Mao was an intern in the lab. He is now a PhD student at University of Southern California.',
+      image: 'kenan.jpeg',
+    },
+    {
+      name: 'Cindy Zeng 曾思齐',
+      website: '',
+      content: 'Cindy Zeng was an intern in the lab. She is now a PhD student at the University of Illinois Urbana-Champaign.',
+      image: 'xiaolan.png',
+    },
+    {
+      name: 'Shiduo Zhang 张世铎',
+      website: '',
+      content: 'Shiduo Zhang was an intern in the lab. He is now at Fudan University.',
+      image: 'kenan.jpeg',
+    },
+
   ],
 
   projects: [
@@ -277,7 +276,11 @@ const main = {
       image: 'lcm.png',
       extra_link: [
         {
-          name: 'Code & Demo',
+          name: 'Demo',
+          link: 'https://huggingface.co/spaces/SimianLuo/Latent_Consistency_Model',
+        },
+        {
+          name: 'Code',
           link: 'https://github.com/luosiallen/latent-consistency-model',
         },
       ],
@@ -553,15 +556,15 @@ const main = {
         'hot',
       ],
     },
-    {
-      title: 'CVC: Contrastive Learning for Non-parallel Voice Conversion',
-      publisher: 'Interspeech 2021 (ISCA travel grant award)',
-      authors: 'Tingle Li, Yichen Liu, Chenxu Hu, Hang Zhao',
-      description: '"It only requires one-way GAN training for non-parallel voice conversion"',
-      paper_link: 'https://www.isca-speech.org/archive/interspeech_2021/li21d_interspeech.html',
-      project_link: 'https://tinglok.netlify.app/files/cvc/',
-      image: 'CVC.jpg',
-    },
+    // {
+    //   title: 'CVC: Contrastive Learning for Non-parallel Voice Conversion',
+    //   publisher: 'Interspeech 2021 (ISCA travel grant award)',
+    //   authors: 'Tingle Li, Yichen Liu, Chenxu Hu, Hang Zhao',
+    //   description: '"It only requires one-way GAN training for non-parallel voice conversion"',
+    //   paper_link: 'https://www.isca-speech.org/archive/interspeech_2021/li21d_interspeech.html',
+    //   project_link: 'https://tinglok.netlify.app/files/cvc/',
+    //   image: 'CVC.jpg',
+    // },
     {
       title: 'HDMapGen: A Hierarchical Graph Generative Model of High Definition Maps',
       publisher: 'CVPR 2021',
@@ -754,6 +757,12 @@ const main = {
   ],
   
   publications: [
+    {
+      title: 'Latent Consistency Models: Synthesizing High-Resolution Images With Few-Step Inference',
+      publisher: 'Preprint',
+      authors: 'Simian Luo*, Yiqin Tan*, Longbo Huang†, Jian Li†, Hang Zhao†',
+      paper_link: 'https://arxiv.org/abs/2310.04378',
+    },
     {
       title: 'Robot Parkour Learning',
       publisher: 'CoRL 2023 Oral',
