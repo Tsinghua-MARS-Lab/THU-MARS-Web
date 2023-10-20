@@ -66,8 +66,8 @@ const main = {
     },
     {
       name: 'Simian Luo 骆思勉',
-      website: '',
-      content: 'Simian Luo is a MS student starting from 2022. He is interested in Multi-Modal Generation, AIGC, and multi-modal representation learning.',
+      website: 'https://luosiallen.github.io',
+      content: 'Simian Luo is a MS student starting from 2022. He is interested in Multi-Modal Generation; Acceleration in AIGC; Diffusion Models; Consistency Models.',
       image: 'lsm.jpg',
     },
     {
@@ -267,6 +267,36 @@ const main = {
   ],
 
   projects: [
+   {
+      title: 'Latent Consistency Models: Synthesizing High-Resolution Images With Few-Step Inference',
+      publisher: 'arXiv Preprint',
+      authors: 'Simian Luo*, Yiqin Tan*, Longbo Huang†, Jian Li†, Hang Zhao†',
+      description: '”LCMs: The next generation of generative models after Latent Diffusion Models (LDMs).“',
+      paper_link: 'https://arxiv.org/abs/2310.04378',
+      project_link: 'https://latent-consistency-models.github.io',
+      image: 'lcm.png',
+      extra_link: [
+        {
+          name: 'Code & Demo',
+          link: 'https://github.com/luosiallen/latent-consistency-model',
+        },
+      ],
+    },
+    {
+      title: 'Diff-Foley: Synchronized Video-to-Audio Synthesis with Latent Diffusion Models',
+      publisher: 'NeurIPS 2023',
+      authors: 'Simian Luo, Chuanhao Yan, Chenxu Hu, Hang Zhao†',
+      description: 'A Highly Synchronized Video-to-Audio Generative Model (Neural Foley)',
+      paper_link: 'https://arxiv.org/abs/2306.17203v1',
+      project_link: 'https://diff-foley.github.io',
+      image: 'diff-foley.png',
+      extra_link: [
+        {
+          name: 'Code',
+          link: 'https://github.com/luosiallen/Diff-Foley',
+        },
+      ],
+    },
     {
       title: 'Robot Parkour Learning',
       publisher: 'CoRL 2023 Oral',
