@@ -127,6 +127,18 @@ const main = {
       content: 'Derun Li is an intern in the lab. He is a PhD student at Shanghai Jiaotong University.',
       image: 'kenan.jpeg',
     },    
+    {
+      name: 'Zhijie Huang 黄治杰',
+      website: '',
+      content: 'Zhijie Huang is an intern in the lab. He is interested in multi-modal learning.',
+      image: 'kenan.jpeg',
+    },
+    {
+      name: 'Shaoting Zhu 朱少廷',
+      website: '',
+      content: 'Shaoting Zhu is an intern and also an incoming PhD student. He is interested in robotics.',
+      image: 'kenan.jpeg',
+    },
   ],
   
   alumni: [
