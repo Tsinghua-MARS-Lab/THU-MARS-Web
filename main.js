@@ -454,23 +454,23 @@ const main = {
       project_link: 'https://tsinghua-mars-lab.github.io/futr3d/',
       image: 'futr3d.png',
     }, 
-    {
-      title: 'MUTR3D: A Multi-camera Tracking Framework via 3D-to-2D Queries',
-      publisher: 'CVPR Workshop on Autonomous Driving 2022',
-      authors: 'Tianyuan Zhang, Xuanyao Chen, Yue Wang, Yilun Wang, Hang Zhao',
-      paper_link: 'https://arxiv.org/abs/2205.00613',
-      project_link: 'https://tsinghua-mars-lab.github.io/mutr3d/',
-      image: 'mutr3d.png',
-    },
-    {
-      title: 'SEMI: Self-supervised Exploration via Multisensory Incongruity',
-      publisher: 'ICRA 2022',
-      authors: 'Jianren Wang*, Ziwen Zhuang*, Hang Zhao',
-      description: '"Multi-sensory incongruity incentizes RL agents to explore!"',
-      paper_link: 'https://arxiv.org/abs/2009.12494',
-      project_link: '',
-      image: 'SEMI.jpeg',
-    }, 
+    // {
+    //   title: 'MUTR3D: A Multi-camera Tracking Framework via 3D-to-2D Queries',
+    //   publisher: 'CVPR Workshop on Autonomous Driving 2022',
+    //   authors: 'Tianyuan Zhang, Xuanyao Chen, Yue Wang, Yilun Wang, Hang Zhao',
+    //   paper_link: 'https://arxiv.org/abs/2205.00613',
+    //   project_link: 'https://tsinghua-mars-lab.github.io/mutr3d/',
+    //   image: 'mutr3d.png',
+    // },
+    // {
+    //   title: 'SEMI: Self-supervised Exploration via Multisensory Incongruity',
+    //   publisher: 'ICRA 2022',
+    //   authors: 'Jianren Wang*, Ziwen Zhuang*, Hang Zhao',
+    //   description: '"Multi-sensory incongruity incentizes RL agents to explore!"',
+    //   paper_link: 'https://arxiv.org/abs/2009.12494',
+    //   project_link: '',
+    //   image: 'SEMI.jpeg',
+    // }, 
     {
       title: 'HDMapNet: An Online HD Map Construction and Evaluation Framework',
       publisher: 'ICRA 2022, CVPR 2021 Workshop best paper nominee',
@@ -491,9 +491,6 @@ const main = {
       paper_link: 'https://arxiv.org/abs/2110.08243',
       project_link: 'https://tsinghua-mars-lab.github.io/NeuralDubber/',
       image: 'neural_dubber.png',
-      tags: [
-        'hot',
-      ],
     },
     {
       title: 'What Makes Multi-Modal Learning Better than Single (Provably)',
@@ -501,9 +498,6 @@ const main = {
       authors: 'Yu Huang, Chenzhuang Du, Zihui Xue, Xuanyao Chen, Hang Zhao, Longbo Huang',
       paper_link: 'https://proceedings.neurips.cc/paper/2021/hash/5aa3405a3f865c10f420a4a7b55cbff3-Abstract.html',
       image: 'mm_better.png',
-      tags: [
-        'hot',
-      ],
     },
     {
       title: 'DETR3D: 3D Object Detection from Multi-view Images via 3D-to-2D Queries',
@@ -537,9 +531,6 @@ const main = {
       paper_link: 'https://openaccess.thecvf.com/content/ICCV2021/html/Ettinger_Large_Scale_Interactive_Motion_Forecasting_for_Autonomous_Driving_The_Waymo_ICCV_2021_paper.html',
       project_link: 'https://blog.waymo.com/2021/03/expanding-waymo-open-dataset-with-interactive-scenario-data-and-new-challenges.html',
       image: 'waymo_motion.gif',
-      tags: [
-        'hot',
-      ],
     },
     {
       title: 'Multimodal Knowledge Expansion',
@@ -564,9 +555,6 @@ const main = {
         },
       ],
       image: 'densetnt.png',
-      tags: [
-        'hot',
-      ],
     },
     // {
     //   title: 'CVC: Contrastive Learning for Non-parallel Voice Conversion',
@@ -577,13 +565,13 @@ const main = {
     //   project_link: 'https://tinglok.netlify.app/files/cvc/',
     //   image: 'CVC.jpg',
     // },
-    {
-      title: 'HDMapGen: A Hierarchical Graph Generative Model of High Definition Maps',
-      publisher: 'CVPR 2021',
-      authors: 'Lu Mi, Hang Zhao, Charlie Nash, Xiaohan Jin, Jiyang Gao, Chen Sun, Cordelia Schmid, Nir Shavit, Yuning Chai, Dragomir Anguelov',
-      paper_link: 'https://openaccess.thecvf.com/content/CVPR2021/html/Mi_HDMapGen_A_Hierarchical_Graph_Generative_Model_of_High_Definition_Maps_CVPR_2021_paper.html',
-      image: 'HDMapGen.jpg',
-    },
+    // {
+    //   title: 'HDMapGen: A Hierarchical Graph Generative Model of High Definition Maps',
+    //   publisher: 'CVPR 2021',
+    //   authors: 'Lu Mi, Hang Zhao, Charlie Nash, Xiaohan Jin, Jiyang Gao, Chen Sun, Cordelia Schmid, Nir Shavit, Yuning Chai, Dragomir Anguelov',
+    //   paper_link: 'https://openaccess.thecvf.com/content/CVPR2021/html/Mi_HDMapGen_A_Hierarchical_Graph_Generative_Model_of_High_Definition_Maps_CVPR_2021_paper.html',
+    //   image: 'HDMapGen.jpg',
+    // },
     {
       title: 'TNT: Target-driveN Trajectory Prediction',
       publisher: 'CoRL 2020',
@@ -804,6 +792,18 @@ const main = {
       publisher: 'NeurIPS 2023',
       authors: 'Xiaoyu Tian*, Tao Jiang*, Longfei Yun, Yucheng Mao, Huitong Yang, Yue Wang, Yilun Wang, Hang Zhao',
       paper_link: 'https://arxiv.org/abs/2304.14365',
+    },
+    {
+      title: 'PVT++: A Simple End-to-End Latency-Aware Visual Tracking Framework',
+      publisher: 'ICCV 2023',
+      authors: 'Bowen Li, Ziyuan Huang, Junjie Ye, Yiming Li, Sebastian Scherer, Hang Zhao, Changhong Fu',
+      paper_link: 'https://openaccess.thecvf.com/content/ICCV2023/papers/Li_PVT_A_Simple_End-to-End_Latency-Aware_Visual_Tracking_Framework_ICCV_2023_paper.pdf',
+    },
+    {
+      title: 'INT2: Interactive Trajectory Prediction at Intersections',
+      publisher: 'ICCV 2023',
+      authors: 'Zhijie Yan, et al.',
+      paper_link: 'https://openaccess.thecvf.com/content/ICCV2023/papers/Yan_INT2_Interactive_Trajectory_Prediction_at_Intersections_ICCV_2023_paper.pdf',
     },
     {
       title: 'Radio2Text: Streaming Speech Recognition Using mmWave Radio Signals',
