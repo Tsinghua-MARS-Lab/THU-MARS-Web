@@ -4,9 +4,9 @@ const main = {
   // about_our_lab: migrated to THU-MARS-Web/about_our_lab.vue
 
   banner: [
+    'banner_robot.jpg',
+    'banner_lcm.jpg', 
     'VCAD.jpg',
-    'banner_dubber.jpg',
-    'banner3.jpg',
     'banner1.jpg',
     'banner2.jpg',
   ],
