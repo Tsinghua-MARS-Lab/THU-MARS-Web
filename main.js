@@ -314,7 +314,7 @@ const main = {
     },
     {
       title: 'Robot Parkour Learning',
-      publisher: 'CoRL 2023 Oral',
+      publisher: 'CoRL 2023 Best System Paper Finalist',
       authors: 'Ziwen Zhuang*, Zipeng Fu*, Jianren Wang, Christopher G Atkeson, Sören Schwertfeger, Chelsea Finn, Hang Zhao',
       description: 'Robot parkour skills empowered by onboard vision and a neural network!',
       paper_link: 'https://robot-parkour.github.io/resources/Robot_Parkour_Learning.pdf',
@@ -763,7 +763,7 @@ const main = {
     },
     {
       title: 'Robot Parkour Learning',
-      publisher: 'CoRL 2023 Oral',
+      publisher: 'CoRL 2023 Best System Paper Finalist',
       authors: 'Ziwen Zhuang, Zipeng Fu, Jianren Wang, Christopher G Atkeson, Sören Schwertfeger, Chelsea Finn, Hang Zhao',
       paper_link: 'https://robot-parkour.github.io/resources/Robot_Parkour_Learning.pdf',
     }, 
