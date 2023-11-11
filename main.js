@@ -282,7 +282,7 @@ const main = {
       title: 'Latent Consistency Models: Synthesizing High-Resolution Images With Few-Step Inference',
       publisher: 'arXiv Preprint',
       authors: 'Simian Luo*, Yiqin Tan*, Longbo Huang†, Jian Li†, Hang Zhao†',
-      description: '”LCMs: The next generation of generative models after Latent Diffusion Models (LDMs).“',
+      description: '"LCMs: The next generation of generative models after Latent Diffusion Models (LDMs)."',
       paper_link: 'https://arxiv.org/abs/2310.04378',
       project_link: 'https://latent-consistency-models.github.io',
       image: 'lcm.png',
@@ -294,6 +294,10 @@ const main = {
         {
           name: 'Code',
           link: 'https://github.com/luosiallen/latent-consistency-model',
+        },
+        {
+          name: 'LCM-LoRA Paper',
+          link: 'https://arxiv.org/abs/2311.05556',
         },
       ],
     },
@@ -314,7 +318,7 @@ const main = {
     },
     {
       title: 'Robot Parkour Learning',
-      publisher: 'CoRL 2023 Best System Paper Finalist',
+      publisher: 'CoRL 2023 Best System Paper Finalist (Top3)',
       authors: 'Ziwen Zhuang*, Zipeng Fu*, Jianren Wang, Christopher G Atkeson, Sören Schwertfeger, Chelsea Finn, Hang Zhao',
       description: 'Robot parkour skills empowered by onboard vision and a neural network!',
       paper_link: 'https://robot-parkour.github.io/resources/Robot_Parkour_Learning.pdf',
@@ -763,7 +767,7 @@ const main = {
     },
     {
       title: 'Robot Parkour Learning',
-      publisher: 'CoRL 2023 Best System Paper Finalist',
+      publisher: 'CoRL 2023 Best System Paper Finalist (Top3)',
       authors: 'Ziwen Zhuang, Zipeng Fu, Jianren Wang, Christopher G Atkeson, Sören Schwertfeger, Chelsea Finn, Hang Zhao',
       paper_link: 'https://robot-parkour.github.io/resources/Robot_Parkour_Learning.pdf',
     }, 
