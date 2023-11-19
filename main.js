@@ -14,12 +14,12 @@ const main = {
   overview_of_research_directions: [
     {
       title: 'Multimedia Computing',
-      content: 'We train AI models that learn from multi-modal Internet data such as images, audios, videos and text.',
+      content: 'We train AI models that understand and generate multi-modal data such as images, audios, videos and text.',
       image: 'multimedia.png'
     },
     {
       title: 'Autonomous Driving',
-      content: 'We develop the next-generation autonomous driving software stack: perception, prediction and planning.',
+      content: 'We develop the next-generation autonomous driving software stack: from visual scene understanding to neural planning.',
       image: 'autonomous_vehicles.png'
     },
     {
@@ -35,7 +35,7 @@ const main = {
   ],
 
   about_our_leader: [
-    'Dr. Hang Zhao (赵行) is an Assistant Professor at IIIS, Tsinghua University. His research interests include multi-modal machine learning, computer vision and autonomous driving.',
+    'Dr. Hang Zhao (赵行) is an Assistant Professor at IIIS, Tsinghua University. His research interests include multi-modal machine learning, robotics and autonomous driving.',
     'Dr. Zhao was formerly a Research Scientist at Waymo (known as Google\'s self-driving project). Before that, he got his Ph.D. degree at MIT under the supervision of Professor Antonio Torralba.'
   ],
 
@@ -43,7 +43,7 @@ const main = {
     {
       name: 'Chenzhuang Du 杜晨壮',
       website: 'https://scholar.google.com/citations?user=VoF-UAEAAAAJ&hl=en',
-      content: 'Chenzhuang Du is a PhD student starting from 2020. He is interested in applications of Foundation Models and multi-modal learning.',
+      content: 'Chenzhuang Du is a PhD student starting from 2020. He is interested in applications of foundation models and multi-modal learning.',
       image: 'chenzhuang.jpeg',
     },
     {
@@ -94,7 +94,7 @@ const main = {
     {
       name: 'Leo Zhuang 庄子文',
       website: 'https://ziwenzhuang.github.io',
-      content: 'Leo Ziwen Zhuang is a research assistant in the lab. He is interested in robot learning.',
+      content: 'Leo Ziwen Zhuang is a research assistant in the lab, also an incoming PhD student. He is interested in robot learning.',
       image: 'ziwen.jpg',
     },
     {
@@ -274,7 +274,6 @@ const main = {
       content: 'Shiduo Zhang was an intern in the lab. He is now at Fudan University.',
       image: 'kenan.jpeg',
     },
-
   ],
 
   projects: [
