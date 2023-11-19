@@ -4,8 +4,8 @@ const main = {
   // about_our_lab: migrated to THU-MARS-Web/about_our_lab.vue
 
   banner: [
-    'banner_robot.jpg',
     'banner_lcm.jpg', 
+    'banner_robot.jpg',
     'VCAD.jpg',
     'banner1.jpg',
     'banner2.jpg',
@@ -766,6 +766,12 @@ const main = {
       paper_link: 'https://arxiv.org/abs/2310.04378',
     },
     {
+      title: 'Streammapnet: Streaming mapping network for vectorized online hd map construction',
+      publisher: 'WACV 2024',
+      authors: 'Tianyuan Yuan, Yicheng Liu, Yue Wang, Yilun Wang, Hang Zhao',
+      paper_link: 'https://arxiv.org/abs/2308.12570',
+    },
+    {
       title: 'Robot Parkour Learning',
       publisher: 'CoRL 2023 Best System Paper Finalist (Top3)',
       authors: 'Ziwen Zhuang, Zipeng Fu, Jianren Wang, Christopher G Atkeson, Sören Schwertfeger, Chelsea Finn, Hang Zhao',
@@ -884,6 +890,12 @@ const main = {
       publisher: 'ICML 2023',
       authors: 'Yicheng Liu, Yue Wang, Yilun Wang, Hang Zhao',
       paper_link: 'https://arxiv.org/abs/2206.08920',
+    },
+    {
+      title: 'On Uni-Modal Feature Learning in Supervised Multi-Modal Learning',
+      publisher: 'ICML 2023',
+      authors: 'Chenzhuang Du, Jiaye Teng, Tingle Li, Yichen Liu, Tianyuan Yuan, Yue Wang, Yang Yuan, Hang Zhao',
+      paper_link: 'https://arxiv.org/abs/2305.01233',
     },
     {
       title: 'InterSim: Interactive Traffic Simulation via Explicit Relation Modeling',
