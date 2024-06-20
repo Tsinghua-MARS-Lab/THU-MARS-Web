@@ -4,7 +4,7 @@ const main = {
   // about_our_lab: migrated to THU-MARS-Web/about_our_lab.vue
 
   banner: [
-    'banner_lcm.jpg', 
+    'banner_lcm.jpg',
     'banner_robot.jpg',
     'VCAD.jpg',
     'banner1.jpg',
@@ -85,11 +85,11 @@ const main = {
   ],
 
   research_assistants: [
-      {
+    {
       name: 'Qiao Sun 孙桥',
       website: 'https://qiaosun.me/',
       content: 'Qiao Sun is a researcher in the lab. He is interested in planning and simulation for autonomous driving.',
-      image: 'qiaosun.png', 
+      image: 'qiaosun.png',
     },
     {
       name: 'Leo Zhuang 庄子文',
@@ -126,7 +126,7 @@ const main = {
       website: '',
       content: 'Derun Li is an intern in the lab. He is a PhD student at Shanghai Jiaotong University.',
       image: 'kenan.jpeg',
-    },    
+    },
     {
       name: 'Zhijie Huang 黄治杰',
       website: '',
@@ -140,7 +140,7 @@ const main = {
       image: 'kenan.jpeg',
     },
   ],
-  
+
   alumni: [
     {
       name: 'Wenxiao Wang 汪文潇',
@@ -277,7 +277,7 @@ const main = {
   ],
 
   projects: [
-   {
+    {
       title: 'Latent Consistency Models: Synthesizing High-Resolution Images With Few-Step Inference',
       publisher: 'arXiv Preprint',
       authors: 'Simian Luo*, Yiqin Tan*, Longbo Huang†, Jian Li†, Hang Zhao†',
@@ -329,7 +329,7 @@ const main = {
           link: 'https://github.com/ZiwenZhuang/parkour',
         },
       ],
-    }, 
+    },
     {
       title: 'Radio2Text: Streaming Speech Recognition Using mmWave Radio Signals',
       publisher: 'Ubicomp/ISWC 2023',
@@ -401,7 +401,7 @@ const main = {
       extra_link: [
         {
           name: 'Dataset',
-  	      link: 'https://github.com/ZitianTang/Thermal-IM',
+          link: 'https://github.com/ZitianTang/Thermal-IM',
         },
       ],
       image: 'ThermalIM.png',
@@ -431,7 +431,7 @@ const main = {
       paper_link: 'https://arxiv.org/abs/2210.14413',
       project_link: 'https://tsinghua-mars-lab.github.io/InterSim/',
       image: 'intersim.png',
-    }, 
+    },
     {
       title: 'Radio2Speech: High Quality Speech Recovery from Radio Frequency Signals',
       publisher: 'Interspeech 2022',
@@ -457,7 +457,7 @@ const main = {
       paper_link: 'https://arxiv.org/abs/2203.10642',
       project_link: 'https://tsinghua-mars-lab.github.io/futr3d/',
       image: 'futr3d.png',
-    }, 
+    },
     // {
     //   title: 'MUTR3D: A Multi-camera Tracking Framework via 3D-to-2D Queries',
     //   publisher: 'CVPR Workshop on Autonomous Driving 2022',
@@ -474,7 +474,7 @@ const main = {
     //   paper_link: 'https://arxiv.org/abs/2009.12494',
     //   project_link: '',
     //   image: 'SEMI.jpeg',
-    // }, 
+    // },
     {
       title: 'HDMapNet: An Online HD Map Construction and Evaluation Framework',
       publisher: 'ICRA 2022, CVPR 2021 Workshop best paper nominee',
@@ -527,11 +527,11 @@ const main = {
         'hot',
       ],
     },
-	  {
+    {
       title: 'Large Scale Interactive Motion Forecasting for Autonomous Driving: The Waymo Open Motion Dataset',
       publisher: 'ICCV 2021 Oral',
       authors: 'Scott Ettinger, Shuyang Cheng, Benjamin Caine, Chenxi Liu, Hang Zhao, Sabeek Pradhan, Yuning Chai, Ben Sapp, Charles Qi, Yin Zhou, Zoey Yang, Aurelien Chouard, Pei Sun, Jiquan Ngiam, Vijay Vasudevan, Alexander McCauley, Jonathon Shlens, Dragomir Anguelov',
-	  // description: '"A high-quality interactive motion prediction dataset for autonomous driving!"',
+      // description: '"A high-quality interactive motion prediction dataset for autonomous driving!"',
       paper_link: 'https://openaccess.thecvf.com/content/ICCV2021/html/Ettinger_Large_Scale_Interactive_Motion_Forecasting_for_Autonomous_Driving_The_Waymo_ICCV_2021_paper.html',
       project_link: 'https://blog.waymo.com/2021/03/expanding-waymo-open-dataset-with-interactive-scenario-data-and-new-challenges.html',
       image: 'waymo_motion.gif',
@@ -544,7 +544,7 @@ const main = {
       paper_link: 'https://openaccess.thecvf.com/content/ICCV2021/html/Xue_Multimodal_Knowledge_Expansion_ICCV_2021_paper.html',
       project_link: 'https://tsinghua-mars-lab.github.io/MKE/',
       image: 'mke.png',
-    },    
+    },
     {
       title: 'DenseTNT: End-to-end Trajectory Prediction from Dense Goal Sets',
       publisher: 'ICCV 2021, Waymo Motion Prediction Challenge Winner',
@@ -555,7 +555,7 @@ const main = {
       extra_link: [
         {
           name: 'Waymo Challenge Report',
-  	      link: 'https://arxiv.org/abs/2106.14160',
+          link: 'https://arxiv.org/abs/2106.14160',
         },
       ],
       image: 'densetnt.png',
@@ -629,7 +629,7 @@ const main = {
     //   paper_link: 'http://openaccess.thecvf.com/content_ICCV_2019/html/Gan_Self-Supervised_Moving_Vehicle_Tracking_With_Stereo_Sound_ICCV_2019_paper.html',
     //   project_link: '',
     //   image: 'stereo_tracking.jpeg',
-    // }, 
+    // },
     // {
     //   title: 'Through-Wall Human Mesh Recovery Using Radio Signals',
     //   publisher: 'ICCV 2019',
@@ -638,7 +638,7 @@ const main = {
     //   paper_link: 'http://openaccess.thecvf.com/content_ICCV_2019/html/Zhao_Through-Wall_Human_Mesh_Recovery_Using_Radio_Signals_ICCV_2019_paper.html',
     //   project_link: '',
     //   image: 'rfavatar.gif',
-    // }, 
+    // },
     {
       title: 'HACS: Human Action Clips and Segments Dataset for Recognition and Temporal Localization',
       publisher: 'ICCV 2019',
@@ -647,7 +647,7 @@ const main = {
       paper_link: 'https://arxiv.org/abs/1712.09374',
       project_link: 'http://hacs.csail.mit.edu/',
       image: 'slac.jpeg',
-    }, 
+    },
     {
       title: 'The Sound of Pixels',
       publisher: 'ECCV 2018',
@@ -659,7 +659,7 @@ const main = {
       tags: [
         'hot',
       ],
-    }, 
+    },
     // {
     //   title: 'RF-Based 3D Skeletons',
     //   publisher: 'SIGCOMM 2018',
@@ -668,7 +668,7 @@ const main = {
     //   paper_link: 'https://dl.acm.org/citation.cfm?id=3230579',
     //   project_link: 'http://news.mit.edu/2018/artificial-intelligence-senses-people-through-walls-0612',
     //   image: 'rf-pose-3d.png',
-    // }, 
+    // },
     {
       title: 'Through-Wall Human Pose Estimation Using Radio Signals',
       publisher: 'CVPR 2018',
@@ -689,7 +689,7 @@ const main = {
     //   paper_link: 'http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhao_Open_Vocabulary_Scene_ICCV_2017_paper.pdf',
     //   project_link: 'http://sceneparsing.csail.mit.edu/openvoc/',
     //   image: 'openvoc.png',
-    // }, 
+    // },
     {
       title: 'Scene Parsing through ADE20K Dataset',
       publisher: 'CVPR 2017',
@@ -715,7 +715,7 @@ const main = {
       tags: [
         'hot',
       ],
-    }, 
+    },
     {
       title: 'Loss Functions for Neural Networks for Image Processing',
       publisher: 'IEEE TCI 2017',
@@ -724,7 +724,7 @@ const main = {
       paper_link: 'http://ieeexplore.ieee.org/iel7/6745852/6960042/07797130.pdf',
       project_link: 'http://research.nvidia.com/publication/loss-functions-image-restoration-neural-networks',
       image: 'lossNN.png',
-    }, 
+    },
     {
       title: 'Duckietown: an Open, Inexpensive and Flexible Platform for Autonomy Education and Research',
       publisher: 'ICRA 2017',
@@ -733,7 +733,7 @@ const main = {
       paper_link: 'http://people.csail.mit.edu/hangzhao/papers/duckietown.pdf',
       project_link: 'https://duckietown.mit.edu/',
       image: 'duckietown.png',
-    }, 
+    },
     {
       title: 'Unbounded High Dynamic Range Photography using a Modulo Camera',
       publisher: 'ICCP 2015 Best Paper Runner-up',
@@ -745,7 +745,7 @@ const main = {
       tags: [
         'hot',
       ],
-    }, 
+    },
     // {
     //   title: '',
     //   publisher: '',
@@ -754,9 +754,9 @@ const main = {
     //   paper_link: '',
     //   project_link: '',
     //   image: '',
-    // }, 
+    // },
   ],
-  
+
   publications: [
     {
       title: 'Latent Consistency Models: Synthesizing High-Resolution Images With Few-Step Inference',
@@ -775,19 +775,19 @@ const main = {
       publisher: 'CoRL 2023 Best System Paper Finalist (Top3)',
       authors: 'Ziwen Zhuang, Zipeng Fu, Jianren Wang, Christopher G Atkeson, Sören Schwertfeger, Chelsea Finn, Hang Zhao',
       paper_link: 'https://robot-parkour.github.io/resources/Robot_Parkour_Learning.pdf',
-    }, 
+    },
     {
       title: 'Cross-dataset Sensor Alignment: Making Visual 3D Object Detector Generalize',
       publisher: 'CoRL 2023',
       authors: 'Liangtao Zheng, Yicheng Liu, Yue Wang, Hang Zhao',
       paper_link: 'https://openreview.net/pdf?id=dIgCPoy8E3',
-    }, 
+    },
     {
       title: 'A Universal Semantic-Geometric Representation for Robotic Manipulation',
       publisher: 'CoRL 2023',
       authors: 'Tong Zhang, Yingdong Hu, Hanchen Cui, Hang Zhao, Yang Gao',
       paper_link: 'https://openreview.net/pdf?id=AIgm8ZE_DlD',
-    }, 
+    },
     {
       title: 'Diff-Foley: Synchronized Video-to-Audio Synthesis with Latent Diffusion Models',
       publisher: 'NeurIPS 2023',
@@ -901,19 +901,19 @@ const main = {
       publisher: 'IROS 2022',
       authors: 'Qiao Sun, Xin Huang, Brian C Williams, Hang Zhao',
       paper_link: 'https://arxiv.org/abs/2210.14413',
-    }, 
+    },
     {
       title: 'CYBORGS: Contrastively Bootstrapping Object Representations by Grounding in Segmentation',
       publisher: 'ECCV 2022',
       authors: 'Renhao Wang, Hang Zhao, Yang Gao',
       paper_link: 'https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136910251.pdf',
-    }, 
+    },
     {
       title: 'Learning Visual Styles from Audio-Visual Associations',
       publisher: 'ECCV 2022',
       authors: 'Tingle Li, Yichen Liu, Andrew Owens, Hang Zhao',
       paper_link: 'https://arxiv.org/abs/2205.05072',
-    }, 
+    },
     {
       title: 'Radio2Speech: High Quality Speech Recovery from Radio Frequency Signals',
       publisher: 'Interspeech 2022',
@@ -937,7 +937,7 @@ const main = {
       publisher: 'Preprint 2022',
       authors: 'Xuanyao Chen, Tianyuan Zhang, Yue Wang, Yilun Wang, Hang Zhao',
       paper_link: 'https://arxiv.org/abs/2203.10642',
-    }, 
+    },
     {
       title: 'MUTR3D: A Multi-camera Tracking Framework via 3D-to-2D Queries',
       publisher: 'CVPR Workshop on Autonomous Driving 2022',
@@ -979,31 +979,31 @@ const main = {
       publisher: 'ICRA 2022',
       authors: 'Jianren Wang*, Ziwen Zhuang*, Hang Zhao',
       paper_link: 'https://arxiv.org/abs/2009.12494',
-    }, 
+    },
     {
       title: 'Depth Estimation Matters Most: Improving Per-Object Depth Estimation for Monocular 3D Detection and Tracking',
       publisher: 'ICRA 2022',
       authors: 'Longlong Jing, Ruichi Yu, Henrik Kretzschmar, Kang Li, Ruizhongtai Qi, Hang Zhao, Alper Ayvaci, Xu Chen, Dillon Cower, Yingwei Li, Yurong You, Han Deng, Congcong Li, Dragomir Anguelov',
       paper_link: 'https://ieeexplore.ieee.org/document/9811749',
-    },  
+    },
     {
       title: 'Intrinsically Motivated Self-supervised Learning in Reinforcement Learning',
       publisher: 'ICRA 2022',
       authors: 'Yue Zhao, Chenzhuang Du, Hang Zhao, Tiejun Li',
       paper_link: 'https://ieeexplore.ieee.org/document/9812213/',
-    },  
+    },
     {
       title: 'R4D: Utilizing Reference Objects for Long-Range Distance Estimation',
       publisher: 'ICLR 2022',
       authors: 'Yingwei Li, Tiffany Chen, Maya Kabkab, Ruichi Yu, Longlong Jing, Yurong You, Hang Zhao',
       paper_link: 'https://openreview.net/forum?id=MQ2sAGunyBP',
-    },  
+    },
     {
       title: 'IFR-Explore: Learning Inter-object Functional Relationships in 3D Indoor Scenes',
       publisher: 'ICLR 2022',
       authors: 'Qi Li, Kaichun Mo, Yanchao Yang, Hang Zhao, Leonidas Guibas',
       paper_link: 'https://arxiv.org/abs/2112.05298?context=cs',
-    }, 
+    },
     {
       title: 'SimIPU: Simple 2D Image and 3D Point Cloud Unsupervised Pre-Training for Spatial-Aware Visual Representations',
       publisher: 'AAAI 2022',
@@ -1046,7 +1046,7 @@ const main = {
       authors: 'Tianyu Hua, Wenxiao Wang, Zihui Xue, Yue Wang, Sucheng Ren, Hang Zhao',
       paper_link: 'https://openaccess.thecvf.com/content/ICCV2021/html/Hua_On_Feature_Decorrelation_in_Self-Supervised_Learning_ICCV_2021_paper.html',
     },
-	  {
+    {
       title: 'Large Scale Interactive Motion Forecasting for Autonomous Driving: The Waymo Open Motion Dataset',
       publisher: 'ICCV 2021 Oral',
       authors: 'Scott Ettinger, Shuyang Cheng, Benjamin Caine, Chenxi Liu, Hang Zhao, Sabeek Pradhan, Yuning Chai, Ben Sapp, Charles Qi, Yin Zhou, Zoey Yang, Aurelien Chouard, Pei Sun, Jiquan Ngiam, Vijay Vasudevan, Alexander McCauley, Jonathon Shlens, Dragomir Anguelov',
@@ -1093,13 +1093,13 @@ const main = {
       publisher: 'CoRL 2020',
       authors: 'Jianren Wang, Yujie Lu, Hang Zhao',
       paper_link: 'https://arxiv.org/abs/2010.12488',
-    }, 
+    },
     {
       title: 'Unsupervised Monocular Depth Learning in Dynamic Scenes',
       publisher: 'CoRL 2020',
       authors: 'Hanhan Li, Ariel Gordon, Hang Zhao, Vincent Casser, Anelia Angelova',
       paper_link: 'https://arxiv.org/abs/2010.16404',
-    }, 
+    },
     {
       title: 'UnModNet: Learning to Unwrap a Modulo Image for High Dynamic Range Imaging',
       publisher: 'NeurIPS 2020',
@@ -1141,37 +1141,37 @@ const main = {
       publisher: 'ICCV 2019',
       authors: 'Chuang Gan, Hang Zhao, Peihao Chen, David Cox, Antonio Torralba',
       paper_link: 'http://openaccess.thecvf.com/content_ICCV_2019/html/Gan_Self-Supervised_Moving_Vehicle_Tracking_With_Stereo_Sound_ICCV_2019_paper.html',
-    }, 
+    },
     {
       title: 'Through-Wall Human Mesh Recovery Using Radio Signals',
       publisher: 'ICCV 2019',
       authors: 'Mingmin Zhao, Yingcheng Liu, Aniruddh Raghu, Hang Zhao, Tianhong Li, Antonio Torralba, Dina Katabi',
       paper_link: 'http://openaccess.thecvf.com/content_ICCV_2019/html/Zhao_Through-Wall_Human_Mesh_Recovery_Using_Radio_Signals_ICCV_2019_paper.html',
-    }, 
+    },
     {
       title: 'HACS: Human Action Clips and Segments Dataset for Recognition and Temporal Localization',
       publisher: 'ICCV 2019',
       authors: 'Hang Zhao, Zhicheng Yan, Lorenzo Torresani, Antonio Torralba',
       paper_link: 'https://arxiv.org/abs/1712.09374',
-    }, 
+    },
     {
       title: 'Self-Supervised Audio-visual Co-segmentation',
       publisher: 'ICASSP 2019',
       authors: 'Andrew Rouditchenko*, Hang Zhao*, Chuang Gan, Josh McDermott, Antonio Torralba',
       paper_link: 'https://arxiv.org/abs/1904.09013',
-    }, 
+    },
     {
       title: 'The Sound of Pixels',
       publisher: 'ECCV 2018',
       authors: 'Hang Zhao, Chuang Gan, Andrew Rouditchenko, Carl Vondrick, Josh McDermott, Antonio Torralba',
       paper_link: 'https://arxiv.org/abs/1804.03160',
-    }, 
+    },
     {
       title: 'RF-Based 3D Skeletons',
       publisher: 'SIGCOMM 2018',
       authors: 'Mingmin Zhao, Yonglong Tian, Hang Zhao, Mohammad Alsheikh, Tianhong Li, Rumen Hristov, Zachary Kabelac, Dina Katabi, Antonio Torralba',
       paper_link: 'https://dl.acm.org/citation.cfm?id=3230579',
-    }, 
+    },
     {
       title: 'Through-Wall Human Pose Estimation Using Radio Signals',
       publisher: 'CVPR 2018',
@@ -1183,63 +1183,63 @@ const main = {
       publisher: 'IJCV 2018',
       authors: 'Bolei Zhou, Hang Zhao, Xavier Puig, Tete Xiao, Sanja Fidler, Adela Barriuso, Antonio Torralba',
       paper_link: 'https://link.springer.com/article/10.1007/s11263-018-1140-0',
-    }, 
+    },
     {
       title: 'Open Vocabulary Scene Parsing',
       publisher: 'ICCV 2017',
       authors: 'Hang Zhao, Xavier Puig, Bolei Zhou, Sanja Fidler, Antonio Torralba',
       paper_link: 'http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhao_Open_Vocabulary_Scene_ICCV_2017_paper.pdf',
-    }, 
+    },
     {
       title: 'Scene Parsing through ADE20K Dataset',
       publisher: 'CVPR 2017',
       authors: 'Bolei Zhou, Hang Zhao, Xavier Puig, Sanja Fidler, Adela Barriuso, Antonio Torralba',
       paper_link: 'http://people.csail.mit.edu/bzhou/publication/scene-parse-camera-ready.pdf',
-    }, 
+    },
     {
       title: 'Loss Functions for Neural Networks for Image Processing',
       publisher: 'IEEE TCI 2017',
       authors: 'Hang Zhao, Orazio Gallo, Iuri Frosio and Jan Kautz',
       paper_link: 'http://ieeexplore.ieee.org/iel7/6745852/6960042/07797130.pdf',
-    }, 
+    },
     {
       title: 'Duckietown: an Open, Inexpensive and Flexible Platform for Autonomy Education and Research',
       publisher: 'ICRA 2017',
       authors: 'Liam Paul, et al.',
       paper_link: 'http://people.csail.mit.edu/hangzhao/papers/duckietown.pdf',
-    }, 
+    },
     {
       title: 'Unbounded High Dynamic Range Photography using a Modulo Camera',
       publisher: 'ICCP 2015 Best Paper Runner-up',
       authors: 'Hang Zhao, Boxin Shi, Christy Fernandez-Cull, Sai-Kit Yeung and Ramesh Raskar',
       paper_link: 'http://people.csail.mit.edu/hangzhao/papers/moduloUHDR.pdf',
-    }, 
+    },
     {
       title: 'Snapshot on-chip HDR ROIC architectures',
       publisher: 'COSI 2015',
       authors: 'Christy Fernandez-Cull, Hang Zhao, Boxin Shi, Brian M. Tyrrell, Joseph Lin and Ramesh Raskar',
       paper_link: 'https://www.osapublishing.org/abstract.cfm?uri=COSI-2015-CM3E.3',
-    }, 
-    {	
+    },
+    {
       title: 'Occluded imaging with time of flight sensors',
       publisher: 'ACM Transactions on Graphics 2015',
       authors: 'Achuta Kadambi, Hang Zhao, Boxin Shi and Ramesh Raskar',
       paper_link: 'https://dl.acm.org/doi/abs/10.1145/2836164',
-    }, 
+    },
     {
       title: 'Sub-pixel layout for super-resolution with images in an octic group',
       publisher: 'ECCV 2014',
       authors: 'Boxin Shi, Hang Zhao, Moshe Ben-Ezra, Sai-Kit Yeung, Christy Fernandez-Cull, R. Hamilton Shepard, Christopher Barsi, Ramesh Raskar',
       paper_link: 'https://link.springer.com/chapter/10.1007/978-3-319-10590-1_17',
-    }, 
+    },
     // {
     //   title: '',
     //   publisher: '',
     //   authors: '',
     //   paper_link: '',
-    // }, 
+    // },
   ],
-  
+
   join_us: {
     title: 'We are globally hiring top talents to join us.',
     content: [
