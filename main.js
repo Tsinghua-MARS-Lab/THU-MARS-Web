@@ -278,6 +278,16 @@ const main = {
 
   projects: [
     {
+      title: 'DriveVLM: The Convergence of Autonomous Driving and Large Vision-Language Models',
+      publisher: 'arXiv Preprint',
+      authors: 'Xiaoyu Tian*, Junru Gu*, Bailin Li*, Yicheng Liu*, Yang Wang, Zhiyong Zhao, Kun Zhan, Peng Jia, XianPeng Lang, Hang Zhao',
+      description: '"DriveVLM: a hybrid system that leverages large vision-language models for autonomous driving"',
+      paper_link: 'https://arxiv.org/abs/2402.12289',
+      project_link: 'https://tsinghua-mars-lab.github.io/DriveVLM/',
+      image: 'drivevlm.png',
+      extra_link: [],
+    },
+    {
       title: 'Latent Consistency Models: Synthesizing High-Resolution Images With Few-Step Inference',
       publisher: 'arXiv Preprint',
       authors: 'Simian Luo*, Yiqin Tan*, Longbo Huang†, Jian Li†, Hang Zhao†',
