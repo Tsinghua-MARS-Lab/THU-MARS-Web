@@ -281,7 +281,7 @@ const main = {
   projects: [
     {
       title: 'DriveVLM: The Convergence of Autonomous Driving and Large Vision-Language Models',
-      publisher: 'arXiv Preprint',
+      publisher: 'CoRL 2024',
       authors: 'Xiaoyu Tian*, Junru Gu*, Bailin Li*, Yicheng Liu*, Yang Wang, Zhiyong Zhao, Kun Zhan, Peng Jia, XianPeng Lang, Hang Zhao',
       description: '"DriveVLM: a hybrid system that leverages large vision-language models for autonomous driving"',
       paper_link: 'https://arxiv.org/abs/2402.12289',
@@ -770,6 +770,24 @@ const main = {
   ],
 
   publications: [
+    {
+      title: 'Humanoid Parkour Learning',
+      publisher: 'CoRL 2024',
+      authors: 'Ziwen Zhuang, Shenzhe Yao, Hang Zhao',
+      paper_link: 'https://arxiv.org/abs/2406.10759',
+    },
+    {
+      title: 'DriveVLM: The Convergence of Autonomous Driving and Large Vision-Language Models',
+      publisher: 'CoRL 2024',
+      authors: 'Xiaoyu Tian*, Junru Gu*, Bailin Li*, Yicheng Liu*, Yang Wang, Zhiyong Zhao, Kun Zhan, Peng Jia, Xianpeng Lang, Hang Zhao',
+      paper_link: 'https://arxiv.org/abs/2402.12289',
+    },
+    {
+      title: 'Boosting offline reinforcement learning for autonomous driving with hierarchical latent skills',
+      publisher: 'ICRA 2024',
+      authors: 'Zenan Li, Fan Nie, Qiao Sun, Fang Da, Hang Zhao',
+      paper_link: 'https://ieeexplore.ieee.org/abstract/document/10611197',
+    },
     {
       title: 'Latent Consistency Models: Synthesizing High-Resolution Images With Few-Step Inference',
       publisher: 'Preprint',
