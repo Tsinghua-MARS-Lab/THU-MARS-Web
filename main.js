@@ -112,15 +112,21 @@ const main = {
       image: 'kenan.jpeg',
     },
     {
+      name: 'Anna Min 闵安娜',
+      website: '',
+      content: 'Anna Min is a research assistant in the lab. She is interested in multi-modal learning.',
+      image: 'kenan.jpeg',
+    },
+    {
       name: 'Zhuoguang Chen 陈卓光',
       website: '',
       content: 'Zhuoguang Chen is a research assistant in the lab. He is interested in 3D perception.',
       image: 'kenan.jpeg',
     },
     {
-      name: 'Moonjun Wu 吴国锋',
+      name: 'Moonjun Gong 吴国锋',
       website: '',
-      content: 'Moonjun Wu is a research assistant in the lab. He is interested in 3D perception.',
+      content: 'Moonjun Gong is a research assistant in the lab. He is interested in 3D perception.',
       image: 'kenan.jpeg',
     },
     {
@@ -835,6 +841,42 @@ const main = {
       paper_link: 'https://arxiv.org/abs/2402.12289',
     },
     {
+      title: 'Uncertainty-Aware Decision Transformer for Stochastic Driving Environments',
+      publisher: 'CoRL 2024',
+      authors: 'Zenan Li, Fan Nie, Qiao Sun, Fang Da, Hang Zhao',
+      paper_link: 'https://openreview.net/pdf?id=LiwdXkMsDv',
+    },
+    {
+      title: 'LiDAR-Based 4D Occupancy Completion and Forecasting  ',
+      publisher: 'IROS 2024',
+      authors: 'Xinhao Liu, Moonjun Gong, Qi Fang, Haoyu Xie, Yiming Li, Hang Zhao, Chen Feng',
+      paper_link: 'https://arxiv.org/abs/2310.11239',
+    },
+    {
+      title: 'SSCBench: A Large-Scale 3D Semantic Scene Completion Benchmark for Autonomous Driving',
+      publisher: 'IROS 2024',
+      authors: 'Yiming Li*, Sihang Li*, Xinhao Liu*, Moonjun Gong*, Kenan Li, Nuo Chen, Zijun Wang, Zhiheng Li, Tao Jiang, Fisher Yu, Yue Wang, Hang Zhao, Zhiding Yu, Chen Feng',
+      paper_link: 'https://arxiv.org/abs/2306.09001',
+    },
+    {
+      title: 'PreSight: Enhancing Autonomous Vehicle Perception with City-Scale NeRF Priors',
+      publisher: 'ECCV 2024',
+      authors: 'Tianyuan Yuan, Yucheng Mao, Jiawei Yang, Yicheng Liu, Yue Wang, Hang Zhao',
+      paper_link: '',
+    },
+    {
+      title: 'CVT-Occ: Cost Volume Temporal Fusion for 3D Occupancy Prediction',
+      publisher: 'ECCV 2024',
+      authors: 'Zhangchen Ye, Tao Jiang, Chenfeng Xu, Yiming Li, Hang Zhao',
+      paper_link: '',
+    },
+    {
+      title: 'A Unit-based System and Dataset for Expressive Direct Speech-to-Speech Translation',
+      publisher: 'Interspeech 2024',
+      authors: 'Anna Min, Chenxu Hu, Yi Ren, Hang Zhao',
+      paper_link: '',
+    },
+    {
       title: 'Boosting offline reinforcement learning for autonomous driving with hierarchical latent skills',
       publisher: 'ICRA 2024',
       authors: 'Zenan Li, Fan Nie, Qiao Sun, Fang Da, Hang Zhao',
@@ -911,12 +953,6 @@ const main = {
       publisher: 'IROS 2023',
       authors: 'Qiao Sun, Xin Huang, Brian C. Williams, Hang Zhao',
       paper_link: 'https://arxiv.org/abs/2211.01634',
-    },
-    {
-      title: 'SSCBench: A Large-Scale 3D Semantic Scene Completion Benchmark for Autonomous Driving',
-      publisher: 'Preprint',
-      authors: 'Yiming Li*, Sihang Li*, Xinhao Liu*, Moonjun Gong*, Kenan Li, Nuo Chen, Zijun Wang, Zhiheng Li, Tao Jiang, Fisher Yu, Yue Wang, Hang Zhao, Zhiding Yu, Chen Feng',
-      paper_link: 'https://arxiv.org/abs/2306.09001',
     },
     {
       title: 'What Happened 3 Seconds Ago? Inferring the Past with Thermal Imaging',
