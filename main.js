@@ -322,10 +322,20 @@ const main = {
 
   projects: [
     {
+      title: 'Humanoid Parkour Learning',
+      publisher: 'CoRL 2024',
+      authors: 'Ziwen Zhuang, ShenZhe Yao, Hang Zhao',
+      description: '"The first humanoid robot that learns to parkour!"',
+      paper_link: 'https://arxiv.org/abs/2406.10759',
+      project_link: 'https://humanoid4parkour.github.io/',
+      image: 'human_parkour.png',
+      extra_link: [],
+    },
+    {
       title: 'DriveVLM: The Convergence of Autonomous Driving and Large Vision-Language Models',
       publisher: 'CoRL 2024',
       authors: 'Xiaoyu Tian*, Junru Gu*, Bailin Li*, Yicheng Liu*, Yang Wang, Zhiyong Zhao, Kun Zhan, Peng Jia, XianPeng Lang, Hang Zhao',
-      description: '"DriveVLM: a hybrid system that leverages large vision-language models for autonomous driving"',
+      description: '"A dual system (fast+slow thinking) that leverages large vision-language models for autonomous driving"',
       paper_link: 'https://arxiv.org/abs/2402.12289',
       project_link: 'https://tsinghua-mars-lab.github.io/DriveVLM/',
       image: 'drivevlm.png',
@@ -837,7 +847,7 @@ const main = {
       paper_link: 'https://arxiv.org/abs/2310.04378',
     },
     {
-      title: 'Streammapnet: Streaming mapping network for vectorized online hd map construction',
+      title: 'StreamMapNet: Streaming mapping network for vectorized online hd map construction',
       publisher: 'WACV 2024',
       authors: 'Tianyuan Yuan, Yicheng Liu, Yue Wang, Yilun Wang, Hang Zhao',
       paper_link: 'https://arxiv.org/abs/2308.12570',
