@@ -115,7 +115,7 @@ const main = {
       name: 'Anna Min 闵安娜',
       website: '',
       content: 'Anna Min is a research assistant in the lab. She is interested in multi-modal learning.',
-      image: 'kenan.jpeg',
+      image: 'xiaolan.png',
     },
     {
       name: 'Zhuoguang Chen 陈卓光',
