@@ -862,13 +862,13 @@ const main = {
       title: 'PreSight: Enhancing Autonomous Vehicle Perception with City-Scale NeRF Priors',
       publisher: 'ECCV 2024',
       authors: 'Tianyuan Yuan, Yucheng Mao, Jiawei Yang, Yicheng Liu, Yue Wang, Hang Zhao',
-      paper_link: '',
+      paper_link: 'https://arxiv.org/abs/2403.09079',
     },
     {
       title: 'CVT-Occ: Cost Volume Temporal Fusion for 3D Occupancy Prediction',
       publisher: 'ECCV 2024',
-      authors: 'Zhangchen Ye, Tao Jiang, Chenfeng Xu, Yiming Li, Hang Zhao',
-      paper_link: '',
+      authors: 'Zhangchen Ye*, Tao Jiang*, Chenfeng Xu, Yiming Li, Hang Zhao',
+      paper_link: 'https://arxiv.org/abs/2409.13430',
     },
     {
       title: 'A Unit-based System and Dataset for Expressive Direct Speech-to-Speech Translation',
