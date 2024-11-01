@@ -328,6 +328,25 @@ const main = {
 
   projects: [
     {
+      title: 'PreSight: Enhancing Autonomous Vehicle Perception with City-Scale NeRF Priors',
+      publisher: 'ECCV 2024',
+      authors: 'Tianyuan Yuan, Yucheng Mao, Jiawei Yang, Yicheng Liu, Yue Wang, Hang Zhao',
+      description: '"A novel framework leverages past traversals to construct static prior, enhancing online perception in later navigations."',
+      paper_link: 'https://arxiv.org/abs/2403.09079',
+      project_link: '',
+      image: 'PreSight.png',
+      extra_link: [
+        {
+          name: 'Video',
+          link: 'https://www.youtube.com/watch?v=sC3WaLIPCUc',
+        },
+        {
+          name: 'Code',
+          link: 'https://github.com/yuantianyuan01/PreSight',
+        },
+      ],
+    },
+    {
       title: 'Humanoid Parkour Learning',
       publisher: 'CoRL 2024',
       authors: 'Ziwen Zhuang, ShenZhe Yao, Hang Zhao',
