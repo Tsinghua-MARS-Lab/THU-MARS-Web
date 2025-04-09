@@ -86,9 +86,9 @@ const main = {
     },
     {
       name: 'Shaoting Zhu 朱少廷',
-      website: '',
+      website: 'https://zst1406217.github.io/',
       content: 'Shaoting Zhu is a PhD student starting from 2024. He is interested in robot learning.',
-      image: 'kenan.jpeg',
+      image: 'zhushaoting.jpg',
     },
     {
       name: 'Baijun Ye 叶柏均',
