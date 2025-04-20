@@ -43,10 +43,10 @@ const main = {
 
   graduate_students: [
     {
-      name: 'Chenzhuang Du 杜晨壮',
-      website: 'https://scholar.google.com/citations?user=VoF-UAEAAAAJ&hl=en',
-      content: 'Chenzhuang Du is a PhD student starting from 2020. He is interested in applications of foundation models and multi-modal learning.',
-      image: 'chenzhuang.jpeg',
+      name: 'Yijun Yuan 元祎君',
+      website: '',
+      content: 'Yijun Yuan is a PostDoctoral researcher starting from 2024. He is interested in SLAM and robotics.',
+      image: 'kenan.jpeg',
     },
     {
       name: 'Junru Gu 辜俊儒',
@@ -96,37 +96,19 @@ const main = {
       content: 'Baijun Ye is a PhD student starting from 2024. He is interested in neural rendering.',
       image: 'kenan.jpeg',
     },
+    {
+      name: 'Derun Li 李德润',
+      website: '',
+      content: 'Derun Li is a co-advised PhD student at Shanghai Jiaotong University. He is interested in autonomous driving and robotics.',
+      image: 'kenan.jpeg',
+    },
   ],
 
   research_assistants: [
     {
-      name: 'Qiao Sun 孙桥',
-      website: 'https://qiaosun.me/',
-      content: 'Qiao Sun is a researcher in the lab. He is interested in planning and simulation for autonomous driving.',
-      image: 'qiaosun.png',
-    },
-    {
-      name: 'Derun Li 李德润',
-      website: '',
-      content: 'Derun Li is a research assistant in the lab. He is also a PhD student at Shanghai Jiaotong University.',
-      image: 'kenan.jpeg',
-    },
-    {
-      name: 'Anna Min 闵安娜',
-      website: '',
-      content: 'Anna Min is a research assistant in the lab. She is interested in multi-modal learning.',
-      image: 'xiaolan.png',
-    },
-    {
       name: 'Zhuoguang Chen 陈卓光',
       website: '',
       content: 'Zhuoguang Chen is a research assistant in the lab. He is interested in 3D perception.',
-      image: 'kenan.jpeg',
-    },
-    {
-      name: 'Moonjun Gong 吴国锋',
-      website: '',
-      content: 'Moonjun Gong is a research assistant in the lab. He is interested in 3D perception.',
       image: 'kenan.jpeg',
     },
     {
@@ -136,10 +118,22 @@ const main = {
       image: 'kenan.jpeg',
     },
     {
-      name: 'Ziyu Xiao 肖子昱',
+      name: 'Zhe Liu 刘柘',
       website: '',
-      content: 'Ziyu Xiao is a research assistant in the lab. He is interested in neural rendering.',
+      content: 'Zhe Liu is a visiting student in the lab. He is interested in 3D computer vision.',
       image: 'kenan.jpeg',
+    },
+    {
+      name: 'Jianwei Ren 任建玮',
+      website: '',
+      content: 'Jianwei Ren is a research assistant in the lab. He is interested in autonomous driving.',
+      image: 'kenan.jpeg',
+    },
+    {
+      name: 'Anna Min 闵安娜',
+      website: '',
+      content: 'Anna Min is a research assistant in the lab. She is interested in multi-modal learning.',
+      image: 'xiaolan.png',
     },
     {
       name: 'Chuanhao Yan 颜川皓',
@@ -315,7 +309,7 @@ const main = {
     {
       name: 'Tao Jiang 江涛',
       website: '',
-      content: 'Tao Jiang was a research assistant in the lab. He is now at GalaXea AI.',
+      content: 'Tao Jiang was a researcher in the lab. He is now at GalaXea AI.',
       image: 'jiangtao.jpeg',
     },
     {
@@ -323,6 +317,18 @@ const main = {
       website: 'https://luosiallen.github.io',
       content: 'Simian Luo was a MS student in the lab. He is now starting his own company.',
       image: 'lsm.jpg',
+    },
+    {
+      name: 'Chenzhuang Du 杜晨壮',
+      website: 'https://scholar.google.com/citations?user=VoF-UAEAAAAJ&hl=en',
+      content: 'Chenzhuang Du got his MS degree 2024 from the lab. He is now at Moonshot AI.',
+      image: 'chenzhuang.jpeg',
+    },
+    {
+      name: 'Qiao Sun 孙桥',
+      website: 'https://qiaosun.me/',
+      content: 'Qiao Sun was a researcher in the lab from 2022 to 2024. He is now at Xiaomi Auto.',
+      image: 'qiaosun.png',
     },
   ],
 
