@@ -854,6 +854,78 @@ const main = {
 
   publications: [
     {
+      title: 'Embrace Collisions: Humanoid Shadowing for Deployable Contact-Agnostics Motions',
+      publisher: 'Preprint',
+      authors: 'Ziwen Zhuang, Hang Zhao',
+      paper_link: 'https://arxiv.org/abs/2502.01465',
+    },
+    {
+      title: 'MoE-Loco: Mixture of Experts for Multitask Locomotion',
+      publisher: 'Preprint',
+      authors: 'Runhan Huang, Shaoting Zhu, Yilun Du, Hang Zhao',
+      paper_link: 'https://arxiv.org/abs/2503.08564',
+    },
+    {
+      title: 'Explaining Context Length Scaling and Bounds for Language Models',
+      publisher: 'Preprint',
+      authors: 'Jingzhe Shi, Qinwei Ma, Hongyi Liu, Hang Zhao, Jeng-Neng Hwang, Serge Belongie, Lei Li',
+      paper_link: 'https://arxiv.org/abs/2502.01481',
+    },
+    {
+      title: 'Supervising Sound Localization Using In-the-wild Ego-motion',
+      publisher: 'CVPR 2025 Spotlight',
+      authors: 'Anna Min, Ziyang Chen, Hang Zhao, Andrew Owens',
+      paper_link: '',
+    },
+    {
+      title: 'Morpheus: A Neural-driven Animatronic Face with Hybrid Actuation and Diverse Emotion Control',
+      publisher: 'RSS 2025',
+      authors: 'Zongzheng Zhang, Jiawen Yang, Ziqiao Peng, Meng Yang, Jianzhu Ma, Lin Cheng, Huazhe Xu, Hang Zhao, Hao Zhao',
+      paper_link: '',
+    },
+    {
+      title: 'Playful DoggyBot: Learning Agile and Precise Quadrupedal Locomotion',
+      publisher: 'Preprint',
+      authors: 'Xin Duan, Ziwen Zhuang, Hang Zhao, Sören Schwertfeger',
+      paper_link: 'https://arxiv.org/abs/2409.19920',
+    },
+    {
+      title: 'TrackOcc: Camera-Based 4D Panoptic Occupancy Tracking',
+      publisher: 'ICRA 2025',
+      authors: 'Zhuoguang Chen, Kenan Li, Xiuyu Yang, Tao Jiang, Yiming Li, Hang Zhao',
+      paper_link: 'https://arxiv.org/abs/2503.08471',
+    },
+    {
+      title: 'Generalizing Motion Planners with Mixture of Experts for Autonomous Driving ',
+      publisher: 'ICRA 2025',
+      authors: 'Qiao Sun, Huimin Wang, Jiahao Zhan, Fan Nie, Xin Wen, Leimeng Xu, Kun Zhan, Peng Jia, Xianpeng Lang, Hang Zhao',
+      paper_link: 'https://arxiv.org/abs/2410.15774',
+    },
+    {
+      title: 'Robust Robot Walker: Learning Agile Locomotion Over Tiny Traps',
+      publisher: 'ICRA 2025',
+      authors: 'Shaoting Zhu, Runhan Huang, Linzhan Mou, Hang Zhao',
+      paper_link: 'https://arxiv.org/abs/2409.07409',
+    },
+    {
+      title: 'SARO: Space-Aware Robot System for Terrain Crossing via Vision-Language Model',
+      publisher: 'ICRA 2025',
+      authors: 'Shaoting Zhu, Derun Li, Linzhan Mou, Yong Liu, Ningyi Xu, Hang Zhao',
+      paper_link: 'https://arxiv.org/abs/2407.16412',
+    },
+    {
+      title: 'Chameleon: Fast-Slow Neuro-Symbolic Lane Topology Extraction',
+      publisher: 'ICRA 2025',
+      authors: 'Zongzheng Zhang, Xinrun Li, Sizhe Zou, Guoxuan Chi, Siqi Li, Xuchong Qiu, Guoliang Wang, Guantian Zheng, Leichen Wang, Hang Zhao, Hao Zhao',
+      paper_link: 'https://arxiv.org/abs/2503.07485',
+    },
+    {
+      title: 'Diffusion-Based Generative Models for 3D Occupancy Prediction in Autonomous Driving',
+      publisher: 'ICRA 2025',
+      authors: 'Yunshen Wang, Yicheng Liu, Tianyuan Yuan, Yucheng Mao, Yingshi Liang, Xiuyu Yang, Honggang Zhang, Hang Zhao',
+      paper_link: '',
+    },
+    {
       title: 'Humanoid Parkour Learning',
       publisher: 'CoRL 2024',
       authors: 'Ziwen Zhuang, Shenzhe Yao, Hang Zhao',
@@ -894,6 +966,12 @@ const main = {
       publisher: 'ECCV 2024',
       authors: 'Zhangchen Ye*, Tao Jiang*, Chenfeng Xu, Yiming Li, Hang Zhao',
       paper_link: 'https://arxiv.org/abs/2409.13430',
+    },
+    {
+      title: 'P-mapnet: Far-seeing map generator enhanced by both sdmap and hdmap priors',
+      publisher: 'IEEE RA-L 2024',
+      authors: 'Zhou Jiang, Zhenxin Zhu, Pengfei Li, Huan-ang Gao, Tianyuan Yuan, Yongliang Shi, Hang Zhao, Hao Zhao',
+      paper_link: 'https://ieeexplore.ieee.org/abstract/document/10643284/',
     },
     {
       title: 'A Unit-based System and Dataset for Expressive Direct Speech-to-Speech Translation',
