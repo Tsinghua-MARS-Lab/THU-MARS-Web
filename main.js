@@ -15,7 +15,7 @@ const main = {
 
   overview_of_research_directions: [
     {
-      title: 'Multimedia Computing',
+      title: 'Multimodal Learning',
       content: 'We train AI models that understand and generate multi-modal data such as images, audios, videos and text.',
       image: 'multimedia.png'
     },
@@ -30,7 +30,7 @@ const main = {
       image: 'robotics.png'
     },
     {
-      title: 'Sensors',
+      title: 'Novel Sensors',
       content: 'We devise novel sensors together with AI models to enable brand-new perception applications.',
       image: 'sensors.png'
     },
