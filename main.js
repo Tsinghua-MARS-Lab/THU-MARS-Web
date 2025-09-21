@@ -366,6 +366,12 @@ const main = {
       content: 'Anna Min was a research assistant in the lab. She is now at UIUC.',
       image: 'xiaolan.png',
     },
+    {
+      name: 'Linzhan Mou 牟林湛',
+      website: 'https://linzhanm.github.io/',
+      content: 'Linzhan Mou was an intern in the lab. He is now a PhD student at Princeton University.',
+      image: 'kenan.png',
+    },
   ],
 
   projects: [
