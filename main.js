@@ -92,7 +92,7 @@ const main = {
     },
     {
       name: 'Baijun Ye 叶柏均',
-      website: '',
+      website: 'https://scholar.google.com/citations?user=u-ELP2oAAAAJ&hl',
       content: 'Baijun Ye is a PhD student starting from 2024. He is interested in neural rendering.',
       image: 'kenan.jpeg',
     },
