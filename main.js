@@ -115,12 +115,6 @@ const main = {
       image: 'kenan.jpeg',
     },
     {
-      name: 'Tingrui Zhang 张庭瑞',
-      website: '',
-      content: 'Tingrui Zhang is a PhD student starting from 2025. He is interested in robotics.',
-      image: 'kenan.jpeg',
-    },
-    {
       name: 'Minghui Qin 秦明辉',
       website: '',
       content: 'Minghui Qin is a PhD student starting from 2025. He is interested in embodied agents.',
@@ -136,6 +130,18 @@ const main = {
 
   research_assistants: [
     {
+      name: 'Bin Zhang 张斌',
+      website: '',
+      content: 'Bin Zhang is a full-time researcher in the lab. He is interested in autonomous driving.',
+      image: 'kenan.jpeg',
+    },
+    {
+      name: 'Qiao Sun 孙桥',
+      website: 'https://qiaosun.me/',
+      content: 'Qiao Sun is a full-time researcher in the lab. He is interested in autonomous driving.',
+      image: 'qiaosun.png',
+    },
+    {
       name: 'Zhuoguang Chen 陈卓光',
       website: '',
       content: 'Zhuoguang Chen is a research assistant in the lab. He is interested in 3D vision.',
@@ -148,27 +154,9 @@ const main = {
       image: 'kenan.jpeg',
     },
     {
-      name: 'Shenzhe Yao 姚屾喆',
-      website: '',
-      content: 'Shenzhe Yao is a research assistant in the lab. He is interested in robot learning.',
-      image: 'kenan.jpeg',
-    },
-    {
       name: 'Weicheng Zheng 郑伟丞',
       website: '',
       content: 'Weicheng Zheng is a research intern in the lab. He is interested in multimodal learning and autonomous driving.',
-      image: 'kenan.jpeg',
-    },
-    {
-      name: 'Bin Zhang 张斌',
-      website: '',
-      content: 'Kechen Fang is a research assistant in the lab. He is interested in autonomous driving.',
-      image: 'kenan.jpeg',
-    },
-    {
-      name: 'Zeming Chen 陈泽明',
-      website: '',
-      content: 'Zeming Chen is a research assistant in the lab. He is interested in autonomous driving.',
       image: 'kenan.jpeg',
     },
   ],
@@ -295,12 +283,6 @@ const main = {
       image: 'kenan.jpeg',
     },
     {
-      name: 'Cindy Zeng 曾思齐',
-      website: '',
-      content: 'Cindy Zeng was an intern in the lab. She is now a PhD student at the University of Illinois Urbana-Champaign.',
-      image: 'xiaolan.png',
-    },
-    {
       name: 'Shiduo Zhang 张世铎',
       website: '',
       content: 'Shiduo Zhang was an intern in the lab. He is now at Fudan University.',
@@ -349,12 +331,6 @@ const main = {
       image: 'chenzhuang.jpeg',
     },
     {
-      name: 'Qiao Sun 孙桥',
-      website: 'https://qiaosun.me/',
-      content: 'Qiao Sun was a researcher in the lab from 2022 to 2024. He is now at Xiaomi Auto.',
-      image: 'qiaosun.png',
-    },
-    {
       name: 'Jianwei Ren 任建玮',
       website: '',
       content: 'Jianwei Ren was a research assistant in the lab. He is now at VBot.',
@@ -371,6 +347,18 @@ const main = {
       website: 'https://linzhanm.github.io/',
       content: 'Linzhan Mou was an intern in the lab. He is now a PhD student at Princeton University.',
       image: 'kenan.png',
+    },
+    {
+      name: 'Shenzhe Yao 姚屾喆',
+      website: '',
+      content: 'Shenzhe Yao was a research assistant in the lab.',
+      image: 'kenan.jpeg',
+    },
+    {
+      name: 'Zeming Chen 陈泽明',
+      website: '',
+      content: 'Zeming Chen was a research assistant in the lab.',
+      image: 'kenan.jpeg',
     },
   ],
 
