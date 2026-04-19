@@ -92,7 +92,7 @@ const main = {
     },
     {
       name: 'Baijun Ye 叶柏均',
-      website: '',
+      website: 'https://scholar.google.com/citations?user=u-ELP2oAAAAJ&hl',
       content: 'Baijun Ye is a PhD student starting from 2024. He is interested in neural rendering.',
       image: 'kenan.jpeg',
     },
@@ -365,6 +365,12 @@ const main = {
       website: '',
       content: 'Anna Min was a research assistant in the lab. She is now at UIUC.',
       image: 'xiaolan.png',
+    },
+    {
+      name: 'Linzhan Mou 牟林湛',
+      website: 'https://linzhanm.github.io/',
+      content: 'Linzhan Mou was an intern in the lab. He is now a PhD student at Princeton University.',
+      image: 'kenan.png',
     },
   ],
 
