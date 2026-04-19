@@ -904,7 +904,7 @@ const main = {
     {
       title: 'Generative Control as Optimization: Time Unconditional Flow Matching for Adaptive and Robust Robotic Control',
       publisher: 'arXiv:2603.17834',
-      authors: 'Ziyu Zhang, Runhan Huang, Yicheng Liu, Shaoting Zhu, Linxin Mou, Hang Zhao',
+      authors: 'Zunzhe Zhang, Runhan Huang, Yicheng Liu, Shaoting Zhu, Linzhan Mou, Hang Zhao',
       paper_link: 'https://arxiv.org/abs/2603.17834',
     },
     {
@@ -922,25 +922,25 @@ const main = {
     {
       title: 'Hiking in the Wild: A Scalable Perceptive Parkour Framework for Humanoids',
       publisher: 'arXiv:2601.07718',
-      authors: 'Shaoting Zhu, Ziwen Zhuang, Mingxin Zhao, Keng Yong Lee, Hang Zhao',
+      authors: 'Shaoting Zhu, Ziwen Zhuang, Mengjie Zhao, Kun-Ying Lee, Hang Zhao',
       paper_link: 'https://arxiv.org/abs/2601.07718',
     },
     {
       title: 'Deep Whole-body Parkour',
       publisher: 'arXiv:2601.07701',
-      authors: 'Ziwen Zhuang, Shaoting Zhu, Mingxin Zhao, Hang Zhao',
+      authors: 'Ziwen Zhuang, Shaoting Zhu, Mengjie Zhao, Hang Zhao',
       paper_link: 'https://arxiv.org/abs/2601.07701',
     },
     {
       title: 'SLAM-Former: Putting SLAM into One Transformer',
       publisher: 'arXiv:2509.16909',
-      authors: 'Yijun Yuan, Zixiang Chen, Kecheng Li, Wenbin Wang, Hang Zhao',
+      authors: 'Yijun Yuan, Zhuoguang Chen, Kenan Li, Weibang Wang, Hang Zhao',
       paper_link: 'https://arxiv.org/abs/2509.16909',
     },
     {
       title: 'Complet4R: Geometric Complete 4D Reconstruction',
       publisher: 'CVPR 2026',
-      authors: 'Weibang_Wang, Kenan Li, Zhuoguang Chen, Yijun Yuan, Hang Zhao',
+      authors: 'Weibang Wang, Kenan Li, Zhuoguang Chen, Yijun Yuan, Hang Zhao',
       paper_link: 'https://arxiv.org/abs/2603.27300',
     },
     {
