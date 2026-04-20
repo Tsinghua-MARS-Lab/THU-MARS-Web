@@ -346,7 +346,7 @@ const main = {
       name: 'Linzhan Mou 牟林湛',
       website: 'https://linzhanm.github.io/',
       content: 'Linzhan Mou was an intern in the lab. He is now a PhD student at Princeton University.',
-      image: 'kenan.png',
+      image: 'kenan.jpeg',
     },
     {
       name: 'Shenzhe Yao 姚屾喆',
