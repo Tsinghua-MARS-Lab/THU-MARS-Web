@@ -349,6 +349,12 @@ const main = {
       image: 'kenan.jpeg',
     },
     {
+      name: 'Runhan Huang 黄润晗',
+      website: 'https://scholar.google.com/citations?user=7N0VoNsAAAAJ&hl=en',
+      content: 'Runhan Huang was an intern in the lab. He is now a PhD student at Harvard University.',
+      image: 'runhanhuang.jpg',
+    },
+    {
       name: 'Shenzhe Yao 姚屾喆',
       website: '',
       content: 'Shenzhe Yao was a research assistant in the lab.',
