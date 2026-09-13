@@ -388,34 +388,89 @@ const main = {
 
   projects: [
     {
-      title: 'PreSight: Enhancing Autonomous Vehicle Perception with City-Scale NeRF Priors',
-      publisher: 'ECCV 2024',
-      authors: 'Tianyuan Yuan, Yucheng Mao, Jiawei Yang, Yicheng Liu, Yue Wang, Hang Zhao',
-      description: '"A novel framework leverages past traversals to construct static prior, enhancing online perception in later navigations."',
-      paper_link: 'https://arxiv.org/abs/2403.09079',
-      project_link: '',
-      image: 'PreSight.png',
+      title: 'G0.5: One Autoregressive Stream for Reasoning and Action',
+      publisher: 'Technical Report 2026',
+      authors: 'Galaxea Team',
+      description: '"A unified VLA that reasons, plans, and acts in one autoregressive token stream."',
+      paper_link: 'https://arxiv.org/abs/2608.11739',
+      project_link: 'https://opengalaxea.github.io/G05/',
+      image: 'g05_teaser.png',
+      extra_link: [],
+    },
+    {
+      title: 'Fast-WAM: Do World Action Models Need Test-time Future Imagination?',
+      publisher: 'Preprint 2026',
+      authors: 'Tianyuan Yuan, Zibin Dong, Yicheng Liu, Hang Zhao',
+      description: '"Video co-training without test-time future imagination: a real-time world action model at 190 ms latency, 4x+ faster."',
+      paper_link: 'https://arxiv.org/abs/2603.16666',
+      project_link: 'https://yuantianyuan01.github.io/FastWAM/',
+      image: 'fastwam.jpg',
       extra_link: [
         {
-          name: 'Video',
-          link: 'https://www.youtube.com/watch?v=sC3WaLIPCUc',
-        },
-        {
           name: 'Code',
-          link: 'https://github.com/yuantianyuan01/PreSight',
+          link: 'https://github.com/yuantianyuan01/FastWAM',
         },
       ],
     },
     {
-      title: 'Humanoid Parkour Learning',
-      publisher: 'CoRL 2024',
-      authors: 'Ziwen Zhuang, ShenZhe Yao, Hang Zhao',
-      description: '"The first humanoid robot that learns to parkour!"',
-      paper_link: 'https://arxiv.org/abs/2406.10759',
-      project_link: 'https://humanoid4parkour.github.io/',
-      image: 'human_parkour.png',
-      extra_link: [],
+      image: 'slaminf.png',
+      papers: [
+        {
+          title: 'SLAMFormer-∞: Infinite SLAM Transformer for Unbounded Frontend and Backend Processing',
+          publisher: 'Preprint 2026',
+          authors: 'Zhijian Fang, Weicheng Zheng, Yijun Yuan, Weibang Wang, Zhuoguang Chen, Chang Sun, Junhao Huang, Kenan Li, Minghui Qin, Hang Zhao',
+          paper_link: 'https://arxiv.org/abs/2608.03429',
+          project_link: 'https://tsinghua-mars-lab.github.io/SLAMFormer-Infinity/',
+          code_link: 'https://github.com/Tsinghua-MARS-Lab/SLAMFormer-Infinity',
+        },
+        {
+          title: 'SLAM-Former: Putting SLAM into One Transformer',
+          publisher: 'ECCV 2026',
+          authors: 'Yijun Yuan, Zhuoguang Chen, Kenan Li, Weibang Wang, Hang Zhao',
+          paper_link: 'https://arxiv.org/abs/2509.16909',
+          project_link: 'https://tsinghua-mars-lab.github.io/SLAM-Former/',
+          code_link: 'https://github.com/Tsinghua-MARS-Lab/SLAM-Former',
+        },
+      ],
     },
+    {
+      image: 'deep_parkour.gif',
+      papers: [
+        {
+          title: 'Deep Whole-body Parkour',
+          publisher: 'Preprint 2026',
+          authors: 'Ziwen Zhuang*, Shaoting Zhu*, Mengjie Zhao, Hang Zhao',
+          paper_link: 'https://arxiv.org/abs/2601.07701',
+          project_link: 'https://project-instinct.github.io/deep-whole-body-parkour/',
+        },
+        {
+          title: 'Humanoid Parkour Learning',
+          publisher: 'CoRL 2024',
+          authors: 'Ziwen Zhuang, ShenZhe Yao, Hang Zhao',
+          paper_link: 'https://arxiv.org/abs/2406.10759',
+          project_link: 'https://humanoid4parkour.github.io/',
+        },
+      ],
+    },
+    // {
+    //   title: 'PreSight: Enhancing Autonomous Vehicle Perception with City-Scale NeRF Priors',
+    //   publisher: 'ECCV 2024',
+    //   authors: 'Tianyuan Yuan, Yucheng Mao, Jiawei Yang, Yicheng Liu, Yue Wang, Hang Zhao',
+    //   description: '"A novel framework leverages past traversals to construct static prior, enhancing online perception in later navigations."',
+    //   paper_link: 'https://arxiv.org/abs/2403.09079',
+    //   project_link: '',
+    //   image: 'PreSight.png',
+    //   extra_link: [
+    //     {
+    //       name: 'Video',
+    //       link: 'https://www.youtube.com/watch?v=sC3WaLIPCUc',
+    //     },
+    //     {
+    //       name: 'Code',
+    //       link: 'https://github.com/yuantianyuan01/PreSight',
+    //     },
+    //   ],
+    // },
     {
       title: 'DriveVLM: The Convergence of Autonomous Driving and Large Vision-Language Models',
       publisher: 'CoRL 2024',
@@ -427,25 +482,31 @@ const main = {
       extra_link: [],
     },
     {
-      title: 'Latent Consistency Models: Synthesizing High-Resolution Images With Few-Step Inference',
-      publisher: 'arXiv Preprint',
-      authors: 'Simian Luo*, Yiqin Tan*, Longbo Huang†, Jian Li†, Hang Zhao†',
-      description: '"LCMs: The next generation of generative models after Latent Diffusion Models (LDMs)."',
-      paper_link: 'https://arxiv.org/abs/2310.04378',
-      project_link: 'https://latent-consistency-models.github.io',
       image: 'lcm.png',
-      extra_link: [
+      papers: [
         {
-          name: 'Demo',
-          link: 'https://huggingface.co/spaces/SimianLuo/Latent_Consistency_Model',
+          title: 'Latent Consistency Models: Synthesizing High-Resolution Images With Few-Step Inference',
+          publisher: 'arXiv Preprint',
+          authors: 'Simian Luo*, Yiqin Tan*, Longbo Huang†, Jian Li†, Hang Zhao†',
+          paper_link: 'https://arxiv.org/abs/2310.04378',
+          project_link: 'https://latent-consistency-models.github.io',
+          extra_link: [
+            {
+              name: 'Demo',
+              link: 'https://huggingface.co/spaces/SimianLuo/Latent_Consistency_Model',
+            },
+            {
+              name: 'Code',
+              link: 'https://github.com/luosiallen/latent-consistency-model',
+            },
+          ],
         },
         {
-          name: 'Code',
-          link: 'https://github.com/luosiallen/latent-consistency-model',
-        },
-        {
-          name: 'LCM-LoRA Paper',
-          link: 'https://arxiv.org/abs/2311.05556',
+          title: 'LCM-LoRA: A Universal Stable-Diffusion Acceleration Module',
+          publisher: 'arXiv Preprint',
+          authors: 'Simian Luo*, Yiqin Tan*, Suraj Patil, Daniel Gu, Patrick von Platen, Apolinário Passos, Longbo Huang†, Jian Li†, Hang Zhao†',
+          paper_link: 'https://arxiv.org/abs/2311.05556',
+          project_link: 'https://latent-consistency-models.github.io',
         },
       ],
     },
@@ -599,14 +660,14 @@ const main = {
       project_link: 'https://tsinghua-mars-lab.github.io/M2I/',
       image: 'M2I.gif',
     },
-    {
-      title: 'FUTR3D: A Unified Sensor Fusion Framework for 3D Detection',
-      publisher: 'CVPRW 2023',
-      authors: 'Xuanyao Chen, Tianyuan Zhang, Yue Wang, Yilun Wang, Hang Zhao',
-      paper_link: 'https://arxiv.org/abs/2203.10642',
-      project_link: 'https://tsinghua-mars-lab.github.io/futr3d/',
-      image: 'futr3d.png',
-    },
+    // {
+    //   title: 'FUTR3D: A Unified Sensor Fusion Framework for 3D Detection',
+    //   publisher: 'CVPRW 2023',
+    //   authors: 'Xuanyao Chen, Tianyuan Zhang, Yue Wang, Yilun Wang, Hang Zhao',
+    //   paper_link: 'https://arxiv.org/abs/2203.10642',
+    //   project_link: 'https://tsinghua-mars-lab.github.io/futr3d/',
+    //   image: 'futr3d.png',
+    // },
     // {
     //   title: 'MUTR3D: A Multi-camera Tracking Framework via 3D-to-2D Queries',
     //   publisher: 'CVPR Workshop on Autonomous Driving 2022',
@@ -632,9 +693,6 @@ const main = {
       paper_link: 'https://arxiv.org/abs/2107.06307',
       project_link: 'https://tsinghua-mars-lab.github.io/HDMapNet/',
       image: 'hdmapnet_demo.gif',
-      tags: [
-        'hot',
-      ],
     },
     {
       title: 'Neural Dubber: Dubbing for Videos According to Scripts',
@@ -645,13 +703,13 @@ const main = {
       project_link: 'https://tsinghua-mars-lab.github.io/NeuralDubber/',
       image: 'neural_dubber.png',
     },
-    {
-      title: 'What Makes Multi-Modal Learning Better than Single (Provably)',
-      publisher: 'NeurIPS 2021',
-      authors: 'Yu Huang, Chenzhuang Du, Zihui Xue, Xuanyao Chen, Hang Zhao, Longbo Huang',
-      paper_link: 'https://proceedings.neurips.cc/paper/2021/hash/5aa3405a3f865c10f420a4a7b55cbff3-Abstract.html',
-      image: 'mm_better.png',
-    },
+    // {
+    //   title: 'What Makes Multi-Modal Learning Better than Single (Provably)',
+    //   publisher: 'NeurIPS 2021',
+    //   authors: 'Yu Huang, Chenzhuang Du, Zihui Xue, Xuanyao Chen, Hang Zhao, Longbo Huang',
+    //   paper_link: 'https://proceedings.neurips.cc/paper/2021/hash/5aa3405a3f865c10f420a4a7b55cbff3-Abstract.html',
+    //   image: 'mm_better.png',
+    // },
     {
       title: 'DETR3D: 3D Object Detection from Multi-view Images via 3D-to-2D Queries',
       publisher: 'CoRL 2021',
@@ -660,9 +718,6 @@ const main = {
       paper_link: 'https://openreview.net/pdf?id=xHnJS2GYFDz',
       project_link: '',
       image: 'detr3d.jpeg',
-      tags: [
-        'hot',
-      ],
     },
     {
       title: 'On Feature Decorrelation in Self-Supervised Learning',
@@ -672,18 +727,6 @@ const main = {
       paper_link: 'https://openaccess.thecvf.com/content/ICCV2021/html/Hua_On_Feature_Decorrelation_in_Self-Supervised_Learning_ICCV_2021_paper.html',
       project_link: 'https://tsinghua-mars-lab.github.io/decorr/',
       image: 'decorrelation.jpg',
-      tags: [
-        'hot',
-      ],
-    },
-    {
-      title: 'Large Scale Interactive Motion Forecasting for Autonomous Driving: The Waymo Open Motion Dataset',
-      publisher: 'ICCV 2021 Oral',
-      authors: 'Scott Ettinger, Shuyang Cheng, Benjamin Caine, Chenxi Liu, Hang Zhao, Sabeek Pradhan, Yuning Chai, Ben Sapp, Charles Qi, Yin Zhou, Zoey Yang, Aurelien Chouard, Pei Sun, Jiquan Ngiam, Vijay Vasudevan, Alexander McCauley, Jonathon Shlens, Dragomir Anguelov',
-      // description: '"A high-quality interactive motion prediction dataset for autonomous driving!"',
-      paper_link: 'https://openaccess.thecvf.com/content/ICCV2021/html/Ettinger_Large_Scale_Interactive_Motion_Forecasting_for_Autonomous_Driving_The_Waymo_ICCV_2021_paper.html',
-      project_link: 'https://blog.waymo.com/2021/03/expanding-waymo-open-dataset-with-interactive-scenario-data-and-new-challenges.html',
-      image: 'waymo_motion.gif',
     },
     {
       title: 'Multimodal Knowledge Expansion',
@@ -733,9 +776,6 @@ const main = {
       paper_link: 'https://arxiv.org/abs/2008.08294',
       project_link: '',
       image: 'tnt.png',
-      tags: [
-        'hot',
-      ],
     },
     {
       title: 'VectorNet: Encoding HD Maps and Agent Dynamics from Vectorized Representation',
@@ -745,20 +785,29 @@ const main = {
       paper_link: 'https://openaccess.thecvf.com/content_CVPR_2020/papers/Gao_VectorNet_Encoding_HD_Maps_and_Agent_Dynamics_From_Vectorized_Representation_CVPR_2020_paper.pdf',
       project_link: 'https://blog.waymo.com/2020/05/vectornet.html',
       image: 'vectornet.gif',
-      tags: [
-        'hot',
-      ],
     },
     {
-      title: 'Scalability in Perception for Autonomous Driving: Waymo Open Dataset',
-      publisher: 'CVPR 2020',
-      authors: 'Pei Sun, Henrik Kretzschmar, Xerxes Dotiwalla, Aurelien Chouard, Vijaysai Patnaik, Paul Tsui, James Guo, Yin Zhou, Yuning Chai, Benjamin Caine, Vijay Vasudevan, Wei Han, Jiquan Ngiam, Hang Zhao, Aleksei Timofeev, Scott Ettinger, Maxim Krivokon, Amy Gao, Aditya Joshi, Sheng Zhao, Shuyang Cheng, Yu Zhang, Jonathon Shlens, Zhifeng Chen, Dragomir Anguelov',
-      // description: '"One of the largest and most diverse autonomous driving datasets ever released!"',
-      paper_link: 'https://arxiv.org/abs/1912.04838',
-      project_link: 'https://waymo.com/open/',
       image: 'waymo_od_challenge.jpeg',
-      tags: [
-        'hot',
+      papers: [
+        {
+          title: 'Scalability in Perception for Autonomous Driving: Waymo Open Dataset',
+          publisher: 'CVPR 2020',
+          authors: 'Pei Sun et al.',
+          paper_link: 'https://arxiv.org/abs/1912.04838',
+          project_link: 'https://waymo.com/open/',
+        },
+        {
+          title: 'Large Scale Interactive Motion Forecasting for Autonomous Driving: The Waymo Open Motion Dataset',
+          publisher: 'ICCV 2021 Oral',
+          authors: 'Scott Ettinger et al.',
+          paper_link: 'https://openaccess.thecvf.com/content/ICCV2021/html/Ettinger_Large_Scale_Interactive_Motion_Forecasting_for_Autonomous_Driving_The_Waymo_ICCV_2021_paper.html',
+          extra_link: [
+            {
+              name: 'Waymo Blog',
+              link: 'https://blog.waymo.com/2021/03/expanding-waymo-open-dataset-with-interactive-scenario-data-and-new-challenges.html',
+            },
+          ],
+        },
       ],
     },
     // {
@@ -805,9 +854,6 @@ const main = {
       paper_link: 'https://arxiv.org/abs/1804.03160',
       project_link: 'http://sound-of-pixels.csail.mit.edu/',
       image: 'sound_of_pixels.png',
-      tags: [
-        'hot',
-      ],
     },
     // {
     //   title: 'RF-Based 3D Skeletons',
@@ -826,9 +872,6 @@ const main = {
       paper_link: 'https://openaccess.thecvf.com/content_cvpr_2018/papers/Zhao_Through-Wall_Human_Pose_CVPR_2018_paper.pdf',
       project_link: 'http://rfpose.csail.mit.edu/',
       image: 'rf-pose.png',
-      tags: [
-        'hot',
-      ],
     },
     // {
     //   title: 'Open Vocabulary Scene Parsing',
@@ -840,29 +883,31 @@ const main = {
     //   image: 'openvoc.png',
     // },
     {
-      title: 'Scene Parsing through ADE20K Dataset',
-      publisher: 'CVPR 2017',
-      authors: 'Bolei Zhou, Hang Zhao, Xavier Puig, Sanja Fidler, Adela Barriuso, Antonio Torralba',
-      description: '"The most widely used scene parsing dataset."',
-      paper_link: 'http://people.csail.mit.edu/bzhou/publication/scene-parse-camera-ready.pdf',
-      code_link: 'https://github.com/CSAILVision/semantic-segmentation-pytorch',
-      extra_link: [
-        {
-          name: 'Paper (IJCV 2018)',
-          link: 'https://link.springer.com/article/10.1007/s11263-018-1140-0',
-        },
-        {
-          name: 'Full Dataset',
-          link: 'http://groups.csail.mit.edu/vision/datasets/ADE20K/',
-        },
-        {
-          name: 'MIT Scene Parsing Benchmark',
-          link: 'http://sceneparsing.csail.mit.edu/',
-        },
-      ],
       image: 'sceneparsing_cvpr2017.png',
-      tags: [
-        'hot',
+      papers: [
+        {
+          title: 'Scene Parsing through ADE20K Dataset',
+          publisher: 'CVPR 2017',
+          authors: 'Bolei Zhou, Hang Zhao, Xavier Puig, Sanja Fidler, Adela Barriuso, Antonio Torralba',
+          paper_link: 'http://people.csail.mit.edu/bzhou/publication/scene-parse-camera-ready.pdf',
+          code_link: 'https://github.com/CSAILVision/semantic-segmentation-pytorch',
+          extra_link: [
+            {
+              name: 'Full Dataset',
+              link: 'http://groups.csail.mit.edu/vision/datasets/ADE20K/',
+            },
+            {
+              name: 'MIT Scene Parsing Benchmark',
+              link: 'http://sceneparsing.csail.mit.edu/',
+            },
+          ],
+        },
+        {
+          title: 'Semantic Understanding of Scenes through the ADE20K Dataset',
+          publisher: 'IJCV 2018',
+          authors: 'Bolei Zhou, Hang Zhao, Xavier Puig, Tete Xiao, Sanja Fidler, Adela Barriuso, Antonio Torralba',
+          paper_link: 'https://link.springer.com/article/10.1007/s11263-018-1140-0',
+        },
       ],
     },
     {
@@ -891,9 +936,6 @@ const main = {
       paper_link: 'http://people.csail.mit.edu/hangzhao/papers/moduloUHDR.pdf',
       project_link: 'http://web.media.mit.edu/~hangzhao/modulo.html',
       image: 'moduloHDR.png',
-      tags: [
-        'hot',
-      ],
     },
     // {
     //   title: '',
