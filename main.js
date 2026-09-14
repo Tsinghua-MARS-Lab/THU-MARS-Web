@@ -169,6 +169,12 @@ const main = {
       image: 'gujunru.png',
     },
     {
+      name: 'Chenzhuang Du 杜晨壮',
+      website: 'https://scholar.google.com/citations?user=VoF-UAEAAAAJ&hl=en',
+      content: 'Chenzhuang Du got his MS degree 2024 from the lab. He is now at Moonshot AI.',
+      image: 'chenzhuang.jpeg',
+    },
+    {
       name: 'Wenxiao Wang 汪文潇',
       website: 'https://wangwenxiao.github.io/',
       content: 'Wenxiao Wang was a MS student from 2020 to 2021. He is now a PhD student at University of Maryland.',
@@ -329,12 +335,6 @@ const main = {
       website: 'https://luosiallen.github.io',
       content: 'Simian Luo was a MS student in the lab. He is now starting his own company.',
       image: 'lsm.jpg',
-    },
-    {
-      name: 'Chenzhuang Du 杜晨壮',
-      website: 'https://scholar.google.com/citations?user=VoF-UAEAAAAJ&hl=en',
-      content: 'Chenzhuang Du got his MS degree 2024 from the lab. He is now at Moonshot AI.',
-      image: 'chenzhuang.jpeg',
     },
     {
       name: 'Jianwei Ren 任建玮',
