@@ -367,12 +367,6 @@ const main = {
       image: 'kenan.jpeg',
     },
     {
-      name: 'Zeming Chen 陈泽明',
-      website: '',
-      content: 'Zeming Chen was a research assistant in the lab.',
-      image: 'kenan.jpeg',
-    },
-    {
       name: 'Zhuoguang Chen 陈卓光',
       website: '',
       content: 'Zhuoguang Chen was a research assistant in the lab. He is now a PhD student at Hong Kong University.',
