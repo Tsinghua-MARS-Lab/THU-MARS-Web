@@ -37,7 +37,7 @@ const main = {
   ],
 
   about_our_leader: [
-    'Dr. Hang Zhao (赵行) is an Assistant Professor at IIIS, Tsinghua University. His research interests include multi-modal machine learning, robotics and autonomous driving.',
+    'Dr. Hang Zhao (赵行) is an Assistant Professor at IIIS, Tsinghua University and a Principle Researcher at Shanghai Qi Zhi Institute. He is also a co-founder of Galaxea AI. His research interests include multi-modal machine learning, robotics and autonomous driving.',
     'Dr. Zhao was formerly a Research Scientist at Waymo (known as Google\'s self-driving project). Before that, he got his Ph.D. degree at MIT under the supervision of Professor Antonio Torralba.'
   ],
 
