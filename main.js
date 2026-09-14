@@ -49,12 +49,6 @@ const main = {
       image: 'kenan.jpeg',
     },
     {
-      name: 'Junru Gu 辜俊儒',
-      website: 'https://github.com/GentleSmile',
-      content: 'Junru Gu is a PhD student starting from 2021. He is interested in autonomous driving.',
-      image: 'gujunru.png',
-    },
-    {
       name: 'Chenxu Hu 胡晨旭',
       website: 'https://huchenxucs.github.io/',
       content: 'Chenxu Hu is a PhD student starting from 2021. He is interested in multi-modal learning, across vision, language and audio.',
@@ -168,6 +162,12 @@ const main = {
   ],
 
   alumni: [
+    {
+      name: 'Junru Gu 辜俊儒',
+      website: 'https://github.com/GentleSmile',
+      content: 'Junru Gu got his PhD from the lab in 2026. He is now a researcher at Huawei self-driving.',
+      image: 'gujunru.png',
+    },
     {
       name: 'Wenxiao Wang 汪文潇',
       website: 'https://wangwenxiao.github.io/',
