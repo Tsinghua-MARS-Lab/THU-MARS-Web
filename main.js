@@ -944,6 +944,48 @@ const main = {
 
   publications: [
     {
+      title: 'SLAMFormer-∞: Infinite SLAM Transformer for Unbounded Frontend and Backend Processing',
+      publisher: 'arXiv:2608.03429',
+      authors: 'Zhijian Fang, Weicheng Zheng, Yijun Yuan, Weibang Wang, Zhuoguang Chen, Changming Sun, Jun Huang, Kenan Li, Minghui Qin, Hang Zhao',
+      paper_link: 'https://arxiv.org/abs/2608.03429',
+    },
+    {
+      title: 'G0.5: One Autoregressive Stream for Robot Reasoning and Action',
+      publisher: 'arXiv:2608.11739',
+      authors: 'Yicheng Liu, Zibin Dong, Baijun Ye, Tianyuan Yuan, et al.',
+      paper_link: 'https://arxiv.org/abs/2608.11739',
+    },
+    {
+      title: 'Gen-NCAP: A Generative Simulator for Corner Case Benchmarking in End-to-End Autonomous Driving',
+      publisher: 'IASEAI 2026',
+      authors: 'Gen Li, Nan Wang, YunLong Li, et al.',
+      paper_link: 'https://ojs.aaai.org/index.php/IASEAI/article/view/43038',
+    },
+    {
+      title: 'TopoRetarget: Interaction-Preserving Retargeting for Dexterous Manipulation',
+      publisher: 'arXiv:2606.16272',
+      authors: 'Jielin Wu, Shenzhe Yao, Guanqi He, Xiaohan Liu, Zhaoqing Zeng, Xiangrui Jiang, Han Yang, Wentao Zhang, Hang Zhao',
+      paper_link: 'https://arxiv.org/abs/2606.16272',
+    },
+    {
+      title: 'OMG: Omni-Modal Motion Generation for Generalist Humanoid Control',
+      publisher: 'arXiv:2606.10340',
+      authors: 'Siqiao Huang, Kun-Ying Lee, Dongming Qiao, Guanqi He, Zhenyu Wang, Yitang Li, Shaoting Zhu, Hang Zhao',
+      paper_link: 'https://arxiv.org/abs/2606.10340',
+    },
+    {
+      title: 'DriveMA: Driving Vision-Language-Action Models with Verifiable Meta-Actions',
+      publisher: 'arXiv:2605.31271',
+      authors: 'Weicheng Zheng, Yixin Huang, Qiao Sun, Derun Li, Hang Zhao',
+      paper_link: 'https://arxiv.org/abs/2605.31271',
+    },
+    {
+      title: 'Re:Form - Reducing Human Priors in Scalable Formal Software Verification with RL in LLMs: A Preliminary Study on Dafny',
+      publisher: 'TMLR 2026',
+      authors: 'Chuanhao Yan, Fengdi Che, Xuhan Huang, Xu Xu, Xin Li, Yizhi Li, Xingwei Qu, Jingzhe Shi, Chenghua Lin, Yaodong Yang, Binhang Yuan, Hang Zhao, Yu Qiao, Bowen Zhou, Jie Fu',
+      paper_link: 'https://arxiv.org/abs/2507.16331',
+    },
+    {
       title: 'Fast-WAM: Do World Action Models Need Test-time Future Imagination?',
       publisher: 'arXiv:2603.16666',
       authors: 'Tianyuan Yuan, Zibin Dong, Yicheng Liu, Hang Zhao',
@@ -978,6 +1020,54 @@ const main = {
       publisher: 'arXiv:2601.07701',
       authors: 'Ziwen Zhuang, Shaoting Zhu, Mengjie Zhao, Hang Zhao',
       paper_link: 'https://arxiv.org/abs/2601.07701',
+    },
+    {
+      title: 'DAP: A Discrete-token Autoregressive Planner for Autonomous Driving',
+      publisher: 'arXiv:2511.13306',
+      authors: 'Bowen Ye, Bin Zhang, Hang Zhao',
+      paper_link: 'https://arxiv.org/abs/2511.13306',
+    },
+    {
+      title: 'Impromptu VLA: Open Weights and Open Data for Driving Vision-Language-Action Models',
+      publisher: 'NeurIPS 2025',
+      authors: 'Haohan Chi, Huan-ang Gao, et al.',
+      paper_link: 'https://arxiv.org/abs/2505.23757',
+    },
+    {
+      title: 'Conditioning Matters: Training Diffusion Policies is Faster Than You Think',
+      publisher: 'NeurIPS 2025',
+      authors: 'Zibin Dong, Yicheng Liu, Yinchuan Li, Hang Zhao, Jianye Hao',
+      paper_link: 'https://arxiv.org/abs/2505.11123',
+    },
+    {
+      title: 'OccVLA: Vision-Language-Action Model with Implicit 3D Occupancy Supervision',
+      publisher: 'arXiv:2509.05578',
+      authors: 'Ruixun Liu, Lingyu Kong, Derun Li, Hang Zhao',
+      paper_link: 'https://arxiv.org/abs/2509.05578',
+    },
+    {
+      title: 'Challenger: Affordable Adversarial Driving Video Generation',
+      publisher: 'arXiv:2505.15880',
+      authors: 'Zhiyuan Xu, Bohan Li, Huan-ang Gao, Mingju Gao, Yong Chen, Ming Liu, Chenxu Yan, Hang Zhao, Shuo Feng, Hao Zhao',
+      paper_link: 'https://arxiv.org/abs/2505.15880',
+    },
+    {
+      title: 'Learning Personalized Driving Styles via Reinforcement Learning from Human Feedback',
+      publisher: 'arXiv:2503.10434',
+      authors: 'Derun Li, Changye Li, Yue Wang, Jianwei Ren, Xin Wen, Pengxiang Li, Leimeng Xu, Kun Zhan, Peng Jia, Xianpeng Lang, Ningyi Xu, Hang Zhao',
+      paper_link: 'https://arxiv.org/abs/2503.10434',
+    },
+    {
+      title: 'VR-Robo: A Real-to-Sim-to-Real Framework for Visual Robot Navigation and Locomotion',
+      publisher: 'IEEE RA-L 2025',
+      authors: 'Shaoting Zhu, Linzhan Mou, Derun Li, Baijun Ye, Runhan Huang, Hang Zhao',
+      paper_link: 'https://arxiv.org/abs/2502.01536',
+    },
+    {
+      title: 'SPACE: Speaker Adaptation for Acoustic Eavesdropping using mmWave Radio Signals',
+      publisher: 'IEEE TMC 2025',
+      authors: 'Running Zhao, Luca Jiang-Tao Yu, Tingle Li, Zhihan Jiang, Chenwei Zhang, Chenshu Wu, Hang Zhao, Edith C.H. Ngai',
+      paper_link: 'https://ieeexplore.ieee.org/document/11123722/',
     },
     {
       title: 'SLAM-Former: Putting SLAM into One Transformer',
@@ -1040,7 +1130,7 @@ const main = {
       paper_link: 'https://arxiv.org/abs/2510.13375',
     },
     {
-      title: 'Galaxy Open-World Dataset and G0 Dual-System VLA Model',
+      title: 'Galaxea Open-World Dataset and G0 Dual-System VLA Model',
       publisher: 'ICRA 2026',
       authors: 'Tao Jiang, Tianyuan Yuan, Yicheng Liu, Chenhao Lu, Jianning Cui, Xiao Liu, Shuiqi Cheng, Jiyang Gao, Huazhe Xu, Hang Zhao',
       paper_link: 'https://arxiv.org/abs/2509.00576',
