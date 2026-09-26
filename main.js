@@ -11,7 +11,6 @@ const main = {
     'banner_robot.jpg',
     'VCAD.jpg',
     'banner1.jpg',
-    'banner2.jpg',
   ],
 
   overview_of_research_directions: [
