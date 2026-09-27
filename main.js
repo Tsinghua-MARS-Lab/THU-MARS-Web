@@ -963,7 +963,7 @@ const main = {
     },
     {
       title: 'TopoRetarget: Interaction-Preserving Retargeting for Dexterous Manipulation',
-      publisher: 'arXiv:2606.16272',
+      publisher: 'CoRL 2026',
       authors: 'Jielin Wu, Shenzhe Yao, Guanqi He, Xiaohan Liu, Zhaoqing Zeng, Xiangrui Jiang, Han Yang, Wentao Zhang, Hang Zhao',
       paper_link: 'https://arxiv.org/abs/2606.16272',
     },
@@ -975,7 +975,7 @@ const main = {
     },
     {
       title: 'DriveMA: Driving Vision-Language-Action Models with Verifiable Meta-Actions',
-      publisher: 'arXiv:2605.31271',
+      publisher: 'CoRL 2026',
       authors: 'Weicheng Zheng, Yixin Huang, Qiao Sun, Derun Li, Hang Zhao',
       paper_link: 'https://arxiv.org/abs/2605.31271',
     },
@@ -1005,21 +1005,45 @@ const main = {
     },
     {
       title: 'ActionCodec: What Makes for Good Action Tokenizers',
-      publisher: 'arXiv:2602.15397',
+      publisher: 'CoRL 2026',
       authors: 'Zibin Dong, Yicheng Liu, Shiduo Zhang, Baijun Ye, Yifu Yuan, Fei Ni, Jingjing Gong, Xipeng Qiu, Hang Zhao, Yinchuan Li, Jianye Hao',
       paper_link: 'https://arxiv.org/abs/2602.15397',
     },
     {
       title: 'TTT-Parkour: Rapid Test-Time Training for Perceptive Robot Parkour',
-      publisher: 'arXiv:2602.02331',
+      publisher: 'CoRL 2026',
       authors: 'Shaoting Zhu, Baijun Ye, Jiaxu Wang, Jiaqi Chen, Ziwen Zhuang, Linxin Mou, Runhan Huang, Hang Zhao',
       paper_link: 'https://arxiv.org/abs/2602.02331',
     },
     {
       title: 'Hiking in the Wild: A Scalable Perceptive Parkour Framework for Humanoids',
-      publisher: 'arXiv:2601.07718',
+      publisher: 'CoRL 2026',
       authors: 'Shaoting Zhu, Ziwen Zhuang, Mengjie Zhao, Kun-Ying Lee, Hang Zhao',
       paper_link: 'https://arxiv.org/abs/2601.07718',
+    },
+    {
+      title: 'Coarse-to-Control: Action-Token Planning for Vision-Language-Action Models',
+      publisher: 'CoRL 2026',
+      authors: 'Jinhao Wu, Shiduo Zhang, Yicheng Liu, Xiaopeng Yu, Sixian Li, Siyin Wang, Hang Zhao, Jingjing Gong, Xipeng Qiu',
+      paper_link: 'https://openreview.net/forum?id=tegLlXBRCU',
+    },
+    {
+      title: 'Echo in the Steps: Learning Perceptive Humanoid Parkour with Gated Memory',
+      publisher: 'CoRL 2026',
+      authors: 'Ming-Ju Lee, Zizhuo Wang, Shaoting Zhu, Haozhe Lou, Hang Zhao, Yiming Li',
+      paper_link: 'https://openreview.net/forum?id=eioQ9vJ6Oj',
+    },
+    {
+      title: 'TactileStep: Sole Tactile Learning for Regulating Foot-Terrain Interaction in Humanoid Locomotion',
+      publisher: 'CoRL 2026',
+      authors: 'Zizhuo Wang, Ming-Ju Lee, Shaoting Zhu, Haozhe Lou, Hang Zhao, Yiming Li',
+      paper_link: 'https://openreview.net/forum?id=aGLO1l8SNB',
+    },
+    {
+      title: 'DexNinja: Learning Robust Dexterous Cutting Policy with a Real-to-Sim-to-Real Data Engine',
+      publisher: 'CoRL 2026',
+      authors: 'Haozhe Lou, Runyi Yang, Wanqi Zhong, et al.',
+      paper_link: 'https://openreview.net/forum?id=sIe2LX2HaF',
     },
     {
       title: 'Deep Whole-body Parkour',
