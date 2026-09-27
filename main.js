@@ -393,7 +393,7 @@ const main = {
     },
     {
       title: 'Fast-WAM: Do World Action Models Need Test-time Future Imagination?',
-      publisher: 'Preprint 2026',
+      publisher: 'NeurIPS 2026 (Oral)',
       authors: 'Tianyuan Yuan, Zibin Dong, Yicheng Liu, Hang Zhao',
       description: '"Video co-training without test-time future imagination: a real-time world action model at 190 ms latency, 4x+ faster."',
       paper_link: 'https://arxiv.org/abs/2603.16666',
@@ -987,13 +987,19 @@ const main = {
     },
     {
       title: 'Fast-WAM: Do World Action Models Need Test-time Future Imagination?',
-      publisher: 'arXiv:2603.16666',
+      publisher: 'NeurIPS 2026 (Oral)',
       authors: 'Tianyuan Yuan, Zibin Dong, Yicheng Liu, Hang Zhao',
       paper_link: 'https://arxiv.org/abs/2603.16666',
     },
     {
+      title: 'Rethinking Causal Action Tokenization with Condition Annealing in Flow Matching',
+      publisher: 'NeurIPS 2026 (Poster)',
+      authors: 'Chenyu Zhang, Yuhang Cao, Yingxi Lu, Daru Du, Jing Shao, Jiajun Liu, Ruoqu Chen, Liu Cao, Yicheng Liu, Hang Zhao, Mengdi Xu',
+      paper_link: 'https://causalactiontokenizer.github.io/',
+    },
+    {
       title: 'Generative Control as Optimization: Time Unconditional Flow Matching for Adaptive and Robust Robotic Control',
-      publisher: 'arXiv:2603.17834',
+      publisher: 'NeurIPS 2026 (Poster)',
       authors: 'Zunzhe Zhang, Runhan Huang, Yicheng Liu, Shaoting Zhu, Linzhan Mou, Hang Zhao',
       paper_link: 'https://arxiv.org/abs/2603.17834',
     },
