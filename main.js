@@ -999,13 +999,13 @@ const main = {
     },
     {
       title: 'Rethinking Causal Action Tokenization with Condition Annealing in Flow Matching',
-      publisher: 'NeurIPS 2026 (Poster)',
+      publisher: 'NeurIPS 2026',
       authors: 'Chenyu Zhang, Yuhang Cao, Yingxi Lu, Daru Du, Jing Shao, Jiajun Liu, Ruoqu Chen, Liu Cao, Yicheng Liu, Hang Zhao, Mengdi Xu',
       paper_link: 'https://causalactiontokenizer.github.io/',
     },
     {
       title: 'Generative Control as Optimization: Time Unconditional Flow Matching for Adaptive and Robust Robotic Control',
-      publisher: 'NeurIPS 2026 (Poster)',
+      publisher: 'NeurIPS 2026',
       authors: 'Zunzhe Zhang, Runhan Huang, Yicheng Liu, Shaoting Zhu, Linzhan Mou, Hang Zhao',
       paper_link: 'https://arxiv.org/abs/2603.17834',
     },
