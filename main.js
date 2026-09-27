@@ -944,6 +944,12 @@ const main = {
 
   publications: [
     {
+      title: 'OpenWAM: An Open, Modular Exploration Towards Systematic World-Action Model Pretraining',
+      publisher: 'Technical Report 2026',
+      authors: 'Yuran Wang, Siqiao Huang, Mingleyang Li, et al.',
+      paper_link: 'https://arxiv.org/abs/2609.07398',
+    },
+    {
       title: 'SLAMFormer-∞: Infinite SLAM Transformer for Unbounded Frontend and Backend Processing',
       publisher: 'arXiv:2608.03429',
       authors: 'Zhijian Fang, Weicheng Zheng, Yijun Yuan, Weibang Wang, Zhuoguang Chen, Changming Sun, Jun Huang, Kenan Li, Minghui Qin, Hang Zhao',
