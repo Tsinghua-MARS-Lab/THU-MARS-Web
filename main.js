@@ -44,7 +44,7 @@ const main = {
   graduate_students: [
     {
       name: 'Yijun Yuan 元祎君',
-      website: 'https://yijunyuan.github.io/',
+      website: 'https://jarrome.github.io/',
       content: 'Yijun Yuan is a PostDoctoral researcher starting from 2024. He is interested in SLAM and robotics.',
       image: 'yijunyuan.jpg',
     },
