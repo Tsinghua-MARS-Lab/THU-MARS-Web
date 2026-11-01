@@ -44,9 +44,9 @@ const main = {
   graduate_students: [
     {
       name: 'Yijun Yuan 元祎君',
-      website: '',
+      website: 'https://yijunyuan.github.io/',
       content: 'Yijun Yuan is a PostDoctoral researcher starting from 2024. He is interested in SLAM and robotics.',
-      image: 'kenan.jpeg',
+      image: 'yijunyuan.jpg',
     },
     {
       name: 'Chenxu Hu 胡晨旭',
@@ -104,9 +104,9 @@ const main = {
     },
     {
       name: 'Guanqi He 贺贯齐',
-      website: '',
+      website: 'https://guanqihe.github.io/',
       content: 'Guanqi He is a PhD student starting from 2025. He is interested in robotics.',
-      image: 'kenan.jpeg',
+      image: 'guanqihe.jpg',
     },
     {
       name: 'Minghui Qin 秦明辉',
@@ -122,9 +122,9 @@ const main = {
     },
     {
       name: 'Zibin Dong 董子斌',
-      website: '',
+      website: 'https://zibindong.github.io/',
       content: 'Zibin Dong is a PhD student starting from 2026. He is interested in robot learning.',
-      image: 'kenan.jpeg',
+      image: 'zibindong.jpg',
     },
     {
       name: 'Weicheng Zheng 郑伟丞',
