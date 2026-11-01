@@ -118,7 +118,7 @@ const main = {
       name: 'Xiangting Meng 孟相汀',
       website: '',
       content: 'Xiangting Meng is a PhD student starting from 2025. He is interested in 3D vision.',
-      image: 'kenan.jpeg',
+      image: 'xiangtingmeng.jpg',
     },
     {
       name: 'Zibin Dong 董子斌',
