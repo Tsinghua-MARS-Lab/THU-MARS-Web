@@ -128,9 +128,9 @@ const main = {
     },
     {
       name: 'Weicheng Zheng 郑伟丞',
-      website: '',
+      website: 'https://wczheng.github.io/',
       content: 'Weicheng Zheng is a PhD student starting from 2026. He is interested in multimodal learning and autonomous driving.',
-      image: 'kenan.jpeg',
+      image: 'weichengzheng.jpg',
     },
     {
       name: 'Min-Ju Lee 李旻儒',
