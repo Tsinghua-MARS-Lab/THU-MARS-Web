@@ -378,9 +378,31 @@ const main = {
       content: 'Kenan Li was a research assistant in the lab. He is now a PhD student at Hong Kong University.',
       image: 'kenan.jpeg',
     },
+    {
+      name: 'Chuan Qin 秦川',
+      website: 'https://scholar.google.com/citations?hl=zh-CN&user=iKF3Gh4AAAAJ',
+      content: 'Chuan Qin was a visiting PhD student in the lab. He is a PhD student at the University of Melbourne.',
+      image: 'chuan_qin.jpg',
+    },
   ],
 
   projects: [
+    {
+      title: 'WB-WAM: Heterogeneous Body-Hand Pre-training for Humanoid Loco-Manipulation',
+      publisher: 'Preprint 2026',
+      authors: 'Chuan Qin*, Shaoting Zhu*, Siyuan Luo, Siqiao Huang, Hongyu Zhao, Shanaka Baduge, Hang Zhao',
+      description: '"Learning humanoid whole-body manipulation through joint video-action pre-training with heterogeneous body and hand motion data."',
+      paper_link: 'https://arxiv.org/abs/2609.34199',
+      project_link: 'https://wb-wam.github.io/',
+      code_link: 'https://github.com/WB-WaM/WB-WAM-Official',
+      image: 'wb_wam.jpg',
+      extra_link: [
+        {
+          name: 'Data & Model',
+          link: 'https://huggingface.co/WB-WAM',
+        },
+      ],
+    },
     {
       title: 'G0.5: One Autoregressive Stream for Reasoning and Action',
       publisher: 'Technical Report 2026',
@@ -944,6 +966,36 @@ const main = {
 
   publications: [
     {
+      title: 'EqC: Equilibrium Energy Control for Introspective Lifelong Robot Learning',
+      publisher: 'arXiv:2610.18790',
+      authors: 'Haodong Yang, Runhan Huang, Bowen Zhang, Iofai Lei, Zunzhe Zhang, Xiangcheng Zhang, Shaoting Zhu, Linzhan Mou, Yicheng Liu, Hang Zhao',
+      paper_link: 'https://arxiv.org/abs/2610.18790',
+    },
+    {
+      title: 'WB-WAM: Heterogeneous Body-Hand Pre-training for Humanoid Loco-Manipulation',
+      publisher: 'arXiv:2609.34199',
+      authors: 'Chuan Qin, Shaoting Zhu, Siyuan Luo, Siqiao Huang, Hongyu Zhao, Shanaka Baduge, Hang Zhao',
+      paper_link: 'https://arxiv.org/abs/2609.34199',
+    },
+    {
+      title: 'World SLAM Model: Joint World Modeling for SLAM and Navigation',
+      publisher: 'arXiv:2609.32626',
+      authors: 'Minghui Qin, Yijun Yuan, Weicheng Zheng, Kenan Li, Weibang Wang, Chang Sun, Junhao Huang, Anmin Liu, Yicheng Yao, Hang Zhao',
+      paper_link: 'https://arxiv.org/abs/2609.32626',
+    },
+    {
+      title: 'Representation World Model: Learning States, Transition and Executable Plans in Representation',
+      publisher: 'arXiv:2609.29171',
+      authors: 'Yijun Yuan, Weicheng Zheng, Weibang Wang, Minghui Qin, Chang Sun, Junhao Huang, Kenan Li, Anmin Liu, Yicheng Yao, Hang Zhao',
+      paper_link: 'https://arxiv.org/abs/2609.29171',
+    },
+    {
+      title: 'MSK-Bench: Benchmarking Full-Body Musculoskeletal Motor Control Across Tasks, Control Paradigms, and Physiological Metrics',
+      publisher: 'arXiv:2609.26872',
+      authors: 'Mengtao Ou, Zongzheng Zhang, Zhenghao Xiao, Yixuan Pan, Ziwen Zhuang, Hang Zhao, Hongyang Li, Yanan Sui, Libin Liu, Hao Zhao',
+      paper_link: 'https://arxiv.org/abs/2609.26872',
+    },
+    {
       title: 'OpenWAM: An Open, Modular Exploration Towards Systematic World-Action Model Pretraining',
       publisher: 'Technical Report 2026',
       authors: 'Yuran Wang, Siqiao Huang, Mingleyang Li, et al.',
@@ -968,10 +1020,28 @@ const main = {
       paper_link: 'https://ojs.aaai.org/index.php/IASEAI/article/view/43038',
     },
     {
+      title: 'Automated Synthesis of Facial Mechanisms for Conversational Animatronic Robots',
+      publisher: 'arXiv:2607.11688',
+      authors: 'Zongzheng Zhang, Zi Lin, Jiawen Yang, Ziqiao Peng, Junyan Lao, Lin Cheng, Huazhe Xu, Hang Zhao, Hao Zhao',
+      paper_link: 'https://arxiv.org/abs/2607.11688',
+    },
+    {
+      title: 'Agent-driven Long-tail Simulation for Autonomous Driving',
+      publisher: 'arXiv:2607.04331',
+      authors: 'Junru Gu, Lijin Yang, Jianing Huang, Shu Liu, Zhongzhan Huang, Hang Zhao',
+      paper_link: 'https://arxiv.org/abs/2607.04331',
+    },
+    {
       title: 'TopoRetarget: Interaction-Preserving Retargeting for Dexterous Manipulation',
       publisher: 'CoRL 2026',
       authors: 'Jielin Wu, Shenzhe Yao, Guanqi He, Xiaohan Liu, Zhaoqing Zeng, Xiangrui Jiang, Han Yang, Wentao Zhang, Hang Zhao',
       paper_link: 'https://arxiv.org/abs/2606.16272',
+    },
+    {
+      title: 'Is Your Trajectory Displacement Safe in Long-tail?',
+      publisher: 'arXiv:2606.16313',
+      authors: 'Qiao Sun, Weicheng Zheng, Yixin Huang, Hang Zhao',
+      paper_link: 'https://arxiv.org/abs/2606.16313',
     },
     {
       title: 'OMG: Omni-Modal Motion Generation for Generalist Humanoid Control',
